@@ -1,0 +1,29 @@
+2025 Update of the EU Control List of Dual-Use Items
+On 8 September 2025, the European Commission adopted a Delegated Regulation updating the EU dual-use export control list in Annex I of Regulation (EU) 2021/821.
+
+News article
+8 September 2025BrusselsDirectorate-General for Trade and Economic Security2 min read
+The update brings the list in line with decisions taken in the multilateral Export Control Regime's Wassenaar Arrangement (WA), Missile Technology Control Regime (MTCR), Australia Group (AG) and Nuclear Supplier Group (NSG) in 2024. It also includes commitments that Member States have accepted, as members of the Wassenaar Arrangement, to control additional items uniformly. 
+
+The update ensures further effective EU-level controls of new technologies, thus contributing to security in the trade of dual-use items in line with the 2024 White Paper on Export Controls. Uniform EU-level controls guarantee effectiveness and transparency while maintaining the Union’s competitiveness and a level-playing-field for economic operators. 
+
+Specifically, this update of the EU control list provides for the addition of new dual-use items, including: 
+
+Controls related to quantum technology (e.g. quantum computers, electronic components designed to work at cryogenic temperatures, parametric signal amplifiers, cryogenic cooling systems, cryogenic wafer probers);
+Semiconductor manufacturing and testing equipment and materials (e.g. Atomic Layer Deposition equipment, equipment and materials for epitaxial deposition, lithography equipment, Extreme Ultra-Violet pellicles, masks and reticles, Scanning Electron Microscope equipment, etching equipment);
+Advanced computing integrated circuits and electronic assemblies such as Field Programmable Logic Devices and Systems;
+Coatings for high temperature applications;
+Additive manufacturing machines and related materials (e.g. inoculants for powders);
+Peptide synthesisers, and;
+Modification of certain control parameters and update of certain technical definitions and descriptions.
+The updated EU control list enters into force after the usual two-month scrutiny period for the Council and the European Parliament.
+
+Background
+Export control of dual use items in the EU is based on a common list of dual-use items (‘EU control list’) that must be controlled in all Member States. This list – Annex I of the EU’s Dual Use Regulation – is typically amended at least once each year via a Delegated Act based on decisions and commitments taken within the framework of the international non-proliferation regimes and export control arrangements. 
+
+The EU considers that a multilateral approach to export controls is the most effective for protecting international security and supporting a global level-playing field. EU export controls for dual-use items are a key tool for international peace and security as well as the protection of human rights. 
+
+For more information
+Delegated Regulation
+
+Comprehensive Change Note Summary – Update 2025: An overview of changes to the EU Dual-Use Control List across the 10 categories of Annex I

@@ -1,0 +1,49 @@
+Iraq: New Regulations Issued for 446 MHz PMR Frequency Band
+Home
+/
+Country Update
+/
+Iraq: New Regulations Issued for 446 MHz PMR Frequency Band
+December 17, 2025
+Iraq’s Communications and Media Commission (CMC) has released its first edition of regulations governing the use of the 446.0 to 446.2 MHz frequency band. Effective as of September 22, 2025, the regulation establishes technical, administrative, and legal conditions for operating short-range communication equipment, specifically Personal Mobile Radio (PMR446) devices.
+
+Iraq pointed out on world country map
+Frequency Band Allocation and Technical Use
+The 446.0–446.2 MHz band is designated for unlicensed, short-duration voice communication using 446PMR devices. Key technical specifications include:
+
+Maximum power output of 0.5 W ERP
+
+Channel bandwidth of 12.5 kHz
+
+A total of 16 available frequency channels
+
+The regulation explicitly prohibits the use of DCS/CTCSS encoding features for separation purposes, as well as high-capacity data or internet services on this band. The band is designated solely for analog voice communication.
+
+Usage Conditions and Restrictions
+Usage is limited to non-commercial, short-range applications. Devices operating in this band:
+
+Cannot be used for emergency services such as police, ambulance, or civil defense
+
+May not include external or detachable antennas
+
+Must not exceed power or technical limits outlined in the regulation
+
+Institutional and recreational use is permitted within private or designated areas like warehouses, malls, or sporting venues, provided the usage remains non-commercial.
+
+Entry Approvals and Type Compliance
+All devices used in this band must be type-approved by the CMC. Equipment must conform to international standards such as ETSI EN 300 296. Unauthorized devices or modifications, including the use of uncertified antennas, are prohibited.
+
+Commercial Use and Regulatory Oversight
+Commercial use of the band—for example, selling communication services or charging for access—is explicitly banned. However, small businesses such as restaurants and retail outlets may use PMR446 devices internally under specified conditions.
+
+Violations of the regulation, such as use of non-approved devices or interference with emergency communications, can result in fines:
+
+100,000 Iraqi dinars per non-compliant device
+
+200,000 Iraqi dinars per device for repeat offenses
+
+In all cases, violating devices will be confiscated, and legal action may be taken depending on the nature and severity of the infraction.
+
+The CMC retains authority over fee adjustments, license approvals, and ongoing enforcement. These regulations are effective immediately and apply nationwide to any use of the 446.0–446.2 MHz spectrum.
+
+For this article’s source information and any product certification guidance, please contact Global Validity. 

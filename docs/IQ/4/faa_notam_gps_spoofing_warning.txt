@@ -1,0 +1,24 @@
+FAA Issues NOTAM Warning of GPS Singal Spoofing
+Since 15 September 2023, deceptive GPS signals fraudulently transmitted from the ground have coerced upwards of twenty commercial or business aircraft overlying Iran to deviate from their planned routes. The counterfeit signals, which overrode those transmitted legitimately from GPS satellites, impeded the progress of numerous Boeing 737, 747, and 777 airliners.
+
+
+
+The OPS Group—a membership organization which, according to its website, provides tailored solutions for clients vis-à-vis international business and development projects in conflict and post-conflict areas—set forth in a report that a targeted 777 was led so far off course that its flight-crew was compelled to inquire of Baghdad ATC: “What time is it, and where are we?” Additionally, a business jet nearly entered Iranian airspace without clearance—a hazardous business in 2023’s socio-political climate.
+
+According to the OPS Group report, the majority of the twenty-some instances of GPS signal spoofing, as the practice is informally called, impacted flights operating along Iraq’s UMB688—a major airway linking Europe and the Middle East.
+
+Devised as a subversive means by which to draw aircraft off-course, GPS signal spoofing is looked upon as a form of cyber-attack. Though long recognized as a risk facing flying aircraft, the incidents over Iran occasioned the first recorded occurrences of passenger aircraft being targeted to such a sophisticated and effective degree.
+
+A separate Ops Group report stated: “OPSGROUP has now received [multiple] separate reports, and in most cases, the [targeted aircraft’s] IRS [Inertial Reference System] becomes unusable, VOR/DME sensor inputs fail, the aircraft UTC clock fails, and the crew has been forced to request vectors from ATC to navigate.”
+
+Differing from GPS signal spoofing, GPS jamming is a more common disruptive practice which most often targets long-haul flight operations. GPS jamming is less hazardous to in-flight aircraft, and pilots have largely learned to recognize and cope with the praxis.
+
+
+
+By way of contrast, GPS jamming is employed, primarily, to disrupt eastbound flights over Russia. The method, which is characterized by flickering GPS readings, is relatively conspicuous. Multiple cockpit checklists have been developed for flight-crews contending with GPS jamming, and aviators undergo training in the use of such.
+
+GPS signal spoofing, however, is far subtler and considerably more difficult to perceive insomuch as the Random Autonomous Integrity Monitoring (RAIM) functions of aircraft GPS receivers are generally incapable of differentiating between legitimate and spoofed GPS signals. Flight Management Systems (FMS) typically accept spurious GPS data and direct aircraft in accordance thereto.
+
+The Federal Aviation Administration has issued a NOTAM directing the crews of aircraft overflying Baghdad to remain vigilant for GPS signal spoofing.
+
+FMI: https://ops.group/blog/faa-warning-navigation-failures

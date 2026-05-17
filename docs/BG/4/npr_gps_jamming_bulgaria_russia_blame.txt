@@ -1,0 +1,74 @@
+GPS went dark on a flight over Bulgaria. Is Russia to blame?
+September 2, 20255:08 PM ET
+Heard on All Things Considered
+By 
+
+Mary Louise Kelly
+
+, 
+
+Michael Levitt
+
+, 
+
+Sarah Handel
+
+7-Minute Listen
+Transcript
+NPR's Mary Louise Kelly talks with Keir Giles, Russia expert at Chatham House, about recent GPS jamming incidents along the Baltic Coast.
+
+MARY LOUISE KELLY, HOST:
+
+Over the weekend, the European Union's top leader had a scare. EU Chief Ursula von der Leyen was in the air headed for Bulgaria, when suddenly, just before landing, the plane's GPS system went dark. They were forced to circle for an hour. Eventually, the pilot had to land the plane manually using paper maps without the aid of its navigation systems. And EU officials say the incident was deliberate - an intentional GPS jamming - and the culprit, they allege, is Russia. Keir Giles is a Russia expert with the international think tank Chatham House. He's here to help us try to make sense of this. Keir Giles, welcome.
+
+KEIR GILES: Hello, Mary Louise.
+
+KELLY: Hi. So I'll note off the bat the Kremlin says, wasn't us. The reporting of this incident, which was - first came out in the Financial Times, they are calling, quote, "incorrect." What do you make of it? How can we be sure one way or the other what happened to von der Leyen's plane?
+
+GILES: Well, bizarrely, this is one of those circumstances where the Kremlin might actually be right. Of course, they're going to deny having anything to do with it. But with the reporting being incorrect, that seems a fairly reliable conclusion. What has actually happened is very hard to determine because there's a lot of misunderstanding about aircraft, about navigation systems, about what they rely on. This whole business about supposedly relying on paper maps is not so much of a drama as it's been made out to be. Until we do get a technical report for exactly what kind of interference this was - whether it targeted this specific aircraft or the area in general, or if it was just a byproduct of Russia's ongoing electronic warfare against the region - we really don't know exactly what had happened.
+
+KELLY: To fill in a little bit of the backdrop here, there is evidence. You just noted that Russia has a well-established reputation for electronic interference, electronic warfare. Say more.
+
+GILES: Well, that's exactly right. And this is one of the things that is often perplexing to people who've been watching this story for a long time. When this affects a public figure like von der Leyen - or in previous iterations, NATO senior officials or the British defense minister early last year - it's treated as a new incident. But this is the kind of thing...
+
+KELLY: But those are all things that actually happened? - the British defense minister, for example.
+
+GILES: Absolutely, yes.
+
+KELLY: OK.
+
+GILES: Grant Shapps, defense minister at the time, flying across the Baltic - a lot of excited media reporting saying that his aircraft had been targeted in a similar manner. But what that distracts from is the fact that this is the norm in a lot of regions close to Russia. Right across the Baltic Sea region, these position, navigation and timing surfaces that aircraft had previously took for granted and depended on are simply unavailable because of Russia's electronic warfare. So aircraft have been forced to fall back on other measures for ensuring that they know their position, they know how to navigate, how to land. Pilots who fly in the region say this is an inconvenience but something which is so regular and expected that they are no longer treating it as something that is at all unusual.
+
+KELLY: So understanding, again, the Kremlin is denying this. Is Russia capable of doing something like this if they want to, if they want to jam the GPS of a plane trying to land?
+
+GILES: Well, here, too, knowing exactly what did happen, as opposed to what's been reported in most of the media, is key to understanding the capability and exactly how Russia might have done it. If it is a blanket interdiction of satellite services, of position, navigation and timing services that make GPS work in the region, then we know perfectly well that Russia is capable of doing it because it's been doing it for years.
+
+If on the other hand, it's something which specifically targeted this aircraft that von der Leyen was flying on, then that's a slightly more sophisticated capability, which argues that something very different is going on and was a deliberate attempt specifically to inconvenience von der Leyen. But until we know which, we simply have no way of knowing just how serious an effort this was by Russia to prove a point.
+
+KELLY: Yeah. I mean, we have called you because you're a Russia expert, not an aviation technology expert. But if there are ongoing multiple reports of incidents like this, if I'm a senior European official flying a plane anywhere around Russian airspace, should I be taking precautions? Is there anything that can be done to prevent it?
+
+GILES: Well, yes, you called me because I'm a Russia expert. It's just completely by coincidence that I also used to fly airplanes and used to fly them in Russia and have a bit of a clue.
+
+KELLY: Oh, we have identified the perfect guest. Do share that side of your expertise.
+
+GILES: Sadly, one thing that's missing from a lot of this reporting is actually talking to the pilots that fly these routes, who would be able to tell you that this is perfectly normal. It would be astonishing if precautions were not being taken by senior government officials, by senior EU NATO leaders against precisely this kind of threat. And this is why the suggestion that falling back on other navigation systems, using paper maps is some kind of major drama seems a little bit wide of the mark because that is exactly what they'll be prepared for.
+
+KELLY: OK, put your Russia expert cap back on. Another piece of background that may be useful to consider here. We don't know, as you note, whether or not von der Leyen was deliberately targeted. We do know that she has been a very public and outspoken critic of Vladimir Putin. And we do know that this trip was part of wider travels in Eastern Europe - stops in Finland, in the Baltics, in Poland and Romania; stops that if you're Vladimir Putin, you might see as provocative.
+
+GILES: Well, Vladimir Putin sees anything as provocative if it is intended to bolster the defense of Europe against Russia. But there's no particular reason to think that Russia would target von der Leyen specifically in Bulgaria, as opposed to any of those countries or indeed on any of the other long trips through multiple countries that she's undertaken as part of her mission. I think it's possibly a bit of a red herring to suggest that this was specific to this place and time, as opposed to Russia potentially just seeing an opportunity. Or still, let's not rule out the possibility that this is just collateral damage from Russia's ongoing campaigns. Again, until we know the technical details, we simply have no way of assessing that.
+
+KELLY: Indeed. Well, I will start to bring us toward a close by mentioning that NATO - which obviously is focused on and created to guarantee European security - is taking the jamming seriously. I want to play a brief remark. This is NATO Secretary General Mark Rutte speaking today.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+MARK RUTTE: And I can assure you that we are working day and night to counter this, to prevent it and to make sure that they will not do it again.
+
+KELLY: Keir Giles, what might that mean? What do you understand NATO would be able to do to say that they - the Russians - will not do it again?
+
+GILES: It's extremely difficult to say what that might actually mean, especially when this has been going on for so very long. I'm sure that people in the far north of Norway, for example, where emergency services can't use GPS and can barely communicate as a result of Russian electronic warfare, would like something to have been done a long time ago. So, yes, it'll be interesting to see just what exactly NATO has in mind when it thinks it's going to be able to stop Russia from doing this now when it hasn't been over the previous decade.
+
+KELLY: Keir Giles of the London-based think tank Chatham House. Thank you so much.
+
+GILES: Thank you.
+
+(SOUNDBITE OF PHLOCALYST & MR. KAFER'S "CERVEJA")

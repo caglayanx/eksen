@@ -1,0 +1,12 @@
+Radio spectrum management
+In accordance with paragraph 1.3 of the Rules on allocation, registration, use of radio frequencies and establishment of payments, approved by  Decision No.22 of the Cabinet of Ministers of the Republic of Azerbaijan dated 1 February 2007, radio frequencies are allocated by the State Commission for Radio Frequencies.Based on the Commission’s decision, frequency ratings used for civilian purposes are allocated on frequency waves marked as “for shared use” in the frequency wave allocation table.The allocation, recording of frequencies permitted by the Commission for civilian purposes, and registration of radio electronic means in use at these frequencies is carried out by the State Administration of  Radio Frequencies (SARF) of the Ministry of Digital Development and Transport. In order to achieve these objectives, the functions of the SARF include:
+
+ 
+
+Assigning to users the nominal frequencies used for civil purposes and registration and accounting of radio electronic means used at these frequencies, based on the relevant decisions of the State Commission for Radio Frequencies (SCRF) on the allocation of radio frequencies;
+Automation of radio frequency spectrum management processes in the country, adaptation of new radio communication technologies to international standards and requirements, ensuring efficient and transparent use of frequency spectrum, availability of frequency resources to all users;
+Issuance of a permit sheet for the design, installation and operation of radioelectronic means;
+Carrying out technical control and inspection of the use of radioelectronic means in accordance with applicable regulations and national standards;
+Conducting radio monitoring and performing radio control on the unimpeded use of radio-electronic means on frequencies permitted for their use in the country, including during international and local events;
+Provision of an opinion on the electromagnetic compatibility of planned radio frequencies and the radio electronic means used at those radio frequencies;
+Implementation of decisions and recommendations of the International Telecommunication Union, as well as unrestricted use of radio frequencies and coordination of frequencies taking into account national interests.

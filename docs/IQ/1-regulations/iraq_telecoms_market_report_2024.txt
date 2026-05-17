@@ -1,0 +1,148 @@
+Iraq: state of the telecoms market 2024
+29 October 2024 | Research and Insights
+
+George Meyerowitz
+
+Country report | PPTX and PDF | Middle East and Africa Metrics and Forecasts
+
+
+174995081_735x70.jpg
+
+This country report and accompanying data provide a comprehensive overview of Iraq's telecoms market, including KPIs and data on subscribers, penetration, revenue and ARPU. The report analyses the strategies of major players in the country's fixed and mobile telecoms markets, and includes market share data and operators' infrastructure status.
+
+Landing_page_735_wide.png
+
+Company coverage
+
+This report includes information on the following companies.
+
+Asiacell
+Informatics and Telecommunications Public Company (ITPC)
+Korek Telecom
+ 	
+Regional Telecom Group 
+Zain
+ 
+
+Data coverage
+
+Analysys Mason's country report data provides a range of key metrics for each country's telecoms market. Figures are supplied for each year since 2007. Metrics include the following.
+
+Connections
+
+Mobile:
+total (handset plus mobile broadband, excluding IoT), total including IoT
+handset: smartphone, basic, smartphone share of handsets
+mobile broadband
+total, handset and broadband: 2G, 3G, 4G, 5G (and 2G, 3G, 4G, 5G share)
+total and handset: prepaid, contract and prepaid share
+IoT
+penetration: total, prepaid, contract, handset, smartphone, mobile broadband, IoT
+Fixed:
+voice: narrowband, VoBB, dial-up
+broadband: ADSL/VDSL, FTTP/B, cable modem, FWA, 5G FWA, other technologies
+penetration (business sites and households): voice, broadband (DSL, FTTP/B, cable modem, FWA, other technologies)
+Pay TV
+ 
+
+Traffic
+
+Mobile:
+mobile-originated voice minutes
+outgoing MoU per connection
+cellular data: total, per connection
+messages sent: total, per connection
+Fixed:
+fixed-originated minutes
+outgoing MoU per active connection
+ 
+
+Network-independent metrics
+
+GDP
+Population
+Households
+Business sites
+Exchange rates
+ 
+
+Operator-level metrics/market share
+
+Mobile:
+connections: total, prepaid, contract (and associated market share and year-on-year changes)
+service revenue: total, voice, data (and associated market share), data share of service revenue
+ARPU: total, voice, data
+Fixed:
+broadband subscribers (and associated market share, net additions and year-on-year changes)
+broadband retail revenue
+broadband ASPU
+Pay TV:
+connections
+retail revenue
+ 	
+Service revenue
+
+Mobile:
+total
+share of GDP
+per capita per month
+prepaid, contract, prepaid share
+voice, messaging, data, data share
+Fixed:
+total (retail plus wholesale)
+share of GDP
+per capita per month
+ 
+
+Retail revenue
+
+Mobile:
+total
+share of GDP
+per capita per month
+per GB
+2G, 3G, 4G, 5G (and 2G, 3G, 4G, 5G share)
+voice, voice per minute
+data, data per GB, messaging 
+handset, handset data
+mobile broadband
+IoT
+Fixed:
+total
+share of GDP
+per capita per month
+voice
+dedicated connections
+broadband: ADSL/VDSL, FTTP/B, cable modem, FWA, 5G FWA, other technologies
+ICT services
+Pay TV
+ 
+
+Wholesale revenue
+
+Mobile
+Fixed
+ 
+
+ASPU
+
+Mobile:
+total
+voice
+data
+mobile broadband
+IoT
+handset: total, voice, messaging, data, data from smartphones
+Fixed:
+voice
+broadband
+ 
+
+ARPU
+
+Mobile:
+total
+prepaid, contract
+voice
+data
+handset: voice, messaging

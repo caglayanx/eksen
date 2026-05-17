@@ -1,0 +1,137 @@
+GPS Spoofing At Russia’s Borders: What to Know
+Writer: Travis Turgeon
+Travis Turgeon
+Oct 28, 2024
+6 min read
+
+"GPS spoofing is being used as a military tactic to gain a strategic advantage, be it for deceptive movements of military assets, logistical confusion, air and naval maneuvers, or the disruption of enemy navigation."
+
+
+
+
+This report provides an overview of GPS spoofing at Russia’s borders for July - October 2024. We used the following tools to conduct our jamming and spoofing research, as well as several open and public sources of information to reach our investigative conclusions. 
+
+
+spoofing.skai-data-services.com
+
+flightradar24.com
+
+
+Setting the Scene for GPS Spoofing Near Russia
+By now, it should come as no surprise that the conflict between Russia and Ukraine is having severe implications for communication and navigation technologies near Russia, affecting technology on the ground, in the air, and at sea. But while we know why we are seeing a rise in GPS spoofing in these domains, it’s important to understand exactly what this means and what is being done to reduce the risk to scenarios involving commercial flights, global trade, civilian life, and more. 
+
+
+To start, let’s first dive into what GPS spoofing is and how it’s being used in the ongoing conflict.
+
+
+What is GPS Spoofing, and How Is it Being Used Around Russia?
+GPS spoofing is a tactic that uses fake GPS signals to trick a GPS receiver into thinking it is somewhere it is not. When executed correctly, these fake signals display false positioning and/or timing for a receiver, like those onboard commercial aircraft or vessels at sea. These false GPS signals can quickly cause confusion, potentially endangering those navigating with the use of the technology. 
+
+
+
+
+
+A Basic Overview of How GPS Spoofing Works
+1. A spoofing device transmits high-powered signals that mimic those of a standard GPS signal. These signals contain false position and timing data that will be broadcast if the signal successfully overtakes the targeted GPS receiver. 
+
+
+2. Since the signal emitted from the spoofer is typically stronger than a standard GPS signal, the GPS receiver locks onto the false signal and begins tracking it. 
+
+
+3. Once the receiver is locked onto the false signal, the data can be manipulated so that, on flight radar, for example, an aircraft appears to be in a different place than it actually is - or potentially at a distinct moment in time. 
+
+
+Why and How is GPS Spoofing Used in the Russia/Ukraine Conflict?
+To put it simply, GPS spoofing is being used as a military tactic to gain a strategic advantage, be it for deceptive movements of military assets, logistical confusion, air and naval maneuvers, or the disruption of enemy navigation. 
+
+
+While GPS spoofing can be highly effective in disrupting and counteracting enemy military operations, militaries around the globe are developing countermeasures to reduce and stop the evolving threat. These measures include things like system integrity checks, alternative navigation and communication systems, GPS anti-jammers, and anti-spoofing technologies that can halt an overpowering signal before the GPS receiver locks onto it. 
+
+
+GPS Spoofing At Russia’s Borders: Where and Why
+Unfortunately, the conflict between Russia and Ukraine urges on, and there doesn’t seem to be an end in sight. With this conflict comes a relatively new and evolving warfare tactic - GPS spoofing. Reports of GPS spoofing have skyrocketed since the start of the conflict, affecting nearly every country at the borders of Russia. 
+
+
+The motivations behind these GPS disruptions are complex, much of which is rooted in strategy to assert local and regional dominance. While GPS spoofing is a relatively standardized tactic, each country and region faces unique challenges, offering insight into the varying geopolitical landscapes. 
+
+
+Below, we outline the most affected areas and dig into how and why GPS spoofing continues to grow in each. 
+
+
+Estonia 
+
+
+Source: SkAI Data Services (GPS Spoofing Map)
+
+
+In recent months, Estonia has seen a sharp rise in the number of GPS spoofing reports, which are primarily affecting commercial and military aircraft. While it is clear that these occurrences are due to the country's proximity to the Russian border, it also seems that it could partially be a result of Estonia’s close ties with NATO. 
+
+
+To put that into perspective, GPS spoofing reports spike when NATO conducts exercises in that region, which is likely a tactic to disrupt any defense against Russia’s advancements. 
+
+
+Finnair, a commercial airline company that commonly operates in and around Estonia, halted several flights over recent months due to a high level of spoofing - which can create severe risk and endanger the passengers and crew onboard flights in the airspace. 
+
+
+Finnair issued a statement saying, "Finnair will suspend its daily flights to Tartu, Estonia, from April 29 to May 31, so that an alternative approach solution that does not require a GPS signal can be put in place at Tartu Airport." They went on to say, “It is a fact that Russia affects GPS devices in our region’s airspace,” - stating that they plan to work with NATO to address the concerns. 
+
+
+Latvia
+GPS spoofing in Latvia differs from Estonia in that the majority of the spoofing is affecting maritime operations in the Baltic Sea. Spoofing incidents have reportedly disrupted shipping routes - raising concern for those operating in both commercial and military sectors. 
+
+
+The reason for the jamming and spoofing in the Baltic is due to the geographical position, which sits between Russia and NATO territory. This geographic location makes it a high-risk area and increases the potential for GPS interference - which has yet to come to a halt. 
+
+
+While GPS spoofing in the Baltic Sea is the primary concern for Latvia, the country’s airspace has also been heavily affected, disrupting commercial flights - like those operated by Finnair described in the section above. 
+
+
+Belarus
+GPS spoofing has become a key concern in Belarus, which is primarily affecting military operations and some transportation networks. Belarus has a close alliance with Russia, so the country has become a testing ground, of sorts, for various forms of electronic warfare - which includes all forms of GPS interference, but primarily GPS spoofing and GPS jamming. 
+
+
+According to recent reports, GPS spoofing attacks have frequently interrupted military exercises and troop movements, causing concern over potential communication errors and operational delays and failures. 
+
+
+While Belarus is considered an ally of Russia, there have been reports of Belarusian forces having to intercept and shoot down drones flying through their airspace. On September 4th, Russia sent a wave of “kamikaze drones” through Belarusian airspace to attack Ukrainian forces, a few of which were shot down and captured. 
+
+
+With numerous reports coming in over similar scenarios, the Belarusian government has responded by saying that it is seeking to mitigate the effects of GPS jamming and spooning in its airspace.
+
+
+Turkey
+
+
+Source: SkAI Data Services (GPS Spoofing Map)
+
+
+Turkey is uniquely located between Europe and Asia, making it a focal point for GPS spoofing in the ongoing conflict between Russia and Ukraine. In recent months, the Turkish military and other authorities have reported a high level of GPS interference, including extensive jamming and spoofing. These occurrences have affected all sorts of communications, from commercial air travel to maritime navigation and even critical infrastructure. 
+
+
+The disruptions have caused severe delays in the airspace and rerouted flights, pushing commercial airlines to alter their flight paths to avoid areas with high levels of jamming and spoofing. Of course, this is causing longer travel times for citizens, but it also drives up operational costs for the airlines operating in the area. 
+
+
+One thing to note is that the motivations behind the location-specific spoofing attacks are multifaceted, and each may have a different intention to enhance regional military control. Regardless, these attacks also lead to the realization that navigation and communication systems are highly vulnerable to RF warfare and are not confined to any specific level of military or government. 
+
+
+Turkey is taking proactive measures to enhance its electronic warfare capabilities, but since it’s not viable to transition commercial air and maritime travel to GPS alternatives, it remains an ongoing concern. 
+
+
+Georgia
+Georiga is situated to the south of Russia and nearby NATO-aligned nations, making it a not-so-surprising hotspot for GPS spoofing and jamming. Reports from Georgia indicate that military exercises conducted by the Georgia military and NATO forces have coincided with big spikes in GPS disruptions, suggesting a targeted strategy by Russia aimed at destabilizing associated efforts. While Georgia isn’t necessarily a high-traffic area for civil aviation, it still remains a cause for concern in terms of civil safety and military operations. 
+
+
+Like the rest of NATO-involved nations, Georgia has acknowledged the growing threat of GPS spoofing and is actively exploring and testing anti-interference strategies to combat the evolving threat.
+
+
+GPS Spoofing Around Israel and Gaza
+While the areas mentioned above have been seeing a rise in GPS spoofing, affecting communications and navigation systems on a concerning level, it is worth noting that the areas around Israel and Gaza are experiencing the most concentrated jamming and spoofing globally. 
+
+
+Comparing the image below with those above, you can clearly see the higher concentration of spoofing in the immediate region. While these spoofing events are unrelated to the conflict between Russia and Ukraine, they show how much regional conflict affects today’s GPS-related civil and military landscape.
+
+
+
+
+Source: SkAI Data Services (GPS Spoofing Map)
+

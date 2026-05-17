@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-19138737-27"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-19138737-27", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});gtag("config", "G-LL5Q69D404", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});</script>
+<link rel="canonical" href="https://ofac.treasury.gov/faqs/443" />
+<meta property="og:site_name" content="Office of Foreign Assets Control | U.S. Department of the Treasury" />
+<meta name="twitter:site" content="@USTreasury" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/ofac/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>443 | Office of Foreign Assets Control</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_SaSB1LcIqiNXE08Od87MIgnXsWacn5JqW4N2QfFZ3wI.css?delta=0&amp;language=en&amp;theme=ofac&amp;include=eJxFilEKhDAMBS8UmiNJbJ7SpW2WpCru6VfcBX-GGd4T1WHST5a_pMWtD5IIjKn0F_Iw5xyRFM0m2-FeFEG5Xp-TGyJkfbqbgrI5LvMmtXxAtkjmtdosleKMgcazBGiLQ4PVt_c1_OIm7QVH8M3UTLeKL7jDQac" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Kw7-ffcPJ0Ua1Nt8F_nejmkRl4x_Hf2bDR2BeJxUUPg.css?delta=1&amp;language=en&amp;theme=ofac&amp;include=eJxFilEKhDAMBS8UmiNJbJ7SpW2WpCru6VfcBX-GGd4T1WHST5a_pMWtD5IIjKn0F_Iw5xyRFM0m2-FeFEG5Xp-TGyJkfbqbgrI5LvMmtXxAtkjmtdosleKMgcazBGiLQ4PVt_c1_OIm7QVH8M3UTLeKL7jDQac" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_BHZfstOyLYn0EnXDiiZjChCQ4ByM9nDyowU920yCFpk.css?delta=2&amp;language=en&amp;theme=ofac&amp;include=eJxFilEKhDAMBS8UmiNJbJ7SpW2WpCru6VfcBX-GGd4T1WHST5a_pMWtD5IIjKn0F_Iw5xyRFM0m2-FeFEG5Xp-TGyJkfbqbgrI5LvMmtXxAtkjmtdosleKMgcazBGiLQ4PVt_c1_OIm7QVH8M3UTLeKL7jDQac" />
+
+    <script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=TRE&amp;yt=1" id="_fed_an_ua_tag" async></script>
+
+  
+                                <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="84QAW-PTX96-C63E4-6CACM-662PE",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"84QAW-PTX96-C63E4-6CACM-662PE",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="l63yvuaccpcoe2qi6flq-f-b541d06b1-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"41","ak.cp":"1442937","ak.ai":parseInt("889092",10),"ak.ol":"0","ak.cr":192,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1f80b2a0","ak.r":51737,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.cport":53498,"ak.gh":"2.19.196.213","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1778970967","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==fw5zeaB9eVyK7mlYzj82VheHkiYfPqZq8d74X1VmIz6LxHUJA1jZtHY0Y8ZHcGSzaczJIds16TdpzZ75XRaEb/A8TLWAcTIBtixFTjdElQrTkGH4yJ8tS1Ubb1rtKFpW6bEyoR8bqSml8oREoVG76PHvM1T5PNu7Cod1kherHtXKeydLd88Fk6TGpn6hZXUrDaMzI/gwmMYWFvU90/NJWXW/Gz/XGzfn7t31NYIjm6LYG4gSFT/EJ8Lo1h8R3WssK5XpAy6ukJTnLK9Eg3IdEhQteU4rMcDI09nOIZKsMQfS9ALTQkYkWfPtKH4r71o9NYQ9mGTNgrJa7S/xSeedkrxkjpBRMnGOxQqk52BCFJXrXXhiBVfNjYA8N/z/JdB0JUQdAcVoz0VDo1dc3aM2fSDBPt9Qtplz3MxBh8j7DBE=","ak.pv":"35","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+  <body class="path-node page-node-type-faq">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  <div class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" src="/libraries/uswds/dist/img/us_flag_small.png" alt="U.S. flag">
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
+        </div>
+        <button class="usa-accordion__button usa-banner__button"
+          aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner" hidden>
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/libraries/uswds/dist/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>The .gov means it’s official.</strong>
+            </p>
+            <p>
+              Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/libraries/uswds/dist/img/icon-https.svg" alt="Https">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>The site is secure.</strong>
+            </p>
+            <p>
+              The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="usa-overlay"></div>
+
+  <header class="treas-mini-banner">
+    <div class="usa-banner__inner grid-row">
+        <div class="display-flex flex-wrap flex-align-center tablet:grid-col-6">
+            <img class="treas-mini-banner__header-icon" src="/themes/custom/gallatin/assets/img/mark_treasury.svg" alt="Treasury Seal">
+            <div class="treas-mini-banner__header-text">
+                <a class="treas-mini-banner__treas-link" href="https://home.treasury.gov">U.S. Department of the Treasury</a>
+            </div>
+        </div>
+        <div class="tablet:grid-col display-flex tablet:flex-justify-end grid-offset-1">
+            <a class="treas-mini-banner__link" href="https://home.treasury.gov/news">Read the latest Treasury news</a>
+        </div>
+    </div>
+</header>
+
+
+<header class="treas-header" role="banner">
+           <div class="treas-header__wrap">
+          <div class="region region-header">
+    <div id="block-ofac-branding" class="block block-system block-system-branding-block">
+  
+    
+   <div id="treas-logo-title">
+  <a href="/" title="Home" rel="home" class="navbar-brand d-flex align-items-center treas-header__title">
+              <span class="treas-header__name">Office of Foreign Assets Control</span>
+          </a>
+</div>
+</div>
+<div id="block-headerapartoftreasurysofficeofterrorismandfinancialintelligence" class="block block-block-content block-block-content5a604116-e182-46cc-b55c-96c90ac38dbe">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="tablet:font-sans-3xs text-white desktop:padding-0 tablet:padding-top-1 padding-bottom-1 text-uppercase tablet:grid-col-7 align-right text-ls-1 treas-header__office">A Part of Treasury's Office of Terrorism and<br />
+Financial Intelligence</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+        <button class="navbar-toggler treas-burger-menu usa-menu-btn" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="sr-only">MENU</span>
+          <span class="treas-burger-menu__line"></span>
+          <span class="treas-burger-menu__line"></span>
+          <span class="treas-burger-menu__line"></span>
+        </button>
+      </div>
+    </header>
+<div class="treas-main-nav usa-nav">
+  <button class="usa-nav__close">
+    <img src="/themes/custom/gallatin/assets/img/close-white.svg" alt="close" />
+  </button>
+  <nav class="treas-main-nav__wrap" role="navigation">
+    
+            <div class="region region-primary-menu">
+    
+  
+  
+          <ul class="usa-nav__primary treas-main-nav__list usa-accordion">
+
+      
+                      <li class="usa-nav__primary-item treas-main-nav__list-item  ">
+
+              
+                              <a href="/about-ofac" class="usa-nav__link treas-main-nav__link ">
+                  <span>About OFAC</span>
+                </a>
+              
+            </li>
+                      <li class="usa-nav__primary-item treas-main-nav__list-item  ">
+
+              
+                              <a href="/recent-actions" class="usa-nav__link treas-main-nav__link ">
+                  <span>Recent Actions</span>
+                </a>
+              
+            </li>
+                      <li class="usa-nav__primary-item treas-main-nav__list-item  ">
+
+                              <button class="usa-accordion__button usa-nav__link treas-main-nav__link" aria-expanded="false" aria-controls="megamenu-3">
+                  <span>Sanctions Lists</span>
+                </button>
+              
+                                
+  
+            <ul id="megamenu-3" class="usa-nav__submenu " hidden>
+
+                  
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/sanctions-list-service" class="">
+                  <span>Sanctions List Service</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists" class="">
+                  <span> Specially Designated Nationals (SDN) List</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList" class="">
+                  <span>Consolidated Sanctions List (Non-SDN Lists)</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/other-ofac-sanctions-lists" class="">
+                  <span>Other OFAC Sanctions Lists</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="https://sanctionssearch.ofac.treas.gov/" class="">
+                  <span>Sanctions List Search</span>
+                </a>
+              
+            </li>
+                    
+
+        </ul>
+          
+              
+            </li>
+                      <li class="usa-nav__primary-item treas-main-nav__list-item  ">
+
+                              <button class="usa-accordion__button usa-nav__link treas-main-nav__link" aria-expanded="false" aria-controls="megamenu-4">
+                  <span>Sanctions Programs</span>
+                </button>
+              
+                                
+  
+            <ul id="megamenu-4" class="usa-nav__submenu " hidden>
+
+                  
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/sanctions-programs-and-country-information/russia-related-sanctions" class="">
+                  <span>Russia-related Sanctions</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/sanctions-programs-and-country-information/iran-sanctions" class="">
+                  <span>Iran Sanctions</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/sanctions-programs-and-country-information/north-korea-sanctions" class="">
+                  <span>North Korea Sanctions</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/sanctions-programs-and-country-information/cuba-sanctions" class="">
+                  <span>Cuba Sanctions</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/sanctions-programs-and-country-information/counter-narcotics-trafficking-sanctions" class="">
+                  <span>Counter Narcotics Sanctions</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/sanctions-programs-and-country-information/sanctions-related-to-significant-malicious-cyber-enabled-activities" class="">
+                  <span>Cyber-related Sanctions</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/sanctions-programs-and-country-information/venezuela-related-sanctions" class="">
+                  <span>Venezuela-related Sanctions</span>
+                </a>
+              
+            </li>
+                      <li class=" usa-nav__submenu-item treas-main-nav__submenu-item ">
+
+              
+                              <a href="/sanctions-programs-and-country-information" class="">
+                  <span>Complete List of Sanctions Programs and Country Information</span>
+                </a>
+              
+            </li>
+                    
+
+        </ul>
+          
+              
+            </li>
+                      <li class="usa-nav__primary-item treas-main-nav__list-item  ">
+
+              
+                              <a href="/ofac-reporting-system" class="usa-nav__link treas-main-nav__link ">
+                  <span>Submit a Report</span>
+                </a>
+              
+            </li>
+                      <li class="usa-nav__primary-item treas-main-nav__list-item  ">
+
+              
+                              <a href="/contact-ofac" class="usa-nav__link treas-main-nav__link ">
+                  <span>Contact Us</span>
+                </a>
+              
+            </li>
+                                <li class="treas-main-nav__list-item treas-search-nav desktop:order-last order-first">
+              <button class="usa-accordion__button search-btn treas-main-nav__link" aria-expanded="false" aria-controls="megamenu-search">
+                <span>Search</span>
+              </button>
+            </li>
+          
+
+        </ul>
+          
+
+
+
+  </div>
+
+    
+      </nav>
+</div>
+<div class="treas-search-menu grid-container" id="megamenu-search" hidden>
+      <div class="grid-row">
+      <div class="grid-col">
+        <div class="treas-search-menu__component">
+            <div class="region region-search-menu">
+    <div id="block-searchgovblock" class="block block-searchgov-drupal block-searchgov-block">
+  
+    
+      <div class="content">
+      
+        <form id="search_form" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓" />
+
+           <input type="hidden" name="affiliate" id="affiliate" value="ofac" />
+           <label for="query">Enter Search Term(s):</label>
+           <input type="text" name="query" id="query" autocomplete="off" placeholder="Enter keywords" class="usagov-search-autocomplete" />
+           <input type="submit" name="commit" value="Search" data-disable-with="Search" />
+        </form>
+    </div>
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+    <div class="region region-breadcrumb">
+    <div id="block-ofac-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+        <div class="treas-breadcrumb">
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col">
+          <nav aria-label="breadcrumb" class="treas-breadcrumb__nav">
+            <span id="system-breadcrumb" class="visually-hidden">Breadcrumb</span>
+            <ol class="treas-breadcrumb__list">
+                              <li class="treas-breadcrumb__item" title="Home">
+                                      <a href="/" class="treas-breadcrumb__link">Home</a>
+                                  </li>
+                              <li class="treas-breadcrumb__item" title="Frequently Asked Questions">
+                                      <a href="/faqs" class="treas-breadcrumb__link">Frequently Asked Questions</a>
+                                  </li>
+                              <li class="treas-breadcrumb__item" title="443">
+                                      <a href="/faqs/443" class="treas-breadcrumb__link">443</a>
+                                  </li>
+                          </ol>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+
+ <main class="usa-section">
+   <div class="grid-container">
+     <div class="grid-row grid-gap">
+       <div class="grid-col-12">
+           <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+         
+      </div>
+     </div>
+
+     <div class="grid-row grid-gap">
+
+              <aside class="tablet:grid-col-3 order-2-sm margin-top-5 margin-bottom-5 tablet:margin-top-0 tablet:margin-bottom-2">
+            <div class="region region-sidebar-first">
+    
+              <ul class="usa-sidenav">
+                    <li class="menu-item menu-item--collapsed usa-sidenav__item">
+                        <a href="/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists">
+                  <span>Specially Designated Nationals List (SDN List)</span>
+        </a>
+              </li>
+                <li class="menu-item menu-item--collapsed usa-sidenav__item">
+                        <a href="/consolidated-sanctions-list-non-sdn-lists">
+                  <span>Consolidated Sanctions List (Non-SDN Lists)</span>
+        </a>
+              </li>
+                <li class="menu-item usa-sidenav__item">
+                        <a href="/other-ofac-sanctions-lists">
+                  <span>Additional Sanctions Lists</span>
+        </a>
+              </li>
+                <li class="menu-item usa-sidenav__item">
+                        <a href="/sanctions-list-search-tool">
+                  <span>Search OFAC&#039;s Sanctions Lists</span>
+        </a>
+              </li>
+                <li class="menu-item menu-item--collapsed usa-sidenav__item">
+                        <a href="/sanctions-programs-and-country-information">
+                  <span>Sanctions Programs and Country Information</span>
+        </a>
+              </li>
+                <li class="menu-item menu-item--collapsed usa-sidenav__item">
+                        <a href="/recent-actions">
+                  <span>Recent Actions</span>
+        </a>
+              </li>
+                <li class="menu-item menu-item--collapsed usa-sidenav__item">
+                        <a href="/ofac-license-application-page">
+                  <span>OFAC License Application Page</span>
+        </a>
+              </li>
+                <li class="menu-item menu-item--collapsed usa-sidenav__item">
+                        <a href="/additional-ofac-resources">
+                  <span>Additional OFAC Resources</span>
+        </a>
+              </li>
+                <li class="menu-item menu-item--collapsed usa-sidenav__item">
+                        <a href="/faqs">
+                  <span>Frequently Asked Questions</span>
+        </a>
+              </li>
+                <li class="menu-item menu-item--collapsed usa-sidenav__item">
+                        <a href="/civil-penalties-and-enforcement-information">
+                  <span>Civil Penalties and Enforcement Information</span>
+        </a>
+              </li>
+                <li class="menu-item usa-sidenav__item">
+                        <a href="/ofac-reporting-system">
+                  <span>OFAC Reporting System</span>
+        </a>
+              </li>
+                <li class="menu-item usa-sidenav__item">
+                        <a href="/selected-general-licenses-issued-ofac">
+                  <span>Selected General Licenses Issued by OFAC</span>
+        </a>
+              </li>
+                <li class="menu-item usa-sidenav__item">
+                        <a href="/contact-ofac">
+                  <span>Contact OFAC</span>
+        </a>
+              </li>
+        </ul>
+  
+
+
+
+  </div>
+
+        </aside>
+      
+       <div id="main-content" class="visually-hidden"></div>
+
+       <div class="region-content tablet:grid-col-6">
+           <div class="region region-content">
+    <div class="views-element-container block block-views block-views-blockfaq-pages-ofac-faq-title-block" id="block-views-block-faq-pages-ofac-faq-title-block">
+  
+    
+      <div class="content">
+      <div><div class="block-page-title-block view view-faq-pages view-id-faq_pages view-display-id-ofac_faq_title_block js-view-dom-id-102690e7417a6b3fb2f69a68cf974a6b6c00c4c5eaa181ce20bb48f596e7de09">
+  
+    
+      <div class="view-header">
+      
+    </div>
+      
+      <div class="view-content">
+          <div class="ofac-faq-item"><div class="views-field views-field-field-topic"><div class="field-content"><div class="treas-text--h2"><strong><a href="/faqs/topic/1611 ">Compliance for Internet, Web Based Activities, and Personal Communications</a></strong></div></div></div><div><h1 class="font-sans-lg text-ls-auto text-bold">443.&nbsp;What are "residential consumer" satellite terminals and transceiver equipment for the purposes of category (4) of the 31 CFR § 560.540 List of Services, Software, and Hardware Incident to Communications?</h1></div></div>
+
+    </div>
+  
+          </div></div>
+
+    </div>
+  </div>
+<div id="block-faqsearchblock" class="block block-block-content block-block-content61f150bb-1a90-4409-a060-0f6438193ab5">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><form class="usa-form clearfix" accept-charset="UTF-8" action="/faqs/search" method="get"><div class="usa-form-group"><input class="faqsearch-block usa-text usa-input form-text" id="faqsearch" maxlength="128" name="search_api_fulltext" placeholder="Search FAQs" size="100" type="text" value=""></div><div class="form-actions form-wrapper"><input class="usa-button js-form-submit form-submit" id="edit-submit-faqsearch" type="submit" value="Search FAQs"></div></form></div>
+      
+    </div>
+  </div>
+<div id="block-ofac-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+<article id="node-17896"  class="node node--type-faq node--view-mode-full">
+  	
+  
+  	
+  <div class="clearfix text-formatted usa-prose field field--name-field-answer field--type-text-long field--label-visually_hidden">
+    <div class="field__label visually-hidden">Answer</div>
+              <div class="field__item"><p>Satellite terminals and other equipment listed in category (4) of the <a href="https://www.ecfr.gov/current/title-31/subtitle-B/chapter-V/part-560/subpart-E/section-560.540">31 CFR § 560.540</a> List of Services, Software, and Hardware Incident to Communications, shall be deemed “residential consumer” if the equipment is designated EAR99 or classified under ECCN 5A992.c, 5A991.b.2, or 5A991.b.4 or, in the case of equipment that is not subject to the <a href="https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C">EAR</a>, would be designated EAR99 if it were located in the United States or would meet the criteria for classification under ECCN 5A992.c, 5A991.b.2, or 5A991.b.4 if it were subject to the EAR.&nbsp;</p><p><strong>Date Updated: May 16, 2024</strong></p></div>
+          </div>
+
+  <div class="field field--name-field-date-released field--type-datetime field--label-visually_hidden">
+    <div class="field__label visually-hidden">Date Released</div>
+              <div class="field__item">February 17, 2015</div>
+          </div>
+
+</article>
+    </div>
+  </div>
+
+  </div>
+
+       </div>
+
+              <aside class="tablet:grid-col-3">
+            <div class="region region-sidebar-second">
+    <div class="views-element-container block block-views block-views-blockfaq-search-block-1" id="block-views-block-faq-search-block-1">
+  
+      <div class="treas-section-heading">
+      <h2 class="treas-section-heading--title">Similar FAQs</h2>
+    </div>
+    
+      <div class="content">
+      <div><div class="view view-faq-search view-id-faq_search view-display-id-block_1 js-view-dom-id-5a6dde4263b425ae754f7872ab5134b385222004789f5c5b15bb2f99e762477b">
+  
+    
+      
+      <div class="view-content">
+          <div class="margin-bottom-3 search-result views-row"><div class="views-field views-field-nothing"><span class="field-content"><p><a href="436">436. What do Secure Socket Layers (SSLs), listed in the 31 CFR § 560.540 List of Services, Software, and Hardware Incident to Communications, encompass?</a><p></span></div></div>
+    <div class="margin-bottom-3 search-result views-row"><div class="views-field views-field-nothing"><span class="field-content"><p><a href="441">441. Does 31 CFR § 560.540 of the Iranian Transactions and Sanctions Regulations (ITSR) authorize the provision of fee-based cloud computing services to Iran?</a><p></span></div></div>
+    <div class="margin-bottom-3 search-result views-row"><div class="views-field views-field-nothing"><span class="field-content"><p><a href="434">434. Are all applications designed to run on mobile operating systems (“apps”) covered by 31 CFR § 560.540 of the Iranian Transactions and Sanctions Regulations (ITSR)?</a><p></span></div></div>
+    <div class="margin-bottom-3 search-result views-row"><div class="views-field views-field-nothing"><span class="field-content"><p><a href="1087">1087. Does the general license at 31 CFR § 560.540 authorize the exportation of fee-based or no-cost cloud-based services and software to Iran that are used to support communications tools authorized by 31 CFR § 560.540?</a><p></span></div></div>
+    <div class="margin-bottom-3 search-result views-row"><div class="views-field views-field-nothing"><span class="field-content"><p><a href="440">440. 31 CFR § 560.540 of the Iranian Transactions and Sanctions Regulations (ITSR) authorize the exportation to Iran of fee-based desktop publishing software and productivity software suites used to publish documents, presentations, spreadsheets, charts, music, movies, and digital images?</a><p></span></div></div>
+    <div class="margin-bottom-3 search-result views-row"><div class="views-field views-field-nothing"><span class="field-content"><p><a href="442">442. For purposes of category (5) of the 31 CFR § 560.540 List of Services, Software, and Hardware Incident to Communications, what would be considered “software required for effective consumer use” of personal computing devices, laptops, and tablets?</a><p></span></div></div>
+
+    </div>
+  
+          </div></div>
+
+    </div>
+  </div>
+
+  </div>
+
+        </aside>
+      
+    </div>
+   </div>
+
+   </main>
+
+
+<footer class="usa-footer usa-footer--medium" role="contentinfo">
+  <div class="usa-footer__primary-section">
+    <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="mobile-lg:grid-col-12">
+              <div class="region region-footer grid-row grid-gap">
+    <div id="block-footerofficeofterrorismandfinancialintelligence" class="block block-block-content block-block-content045f44ac-2f52-44b4-bf69-9a91a4cd1755">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="display-flex maxw-mobile flex-align-start margin-top-4"><img class="width-10 margin-right-2" src="/themes/custom/gallatin/logo.svg" alt="Treasury seal"><h3 class="ofac-footer-logo display-flex text-uppercase grid-col-8 margin-0">Office of Terrorism and Financial Intelligence</h3></div></div>
+      
+    </div>
+  </div>
+<nav role="navigation" aria-labelledby="block-footeradditionalresources-menu" id="block-footeradditionalresources" class="block block-menu navigation menu--footer---additional-resources mobile-lg:grid-col-6 desktop:grid-col">
+      
+    <h3 class="treas-text--h2" id="block-footeradditionalresources-menu">Additional Resources</h3>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://home.treasury.gov/footer/privacy-act">Privacy Act</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://home.treasury.gov/policy-issues/small-business-programs/small-and-disadvantaged-business-utilization/bureau-small-business-specialists">Small Business Contacts</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance">Budget and Performance</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.treasurydirect.gov/">TreasuryDirect.gov Securities/Bonds</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://home.treasury.gov/footer/freedom-of-information-act">Freedom of Information Act (FOIA)</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://home.treasury.gov/footer/no-fear-act">No FEAR Act Data</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://home.treasury.gov/footer/prohibited-personnel-practices-and-whistleblower-protection">Whistleblower Protection</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-ofacfootermenu-menu" id="block-ofacfootermenu" class="block block-menu navigation menu--ofac-footer-menu mobile-lg:grid-col-6 desktop:grid-col">
+      
+    <h3 class="treas-text--h2" id="block-ofacfootermenu-menu">Helpful OFAC Links</h3>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://service.govdelivery.com/accounts/USTREAS/subscriber/new?topic_id=USTREAS_89">Sign Up For OFAC E-mail Alerts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contact-ofac" data-drupal-link-system-path="node/6926">Contact OFAC</a>
+              </li>
+                <li class="menu-item">
+        <a href="/faqs/71" data-drupal-link-system-path="node/17431">Dealing with an &quot;OFAC Alert&quot;</a>
+              </li>
+                <li class="menu-item">
+        <a href="/sanctions-programs-and-country-information/where-is-ofacs-country-list-what-countries-do-i-need-to-worry-about-in-terms-of-us-sanctions" data-drupal-link-system-path="node/6756">List of Country-related Sanctions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/specially-designated-nationals-list-sdn-list/filing-a-petition-for-removal-from-an-ofac-list" data-drupal-link-system-path="node/6771">Appeal an OFAC designation or other listing</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-footerothergovernmentsites-menu" id="block-footerothergovernmentsites" class="block block-menu navigation menu--footer---other-government-sites mobile-lg:grid-col-6 desktop:grid-col">
+      
+    <h3 class="treas-text--h2" id="block-footerothergovernmentsites-menu">Other Government Sites</h3>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.usa.gov/">USA.gov</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.usajobs.gov">USAJOBS.gov</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.opm.gov">OPM.gov</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.mymoney.gov">MyMoney.gov</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.data.gov">Data.gov</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="usa-footer__secondary-section">
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="mobile-lg:grid-col-12">
+              <div class="region region-footer-secondary">
+    <nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://home.treasury.gov/subfooter/privacy-policy">Privacy Policy </a>
+              </li>
+                <li class="menu-item">
+        <a href="https://home.treasury.gov/subfooter/google-privacy-policy">Google Privacy </a>
+              </li>
+                <li class="menu-item">
+        <a href="https://home.treasury.gov/subfooter/site-policies-and-notices">Site Policies and Notices</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://home.treasury.gov/utility/accessibility">Accessibility</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/17896","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-19138737-27","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"user":{"uid":0,"permissionsHash":"56a9fbda291a3adcca19d203c23a90a47279e9e7f599b4c944fdf8ea2fc4857c"}}</script>
+<script src="/sites/default/files/js/js_Z1mFceJ3LOldhU9xzMaAkUL5dt8hZm06z4B9YqzpqqA.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=ofac&amp;include=eJxlikEKgDAMBD_U2ieVxbShEBIwqdLfexEPepsZBkRh0FXwwNYP00gMEcTQMv0iT2zG0ioUsmLsXr4hTe-N2M76W8VA-dW8k96y5y5n"></script>
+<script src="https://static.addtoany.com/menu/page.js" defer></script>
+<script src="/sites/default/files/js/js_rKozuILDUtrHgvwlqePS9O9AGsCH1vbV2d_ElnIWnT0.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=ofac&amp;include=eJxlikEKgDAMBD_U2ieVxbShEBIwqdLfexEPepsZBkRh0FXwwNYP00gMEcTQMv0iT2zG0ioUsmLsXr4hTe-N2M76W8VA-dW8k96y5y5n"></script>
+
+  </body>
+</html>

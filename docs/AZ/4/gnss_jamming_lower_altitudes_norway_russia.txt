@@ -1,0 +1,45 @@
+areas along the border with Russia. Photo: Finnmark Police District
+Jamming now occurring at lower altitudes
+GNSS interference originating from Russia is becoming more serious and is now affecting aircraft at lower altitudes than previously recorded. This week, disruptions on the Norwegian side of the border were measured down to about 1,800 feet.
+
+Thomas Nilsen
+Thomas Nilsen
+12 March 2026 - 13:12
+“These are dramatic changes,” said Tarjei Sirma-Tellefsen, Chief of Staff at the Finnmark Police District.
+
+“We see that the jamming and spoofing of satellite navigation systems are reaching lower altitudes than before,” Sirma-Tellefsen told the Barents Observer. “Loss of signal was observed down to 1,800–2,000 feet.”
+
+“This is serious. If people in the border region can no longer trust GPS positioning, it poses a threat to civilian society.”
+
+Similar measurements carried out last winter detected disturbances down to 4,000 feet.
+
+GNSS jamming usually originates from ground-based transmitters, with signals travelling in line of sight.
+
+This week, the police and the Norwegian Communications Authority (Nkom) have been criss-crossing the skies over Kirkenes and north along the maritime border in a helicopter, aiming to detect how GPS interference spreads across Norway’s north-eastern corner.
+
+“The disruption comes from the east, from Russia,” said Sirma-Tellefsen.
+
+“It is important for us to carry out comprehensive measurements, as we are now doing with the helicopter. This is a development we do not like.”
+
+
+Measurements have been made both up in the air as well as on the ground where the terrain is exposed to signal disruptions coming from Russia's electronic warfare transmitters east of the border. Photo: Finnmark Police District
+Espen Slette, department director at Nkom, told the Barents Observer that the measurements taken this week confirm disturbances in the airspace over the East Finnmark region.
+
+“The measurements suggest that the disturbances are coming from an eastern direction, on the Russian side of the border. At the same time, it is important to emphasise that there is uncertainty regarding the exact geographical origin,” Slette said.
+
+Jamming was first observed in this part of Norway in 2017. Since Russia’s full-scale invasion of Ukraine in 2022, interference has increased dramatically and is now detected almost daily, particularly by pilots flying to the airports in Kirkenes, Vadsø and Vardø.
+
+In September 2025, a Widerøe Dash-8 passenger aircraft had to abort its landing in Vardø after GPS signals were disrupted.
+
+A SAS flight earlier last year also experienced spoofing while approaching Kirkenes Airport, a pilot told the Barents Observer.
+
+
+Interference of GNSS signals were measured at different altitudes from the helicopter flying in the border area this week. Photo: Finnmark Police District
+Unlike jamming, spoofing attempts to deceive GPS receivers by transmitting false signals indicating an incorrect geographical position. In the cockpit, onboard systems then calculate an inaccurate position, creating trajectory errors that can be difficult for pilots to detect.
+
+In a worst-case scenario, spoofing could mislead a pilot into unknowingly flying towards a different position than the instruments indicate.
+
+The Kirkenes Airport at Høybuktmoen lies only 10 kilometres from the Russian border and about 50 kilometres from the military stronghold in the Pechenga Valley. From there, the 71st Motorised Division of the Leningrad Military District and the 61st Naval Infantry Brigade regularly direct electronic warfare signals aimed towards Norway.
+
+Similar incidents have been reported in other regions bordering Russia. In 2024, a Finnair aircraft attempting to land in Joensuu was forced to turn back to Helsinki because of GPS interference. The same happened to a Finnair turboprop flight en route to Tartu in Estonia.
+

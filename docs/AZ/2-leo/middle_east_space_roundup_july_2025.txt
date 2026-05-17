@@ -1,0 +1,150 @@
+Middle East Space Roundup: 14 to 20 July 2025
+A summary of all the space news in the Greater Middle East over the past week, brought to you by AzurX
+AzurX
+Jul 21, 2025
+
+
+
+
+Simulation of Israel’s Eureka spacecraft scanning Europa’s surface: Source: Gidi Yoffe via ChatGPT.
+
+The following are the major space developments in the Greater Middle East region tracked by Middle East Space Monitor over the past week:
+
+Israel Space Developments
+Israel Advances Plans for Low-Cost Space Mission to Jupiter’s and Saturn’s Moons
+
+Israel is advancing plans for Eureka, a groundbreaking low-cost space mission aiming to search for signs of life on Jupiter’s moon Europa — and potentially Saturn’s Enceladus — using a compact spacecraft equipped with a UV spectrometer to detect amino acids on icy surfaces. Led jointly by Israel Aerospace Industries (IAI) and the Weizmann Institute of Science, Eureka seeks international partners and funding of approximately $150–250 million, positioning Israel as a serious player in deep space science. The mission fills a strategic niche left by NASA and ESA’s larger missions by targeting biological markers rather than planetary mapping, exemplifying Israel’s ability to execute focused, high-impact missions. Despite delays due to regional conflict, the project continues, reflecting a broader national ambition to fuse scientific excellence with resilience, while cultivating regional cooperation and educational inspiration.
+
+Share Middle East Space Monitor by AzurX
+
+Israel’s Dror-1 Launch Marks Recovery of Sovereign Satellite Capability
+
+The successful launch of Israel Aerospace Industries’ (IAI) Dror-1 communications satellite aboard a SpaceX Falcon 9 marks a pivotal recovery for Israel’s sovereign satellite capability nearly a decade after the Amos-6 disaster. Built entirely with domestic components, Dror-1 is the most advanced communications satellite IAI has developed and is intended to ensure secure, independent government communications for the next 15 years. Yet, despite its strategic designation, the government has yet to commit funding for the follow-on Dror-2, putting Israel’s long-term communications satellite resilience at risk. Dror-1 is the first in a planned series of 10 state-backed satellites, forming the core of a broader dual-use strategy that also includes nanosatellite constellations for intelligence and surveillance. While the project underscores Israel’s technological resilience and ambition, challenges remain around production capacity and cost competitiveness, posing long-term risks to maintaining a sovereign industrial base in the global satellite sector.
+
+
+Members of the IDF’s Unit 9900. Source: IDF.
+A Glimpse Inside Israel’s Unit 9900 Satellite Reconnaissance Unit
+
+Operating from a covert underground facility, Israel’s Unit 9900 satellite operators are instrumental in providing real-time space-based intelligence that enables long-range precision targeting and post-strike assessments in operations such as June 2025’s Operation Rising Lion against Iran. Utilizing advanced satellites beyond the reach of drones or airspace restrictions, the unit delivers persistent surveillance and critical imagery analysis, reinforcing Israel’s strategic edge. Their work underscores the increasing operational value of sovereign satellite capabilities in modern conflict, combining technical resilience with deep integration into the national defense architecture.
+
+Subsidiary of Israel’s Gilat Secures $7 Million U.S. Army SATCOM Contract
+
+Israel’s Gilat Satellite Networks' subsidiary, Gilat DataPath, has secured a major U.S. Army contract worth over $7 million initially, with potential to scale to $70 million over five years. The deal, awarded under the GTACS II framework, will provide global field and technical services to support the Army’s Command, Control, and Communications Networks (PEO C3N). This win underscores Gilat DataPath’s growing role in delivering advanced satellite communications solutions to enhance U.S. defense capabilities.
+
+Azerbaijan Space News
+
+
+
+A rendering of Azerbaijan’s AzerSpace-2 communication satellite. Source: Azercosmos.
+Azerbaijan Solicits Bids From Türkiye, Israel, Others for $800 Million Communication Satellite Program
+
+Azerbaijan is nearing the award of a major $800 million communications satellite contract, with finalists including Türkiye’s Turkish Aerospace Industries (TAI), Israel’s Israel Aerospace Industries (IAI), Thales Alenia Space, and SpaceX. The procurement is central to Baku’s strategy to position itself as a global communications hub and expand geopolitical influence. The satellite will be built to meet top-tier international standards and aligns with Azerbaijan’s broader ambitions to diversify its economy through advanced space infrastructure.
+
+Türkiye’s ASELSAN Proposes to Participate in Azerbaijan’s AzerSpace-3 Satellite Program
+
+Türkiye’s ASELSAN has announced its intent to share advanced space technology expertise with Azerbaijan, signaling a strategic deepening of bilateral cooperation in aerospace. Following the successful one-year operation of Türkiye’s fully indigenous TÜRKSAT-6A satellite—featuring ASELSAN-designed Ku- and X-band payloads—the company now aims to participate in Azerbaijan’s Azerspace-3 program. ASELSAN proposes a co-development and technology transfer model that would localize satellite payload production and expand Azerbaijan’s space engineering capabilities, positioning both countries as regional players in sovereign space systems.
+
+Azerbaijan Wins APRSAF CanSat 2025 Competition in Japan
+
+Azerbaijan’s National Science Team, supported by Azercosmos’ Space Academy, secured first place at the APRSAF CanSat 2025 competition in Japan, a student satellite design challenge co-organized by JAXA. Competing against teams from China, Japan, Thailand, and the Philippines, the Azerbaijani students built and launched a miniature satellite simulating real mission systems. The win underscores Azerbaijan’s rising profile in space education and technology, reflecting both growing regional integration with Asia-Pacific space initiatives and a deliberate national effort to cultivate aerospace talent through international collaboration.
+
+Iran Space Developments
+
+
+
+Source: Zona Militar.
+Iran Admits Jamming GPS During Conflict With Israel, Mulls Using China’s BeiDou
+
+In the aftermath of its recent conflict with Israel, Iran has admitted to deliberate GPS jamming for military purposes, disrupting navigation services for millions and exposing digital vulnerabilities across civilian and commercial sectors. The disruptions—intended to thwart precision-guided strikes—have prompted Tehran to consider adopting China’s BeiDou navigation system as part of deepening strategic ties with Beijing. Acknowledging the economic toll on over 10 million internet-dependent businesses, Iranian officials now face mounting pressure to balance national security imperatives with digital resilience and public trust amid ongoing regional volatility.
+
+Amid Strategic Setbacks and Economic Strain, Iran Commits to Space Programs
+
+Amid escalating tensions with Israel, Iran has significantly increased military spending, with parliament approving a sweeping defense bill that includes continued investment in missile and space programs. Despite economic strain, Tehran is doubling down on its satellite and aerospace ambitions—efforts that remain opaque in cost but central to the regime's strategic posture. The persistence of these programs, even under fiscal pressure, underscores Iran's intent to project power beyond its borders through both terrestrial and orbital capabilities.
+
+Iran Lodges Complaint About Starlink at the International Telecommunication Union
+
+Iran has formally lodged a complaint with the UN’s International Telecommunication Union (ITU), accusing Starlink of illegally operating within its territory during last month’s war with Israel. Despite being banned, Starlink usage in Iran has surpassed 100,000 users, offering a high-speed alternative to the country’s censored internet. The Ministry of Communications claims Starlink acted without a license, while Iranian authorities consider legal action under a proposed bill equating unauthorized satellite internet use to espionage. The episode underscores the geopolitical and regulatory frictions surrounding satellite internet access in closed regimes.
+
+Share Middle East Space Monitor by AzurX
+
+Saudi Arabia Space News
+
+
+
+Saudi Minister Abdullah Al Swaha visiting the UK. Source: Saudi Press Agency.
+Saudi Arabia and UK In Talks to Cooperate on LEO SATCOM Connectivity
+
+A delegation from Saudi Arabia led by Minister Abdullah Al Swaha held strategic talks in the UK to advance cooperation in space and satellite technologies, with a particular focus on low Earth orbit (LEO) connectivity. A highlight of the visit was a meeting with OneWeb to explore high-speed satellite broadband applications across Saudi Arabia’s key sectors, including transport, energy, and education. The delegation’s broader tour underscored Saudi ambitions to integrate cutting-edge space connectivity into its deep tech and innovation agenda, reinforcing its national drive to become a global player in next-generation space infrastructure.
+
+Saudi Space Agency Successfully Concludes Madak Space Competition With Return of AX-4 Mission
+
+The Saudi Space Agency has successfully concluded the Madak Space initiative, which saw 10 student-led experiments from Saudi Arabia and other Arab countries conducted aboard the ISS during the AX-4 mission. Designed to fuse science, engineering, and art in microgravity, the program—run in partnership with the Misk Foundation and Ilmi Center—marks the Arab world’s first competition of its kind. By integrating regional youth into real spaceflight experiments, under the supervision of astronaut Rayyanah Barnawi and ISS veteran Peggy Whitson, the initiative underscores Saudi Arabia’s broader strategy to foster homegrown space capabilities and scientific innovation.
+
+Arabsat and First Gulf Company Partner to Provide SATCOM in Saudi Arabia
+
+Arabsat, headquartered in Saudi Arabia, and First Gulf Company (FGC) have signed a strategic agreement to deliver high-capacity very small aperture terminal (VSAT) and satellite data services across Saudi Arabia, leveraging Arabsat’s GEO Ku-band infrastructure. Targeting telcos, MNOs, and ISPs, the service will launch at 140 Mbps and scale by over 70% during the contract term, aligning with national ambitions for a robust digital backbone. The initiative integrates support for emerging technologies such as IoT, cloud, and AI, positioning the partnership as a key enabler of Saudi Arabia’s future-ready satellite communications ecosystem.
+
+UAE Space Developments
+
+
+
+Artistic rendering of the Al Yah-4 and Al Yah-5 communication satellites. Source: Airbus.
+UAE’s Space42 Approves $695.5 Million Financing for Al Yah-4 & -5 Satellites
+
+The UAE’s Space42 has secured board approval for a $695.5 million financing transaction involving its subsidiaries Yahsat Treasury and Star Satellite Communications, aimed at supporting the Al Yah-4 and Al Yah-5 communication satellites program. The move follows the May inauguration of the region’s first High Altitude Platform Stations (HAPS) manufacturing facility in Abu Dhabi by its subsidiary Mira Aerospace, signaling Space42’s strategic commitment to advancing sovereign space and stratospheric capabilities.
+
+UAE’s Space42 Completes Critical Design Review for Al Yah-4 & Al Yah-5 Satellites
+
+The UAE’s Space42 has completed the Critical Design Review (CDR) for its next-generation geostationary communications satellites, Al Yah-4 and Al Yah-5, marking a pivotal milestone in their development. Built by Airbus Defence and Space, the fully flexible, software-defined payloads of AY4 and AY5 will advance Space42’s strategic goals of global non-terrestrial and secure connectivity leadership. The CDR’s completion signals readiness to enter manufacturing and integration, reinforcing Space42’s expanding presence in the high-performance GEO satellite segment.
+
+4iG strikes strategic partnerships with UAE giants e&, Mubadala, EDGE Group during president’s official visit to Budapest
+
+
+Hungarian PM Viktor Orban hosts UAE President Sheikh Mohamed bin Zayed Al Nahyan in his first official visit at his residence in Buda Castle. / bne IntelliNews
+UAE’s EDGE Group Signs MoU With Hungary’s 4iG for Space & Satellite Cooperation
+
+During the UAE President’s state visit to Hungary, 4iG Space and Defence Technologies (4iG SDT) and EDGE Group signed three strategic MoUs advancing bilateral cooperation in satellite, space, and autonomous defence technologies. One agreement focuses explicitly on co-developing space solutions and exploring joint commercialisation across the value chain, including infrastructure and technology transfer. Another targets the adaptation of EDGE’s VEGA and ORION platforms—covering unmanned traffic and drone fleet management—for European space and airspace systems. The partnership underscores both firms’ ambitions to develop NATO-compatible, export-ready space and satellite capabilities, positioning Hungary and the UAE as emerging players in Europe’s sovereign defence and space ecosystem.
+
+Share Middle East Space Monitor by AzurX
+
+Other Regional Space News
+
+
+
+The SatRev-ETCO Space ground antenna in Oman. Source: SatRev.
+Oman’s ETCO Space & Poland’s SatRev Complete New Satellite Ground Station
+
+Poland’s SatRev has completed the handover of a new satellite ground station in Oman, marking a major milestone in its expansion across the Middle East. Developed in partnership with state-run ETCO Space, the station supports UHF and S-band communications and is built to withstand Oman’s harsh desert and coastal conditions. The project stems from a 2021 MoU signed at IAC Dubai and includes support for Oman’s first cubesat and technical training. Designed for scalability, the facility operates under a Ground Station as a Service (G-SaaS) model and is part of a broader push to deliver sovereign space capabilities. SatRev, which has launched 12 satellites to date and is preparing for a 2025 IPO on Warsaw’s NewConnect, is also expanding into Africa via a partnership with Rwanda’s Locus Dynamics to develop Earth observation infrastructure.
+
+Share Middle East Space Monitor by AzurX
+
+Türkiye’s TÜRKSAT Achieves Robust Financial Growth in 2024
+
+TÜRKSAT’s 2024 Activity Report highlights robust financial growth, with EBITDA reaching approximately $114 million and a 22% margin, supported by sustained investment in satellite and cable communications infrastructure. Total net sales rose to around $511 million, reflecting increased demand for broadband (Kablonet) services despite a decline in cable TV subscriptions. The company expanded its e-Government Gateway to 1,079 services, now accessed by over 66 million users, and strengthened national cyber resilience through managed security services and simulation programs for key ministries. TÜRKSAT’s continued focus on space infrastructure, digital transformation, and cybersecurity cements its strategic role in Türkiye’s sovereign technology ecosystem.
+
+Bahrain to Lead Development of the Arab Space Strategic Plan
+
+Bahrain has been appointed to lead the development of the Arab Space Strategic Plan, marking a significant recognition of its expanding role in regional space governance. During the 11th Arab Space Cooperation Group meeting in Egypt, Rasha Al Amad of the Bahrain Space Agency was selected to chair the committee comprising eight Arab space agencies. The committee will craft a unified, performance-driven roadmap to align national efforts, foster innovation, and enhance the Arab region’s position in the global space sector—reinforcing Bahrain’s credentials in strategic planning and international collaboration.
+
+
+
+
+Amit Somani, CEO of Sama X. Source: Gulf Business.
+Kuwait’s Sama X Poised to Enable Satrlink Services Across the Middle East
+
+Sama X, backed by Kuwait’s Alghanim Industries, is positioning itself as a leading regional enabler of Starlink’s satellite broadband services across the Middle East, targeting governments, enterprises, and underserved communities. In an interview with Gulf Business, CEO Amit Somani highlighted Starlink’s transformative value proposition—low-latency, high-speed internet with affordable, portable terminals—ideal for regions where fiber and 5G remain economically unviable. With localized pricing, regulatory approvals, and Arabic-language support, Sama X’s model stands apart from other resellers. As digital demand soars, especially for AI-enabled and mission-critical applications, Starlink’s LEO network is emerging as a catalyst for economic and technological advancement across the region.
+
+Somalia Participates in Arabsat Meeting, Signaling Intent to Deepen Arab Space Cooperation
+
+Somalia’s Department of Space and Satellites participated in Arabsat’s 48th annual meeting, reaffirming its commitment to deeper Arab space cooperation and regional technology integration. The virtual session, which approved financials and elected a new board for 2025–2026, also addressed outstanding member debts and confirmed Riyadh as the 2026 host coinciding with Arabsat’s 50th anniversary. Somalia’s engagement signals its strategic intent to expand its role in regional space initiatives and foster institutional ties within the Arab satellite ecosystem.
+
+Opinion: U.S. Can Learn From Türkiye & UAE on Growing Space Power
+
+In War on the Rocks, Nazmelis Zengin writes that Türkiye and the United Arab Emirates (UAE) are emerging as agile, strategically autonomous space powers whose diversified ecosystems offer vital lessons for the United States. Türkiye has pursued a multi-vector approach, balancing NATO commitments with active engagement in both Western and non-Western space frameworks while advancing indigenous satellite programs and human spaceflight capabilities. The UAE, meanwhile, has leveraged diplomatic neutrality and financial strength to build partnerships with the U.S., Japan, Russia, and China, becoming a key player through flagship initiatives like the Hope Mars Mission and its astronaut corps. Both states demonstrate how mid-tier powers can co-develop capabilities, navigate multipolar alliances, and shape resilient space strategies—models the U.S. should engage with not as clients but as equal partners in the next phase of spacepower.
+
+Opinion: China’s Expanding Space Network Encompasses Middle East & North Africa
+
+Meia Nouwens, Senior Fellow for Chinese Security and Defence Policy at the Intenational Institute for Strategic Studies (IISS), writes China's deepening space engagement with the “Global South: increasingly includes strategic partnerships with key Arab and North African states, such as Algeria, Egypt, Iran, Oman, Saudi Arabia, and Sudan. Through bilateral agreements and satellite launches on their behalf, China is extending its influence and embedding dual-use space infrastructure across these regions. Algeria, Egypt, Iran (planned), Oman, Saudi Arabia, and Sudan have all either received Chinese-built satellites or benefited from launch services, underscoring Beijing’s role as a critical enabler of space access beyond the West. These ties are reinforced through China's global telemetry, tracking, and control (TT&C) network and space diplomacy, which supports both civil and military objectives, including signals intelligence and space situational awareness. As China finalizes its 2026–35 space development plan, these partnerships are expected to deepen, amplifying China’s influence across strategically pivotal regions in North Africa, the Gulf, and the Horn of Africa.
+
+Be sure to catch up with space activities in the region in the next edition of Middle East Space Monitor’s space roundup!
+

@@ -1,0 +1,56 @@
+VSAT set up in Iraq using Eutelsat 10 east satellite
+Pointing angles
+Input your data to the dish aiming pointing calculator for Iraq as follows:
+Satellite 10 east longitude.  Site location: e.g. 44.99 east longitude, 33.99 north latitude.
+Use latitude and longitude data accurate to 0.01 deg, from a GPS receiver, in decimal format.
+
+The calculator gives pointing angles (approx):
+Azimuth 227 deg magnetic compass; this is south west, about 45 to the west of south.
+Elevation: 36 degrees.  Set this on the elevation scale as best you can.
+Feed rotation polarisation angle:  40 deg clockwise looking towards the satellite.
+
+Polarisation setting
+Assuming you wanted downlink polarisation is called "vertical polarisation".
+
+Polarisation angle = 0 deg
+
+The nominal downlink polarisation is vertical, so if the satellite were due south of Iraq the polarisation as received on the ground would also be vertical.  The picture on the right shows a view of the feed and the LNB location, looking towards the satellite, which may be imagined as being due south of you. Note the pin inside the LNB waveguide is vertical.
+
+
+Polarisation angle = 0 deg
+Vertical polarisation
+
+Polarisation angle = +40 deg
+
+The real satellite is approximately south west, and while still  facing towards the satellite, in a south west direction, you will see that the polarisation is tilted approx 40 degrees to the right, clockwise.  I have drawn the LNB on the left, (while you face towards the satellite) since it is easier to twist the LNB upwards when it is on the left hand side, it does not then hit the mounting bracket as it is turned clockwise and upwards.
+
+Polarisation angle = +40 deg
+Vertical polarisation turned 45 deg clockwise
+
+Set the LNB at approx 40 deg, slightly lower than the 45 deg shown in the picture.  It needs to be about +/- 20 deg accuracy to acquire the satellite but will need final rotation adjustment to 1 deg accuracy.
+
+Set up the mount pole vertical.  Put some grease on the top 8 inches of the pole and also on the inside of the canister.  Put the canister on top and tighten all the top nuts etc but tighten the canister nuts so that canister can still be rotated, by pulling on the side of the dish.  If it is fairly tight set the elevation to 36 degrees. If it is is a bit loose set the elevation angle on the scale to +1 deg above what you want.
+
+Use a compass to determine where is south west and swing the dish around boldly (+/- 45 deg) and you will find the satellite in a few seconds.  You will see several satellites.
+
+Set the spectrum analyser:
+You need to konw some priminant carriers so as to recofgnise the pattern.  See list of carriers here: https://www.lyngsat.com/Eutelsat-10A.html
+
+Example outlink carrier: Centre frequency: 11.595 MHz.  Symbol rate 30000, so approx 30 MHz wide.
+
+The L band frequency in the coax cable and also as would appear at a spectrum analyser depends on local oscillator frequency of the type of LNB used.
+
+If the LNB LO is 10 GHz then tune to: 1.595 GHz or 1595 MHz
+
+Since the carrier is 30 Msps and therefore approx 30 MHz wide at the -3.8 dB points, a span of 100 MHz, resolution bandwidth 1 MHz, and video bandwidth 100 Hz are suggested.
+
+Once the carrier is found peak up in azimuth.  Then tighten the clamps and the elevation will increase a little. Then peak up in elevation.
+
+If the signal looks awful with lots of interference try to find the cause.  First rotate the feed to reduce any cross polar interference.  If this has no effect then leave the polarisation as best you can by the 40 deg calculation above.  Second, and this may apply if you have a Channelmaster 1m antennas with medium duty mount and Hughes RF module and a rectangular tube spacer.  The antenna may be out of focus and receiving adjacent satellites also.  In this case you need to move the feed assembly axially towards the dish till the focus (and gain) are improved.  The wanted signal will increase and the adjacent satellite interference reduce.  
+
+Also check your dish for flatness.  Use two fishing lines up/down and across.  If they are more than 1mm apart in the centre use the two short rear side struts and slacken the screws at the slot ends while someone bends the dish the other way while they are retightened.  The dish rim should then be flat to less than 1mm. Distortion depends on the elevation of the dish and the weight of the RF assembly.  Bad distortion can cause 4 dB loss.
+
+Polarisation adjustment
+Turn the feed away from its correct position until some significant cross-polar interference appears or until the wanted signal degrades significantly.  Accurately record these parameters and mark the angle carefully.  Repeat on the opposite side and then accurately halve the distance between the two marks and rotate the feed to that final position.
+
+Disconnect the mains power to the indoor modem, connect up the TX cable, re-power the system and start reading the instructions in the manual on the disk.

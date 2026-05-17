@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+crewai
+crewai[tools]
+openai
+tenacity
+python-dotenv
+pydantic-settings
+chromadb
+sentence-transformers
+langchain-text-splitters
+langchain-core
+pypdf
+requests
+weasyprint

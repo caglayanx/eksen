@@ -1,0 +1,38 @@
+
+Iraq flag
+Mobile Operators
+Asiacell
+Fastlink [Kuzey Irak]
+Korek Telecom
+Vodafone Iraq (NMTC)
+Zain Iraq
+Login to check the cellular bands of the operator
+CMC
+Official Website：	http://www.cmc.iq/
+Certification Type：	Compulsory
+Certificate Validity：	1 year(s)
+Local Testing：	Not required
+Local Representative：	Required
+Marking Requirement：	No
+Modular Approval：	Not allowed
+Details
+
+
+There is no question for this certification scheme. 
+Iraq: CMC publishes technical specifications for equipment operating in the 446.0-446.2 MHz band
+Published at：2025-11-05
+On November 5, 2025, the Iraqi Communications and Media Commission (CMC) released the first version of TR12 on its official website, which specifies the control measures for PMR446 devices to use the 446.0-446.2 MHz frequency band. The regulation states that the type approval of PMR466 equipment is based on the international standard ETSI EN 300 296. The effective date of the document is September 22, 2025.
+
+Main technical specifications:
+
+Frequency range: 446.0 – 446.2 MHz;
+Maximum output power: 0.5W ERP;
+Channel bandwidth: 12.5 kHz (16 channels);
+Antenna: must be an integrated and non-removable part of the device.
+Click this link to view the original TR12 specification.
+
+Iraq: CMC launches public consultation on draft regulations on short-range wireless devices and ultra-wideband
+Published at：2025-04-13
+On 13 April 2025, Iraq's Communications and Media Commission (CMC) launched a public consultation on draft regulations for short-range wireless devices (SRDs) and ultra-wideband (UWB). The SRD equipment regulation contains several series of wireless devices, which refers to the corresponding EU technical standards without version. For Wi-Fi 6e, the standard is EN 303 687 , the frequency band is 5925-6425MHz, the power limit is 200mW, and it is only for indoor use.
+
+Click this link to view the original public consultation, the comment period is until 13 May 2025.

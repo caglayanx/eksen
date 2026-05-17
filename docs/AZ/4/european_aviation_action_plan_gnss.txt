@@ -1,0 +1,7 @@
+European Aviation Action Plan for Ensuring Safe Operations during GNSS Interferences
+GNSS RFI Action Plan
+
+Following a letter from 13 Member States to the European Commission on June 6, 2025, asking to take immediate action against Radio Frequency Interferences on Global Satellite Navigation System, EASA and EUROCONTROL decided to join their resources and experience, to prepare a common action plan covering aviation in the short and medium term. This plan is based on activities initiated by both organisations (Safety Impact Assessments, Best intervention Strategies, workshops and consult tions) and is taking into consideration proposals from other bodies (ICAO, IATA). Its first objective is to maintain safety of operations while avoiding negative impact on airspace capacity whenever possible by containing the threat for at least the next 3 years. The longer-term actions are anticipated to provide increased GNSS robustness and resilience. The second objective is to reach global harmonisation by promoting this European action plan through ICAO.
+
+Files
+European Aviation Action Plan for Ensuring Safe Operations during GN

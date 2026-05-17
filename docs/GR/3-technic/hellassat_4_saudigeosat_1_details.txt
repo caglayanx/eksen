@@ -1,0 +1,28 @@
+Hellas Sat 4/SaudiGeoSat 1
+HomeSpacecraft by countryGreece
+
+Hellas Sat 4/SaudiGeoSat 1 (A2100 upgraded) [Lockheed Martin]
+
+Hellas Sat 4/SaudiGeoSat 1 is a Greek geostationary communications satellite for Hellas Sat, which is owned by Arabsat.
+
+Arabsat and King Abdulaziz City for Science and Technology (KACST) announced in April 2015 contracts for Lockheed Martin to manufacture two A2100 communications satellites - Arabsat 6A and Hellas Sat 4/SaudiGeoSat 1. The contracts were signed April 9, 2015. Construction of the satellites commenced immediately and was completed for a launch in 2018.
+
+The satellite was built on Lockheed Martin's LM2100 bus, a modernized version of A2100 bus, which builds on that flight-proven design with advanced innovations including propulsion, solar arrays and electronics.
+
+The Saudi Geostationary Satellite 1 communications payload provides advanced Ka-band spot beam communications services for KACST, a government organization responsible for promoting science and technology in Saudi Arabia. The Hellas Sat 4 communications payload delivers advanced Ku-band regional beam communications services for the Arabsat subsidiary.
+
+Hellas-Sat-4/SaudiGeoSat-1 operates from a location at 39° East. The satellite is designed for a 15-year service life, and was manufactured in Denver, Colorado.
+
+Nation:	Greece, Saudi Arabia
+Type / Application:	Communication
+Operator:	Hellas Sat, ArabSat
+Contractors:	Lockheed Martin
+Equipment:	Ku and Ka-band transponders
+Configuration:	LM-2100
+Propulsion:	Hybrid Electric/Chemical
+Power:	2 deployable solar arrays, batteries
+Lifetime:	15 years
+Mass:	6495 kg; 3950 kg (dry)
+Orbit:	GEO
+Satellite	COSPAR	Date	LS		Launch Vehicle	Remarks
+Hellas Sat 4/SaudiGeoSat 1	2019-007A	05.02.2019	Ko ELA-3		Ariane-5ECA	with GSat 31

@@ -1,0 +1,47 @@
+Dozens dead, GPS interference a factor – Flight Radar 24, Wall Street Journal
+
+December 26, 2024
+
+Blog
+
+Written by Editor
+
+Image: Shutterstock
+
+What’s new: A commercial passenger aircraft was shot down in an area where there was GPS jamming and likely spoofing.
+
+Why it’s important: GPS is essential for (1) safe aircraft navigation and (2) ADS-B the system that let’s air traffic controllers and anti-aircraft weapon users know which aircraft are which.
+
+What else to know:
+
+We are fairly confident Russian forces did not intend to shoot down a civilian passenger aircraft.
+Russia has been irresponsibly jamming and spoofing all over eastern and northern Europe. It is as though Russian forces have been encouraged to jam and spoof as much as they want or are able, regardless of whether or not it is important for their own defense or military aims.
+These kinds of things are bound to happen in the “fog of war,” especially if efforts are made to make things as foggy as possible.
+ Russia started this all with the invasion of Ukraine and killing civilians does not seem to have been a concern or something they have tried to avoid.
+We don’t think this will have much impact on Russian actions going forward.
+WE DON’T SEE HOW GPS INTERFERENCE COULD NOT HAVE BEEN A FACTOR IN THIS.
+The first item below offers readers the chance to look at flight data and come to their own conclusions.
+
+Thanks to member Mitch Narins for bringing this to our attention.
+
+
+
+Azerbaijan Airlines E190 crashes near Aktau
+Azerbaijan Airlines flight J28243 crashed near Aktau, Kazakhstan, on 25 December while attempting an emergency landing. ADS-B data and video of crash indicate possible control issues with the aircraft. Local officials report 62 passengers and five crew onboard.
+
+READ MORE, WATCH VIDEO, DOWNLOAD DATA
+
+ 
+
+
+
+Dozens Dead in Airliner Crash ‘Likely’ Caused by Russian Air Defenses
+Ukraine and aviation experts rejected other explanations for an Azerbaijan Airlines crash that killed at least 38 people
+By Matthew Luxmoore and Benjamin Katz
+Updated Dec. 25, 2024 10:29 pm ET
+
+At least 38 people were killed when a passenger jet headed for Russia crashed in Kazakhstan in an incident that Ukraine officials and aviation experts said was likely caused by Russian antiaircraft fire.
+
+The Azerbaijan Airlines plane was flying from Baku in Azerbaijan to Grozny in Russia and diverted course over an area where Moscow’s air defenses have battled Ukrainian drones in recent weeks. The flight—carrying 62 passengers and five crew members—crashed near Aktau in western Kazakhstan after turning around and flying east over the Caspian Sea. As many as 29 passengers survived.
+
+Citing assessments of footage of the crash, the damage to the aircraft, and recent military activity, aviation-security firm, Osprey Flight Solutions, said in an alert to airlines that the flight “was likely shot down by a Russian military air-defense system.”

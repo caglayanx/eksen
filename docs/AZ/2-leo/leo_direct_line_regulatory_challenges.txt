@@ -1,0 +1,63 @@
+A direct line from LEO: problem or opportunity?
+ Vaughan O'Grady
+ 08 April 2026
+ 19085 views
+                 
+A direct line from LEO: problem or opportunity?
+Is the regulatory environment for satellite communications keeping up with advances in technology, especially with the growth of low Earth orbit (LEO) satellite services?
+
+We heard the mobile industry’s view – with reference to LEO’s influence on direct-to-user services like direct-to-home satellite broadband, satellite Wi-Fi hotspots and direct-to-device satellite services to unmodified smartphones – in a recent discussion at Mobile World Congress 2026. But how do satellite operators feel?
+
+As Mr Peng Zhao, VP Policy & Regulatory of GSOA, a global CEO-driven association representing the entire satellite ecosystem points out, not long ago satellite communications was mainly about broadcast.
+
+The immense growth of both LEO and new capabilities from the GEO and MEO operators have brought new or enhanced applications: direct-to-device, home broadband, satellite IoT, backhaul, maritime and inflight connectivity among them.
+
+Costs have gone down significantly: launching and manufacturing are cheaper. Enablers like software-defined satellites and flat panel antennas now exist. In particular satellite is increasingly seen as a viable option for connecting the unconnected in remote and rural areas.
+
+But for the satellite industry, there are very specific regulatory challenges. Unlike terrestrial services, Peng Zhao notes, satellite communications “doesn’t really stop at any border. Any huge differences between countries’ regulations can have a negative effect. Satellites cannot change their power each time they cross a country, for example.”
+
+His group is concerned about this – and other issues, such as spectrum allocation and use and the related problem of interference mitigation; if a country has multiple borders, frequency use permitted in one country may interfere with terrestrial services in another if not harmonised. Gateway requirements and legal intercept must also be considered. The related issue, of course, is whether regulation adds unnecessary costs to the business model.
+
+As Zhao explains: “Unlike incremental deployment of terrestrial services, all the infrastructure investment in satellite is upfront. You have to put the equivalent of base stations in the sky first, and you have to deploy them completely before you can start operating. And when we want to recoup this investment, it has to be across many, many different countries and territories.”
+
+Launch and manufacture costs may have gone down but a LEO constellation involves hundreds or thousands of satellites; getting it in place is still a major investment. Lluc Palerm-Serra, Research Director at Analysys Mason overseeing the research on Satellite Communications, points out that while the cost of operating a constellation is not very high, “the upfront capex to launch it is. And – if we do the comparison on, say, cost per megabit metric compared with terrestrial – satellite is significantly more expensive.”
+
+This isn’t necessarily about competing services. In many cases, satellite operators have established alliances with MNOs. Indeed, mobile industry association the GSMA agrees that, where satellite services are delivered through partnerships with terrestrial network operators, established regulatory frameworks can typically provide sufficient safeguards.
+
+However, the GSMA has recently zeroed in on LEO-supplied direct-to-user services that bypass mobile services. In this area, regulatory frameworks are at varying stages of development, with Michaela Angonius, GSMA Head of Policy and Regulation, saying: “Regulation hasn’t kept up with speed [of introduction] of the type of services that are being provided." This is a concern that notably applies to LEO broadband but could also impact direct-to-device (D2D), a service that allows some handsets – dedicated or regular smartphones depending on the spectrum – to communicate by satellite.
+
+For this reason, the GSMA has recently called for a number of regulatory responses in a recent LEO-focused policy paper on direct-to-users connectivity services called Regulatory Preparedness for Satellite Services (available at gsma.com).
+
+A key suggestion is that of transparent regulatory requirements for satellite operators, with terms and conditions that are clearly defined, unambiguous and easily accessible to all stakeholders. Harmonisation is another: that is, aligning regional and international policies to reduce fragmentation and enhance regulatory efficiency.
+
+For the GSMA, as we noted in our earlier story, it is also essential that new regulations maintain necessary safeguards such as robust consumer protection arrangements. Regulatory approaches, it suggests, should therefore remain responsive to considerations such as national security and public safety, ensuring that appropriate local authorities retain sufficient oversight.
+
+As Angonius explains: “Regulation should address broader societal needs. Consumer rights should be consistent, and law enforcement should have the same tools regardless of how communication is delivered.”
+
+Of course, while the GSOA acknowledges that regulation will respond to the changes satellite brings about, it wants to avoid unnecessary additional costs or regulatory burdens. As Zhao says: “When a satellite network has to comply with, let's say, 193 different kinds of legal intercept requirements, because you have so many countries, it becomes impossible to design any satellite system to do that.” Similarly, a local presence – shops, customer support centres, etc – would not be feasible. “It’s not part of any business plan for satellite operators.”
+
+At the moment, if a satellite operator wants to be able to operate in a country, it needs first to complete an ITU filing that describes the constellation and gives spectrum rights at the ITU level. Then the operator must go country by country and ask for permission to use those spectrum rights in each individual country, each of which may have different rules.
+
+As Zhao notes, new regulations could add layers on top of any kind of licensing rights needed from the specific countries. “So if on top of that you put all the same regulation as terrestrial, this is just not going to be feasible for any global operators.”
+
+A very detailed GSOA document deals with these and other issues. Called Satellite Licensing Best Practices (and available at GSOA.space), it takes on every conceivable area of satellite business, from authorisations, public policy, earth stations and gateways to licensing and, of course, the growing number of service categories.
+
+Again, however, the concern for the GSMA  is more specific: direct-to-users LEO connectivity services, particular those delivered without partnerships with terrestrial operators, and how they are regulated.
+
+This includes D2D, though media excitement about this technology may be overstated; despite the attention, it is not yet able to offer what 5G can and mainly provides SOS and SMS capabilities – though D2D using IMT spectrum also offers modest data capabilities.
+
+Palerm-Serra says: “In the next two to five years [D2D] satellite capability won’t match the capabilities of terrestrial networks”. However, there is market potential. His company’s research suggests that as well as target markets in rural areas, “some people in urban areas may be willing to pay slightly more to have a D2D service just for peace of mind – just in case you go off road and you need it or in case the network goes down”.
+
+Spectrum for D2D is the title of another recent GSMA policy paper which addresses a number of potential issues the technology may offer for MNOs. For instance, some D2D systems using IMT spectrum can use standard handsets, but technical coexistence and international regulations are still under consideration as part of the WRC-27 process. Cross-border interference may also be an issue. D2D can also use bands already allocated to the mobile satellite service (MSS). For MSS there are no cross-border issues as harmonised spectrum is used. Local regulatory frameworks often exist but specific handsets are needed.
+
+Whatever direct-to-user services satellite may enable, most industry groups will agree that regulation needs to adapt to at least some of them. The ITU may be able to offer coherence at international level, but fragmented regulation that differs from country to country won’t help satellite or terrestrial operators.
+
+However, Zhao believes that regulation should take into account that satellite “from our perspective, is very different technology from terrestrial”.
+
+In reality of course, terrestrial and satellite companies are already working together. Among many examples, we reported yesterday that Thaicom will serve as an authorised distributor and landing rights holder for Amazon Leo in Thailand. Japan’s KDDI and Starlink (one of the few big names in the satellite industry that is not a member of the GSOA) have launched a service allowing standard smartphones to connect directly to satellites without specialised hardware.
+
+In fact, there are good reasons for mobile operators to support some satellite-only services. As Angonius says: “There are certain areas where being able to cover those 4% of the population [who are unconnected] with satellite services – rather than putting very stringent coverage obligation on mobile operators – is beneficial for our industry as well.”
+
+So for national regulators who seek better coverage everywhere, it might be worth finding ways to support all providers equitably, or as Angonius puts it, “thinking about how to incentivise the mix of communications providers”.
+
+

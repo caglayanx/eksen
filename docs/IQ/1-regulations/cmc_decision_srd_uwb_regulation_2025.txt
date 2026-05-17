@@ -1,0 +1,30 @@
+The latest regulatory updates from Iraq
+Written by: Nemko
+  Back                                                                                                                                                                                     
+
+iq
+
+Iraq, officially the Republic of Iraq, is in West Asia at the bottom of the Persian Gulf. It borders Saudi Arabia, Turkey, Iran, Kuwait, Jordan and Syria. 
+The population is about 46 million. Baghdad is the capital and the largest city.
+
+Iraq’s national Communications & Media Commission (CMC) has officially issued Decision No. 122/Q/2025 effective from 22 September this year, with the first national regulatory framework for Short-Range Devices (SRD) and Ultra-Wideband (UWB) equipment.
+This regulation harmonizes Iraq’s radio spectrum management with the European ETSI- and international ITU standards and establishes a clear technical foundation for modern wireless and UWB-based devices.
+
+The Key Highlights are
+• Applies to all SRD and UWB devices, including IoT sensors, RFID, WLANs, radar-based instruments, medical implants,
+  automotive systems, and industrial monitoring devices.
+• Frequency ranges include UWB operation permitted in 3.1–10.6 GHz band, with specific sub-ranges for automotive, radar,
+  and tracking applications.
+• Technical Parameters:
+ – Max average power: –41.3 dBm/MHz EIRP, peak 0 dBm/50 MHz.
+ – Use of Low Duty Cycle (LDC) and Detect and Avoid (DAA) mechanisms required.
+ – Outdoor fixed or airborne UWB devices are not permitted.
+• Compliance standards based on ETSI EN 302 065-1/2/3/4, ECC/DEC/(06)04, ensuring alignment with CEPT and EU frameworks.
+• The equipment must be approved by the CMC before import, sale, or use in Iraq.
+• Arabic/English labeling is required, and importers must be registered with the CMC.
+• The CMC will conduct market surveillance audits and testing to verify continued compliance.
+• Certificate validity 1 year
+
+For assistance with certification for Iraq and other countries in Persian Gulf region please contact Lar.Hjerpseth@nemko.com 
+
+(This article is based on the information shared by an email from CERTA Global Consulting; edited by T.Sollie)

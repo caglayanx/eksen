@@ -1,0 +1,33 @@
+	
+AZERSPACE 1
+Track AZERSPACE 1 now!
+AZERSPACE 1 is classified as:
+
+Geostationary
+
+NORAD ID: 39079 
+Int'l Code: 2013-006B 
+Perigee: 35,789.6 km 
+Apogee: 35,795.9 km 
+Inclination: 0.0 ° 
+Period: 1,436.0 minutes 
+Semi major axis: 42163 km 
+RCS: 9.2022 m2 (large) 
+Launch date: February 7, 2013
+Source: Azerbaijan (AZER)
+Launch site: FRENCH GUIANA (FRGUI)
+
+AZERSPACE is Azerbaijan's first satellite and is designed to link the Central Asia nation with Europe, Africa and the Middle East. Known as AZERSPACE within Azerbaijan, the spacecraft was built by Orbital Sciences Corp. in partnership with Measat Satellite Systems of Malaysia, which has rights to the satellite's orbital position at 46 degrees east longitude and plans to use part of the platform's communications capacity. Measat calls the satellite AFRICASAT 1A, noting the company's focus on African coverage with the new spacecraft. The AZERSPACE/AFRICASAT 1A mission will aid customers in the Internet, video distribution, direct-to-home television markets. The government of Azerbaijan will be a primary user of the satellite. 
+Your satellite tracking list
+Your tracking list is empty
+
+
+
+
+
+NASA's NSSDC Master Catalog 
+
+Two Line Element Set (TLE): 
+1 39079U 13006B   26136.46682485  .00000143  00000-0  00000+0 0  9996
+2 39079   0.0144 343.1300 0000746 106.9046 358.2487  1.00275384 48498
+Source of the keplerian elements: AFSPC

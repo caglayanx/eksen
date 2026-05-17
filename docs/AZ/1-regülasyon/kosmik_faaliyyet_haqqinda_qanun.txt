@@ -1,0 +1,139 @@
+Kosmik fəaliyyət haqqında
+Qanun layihələri 30 may 2023        
+30 may 2023
+
+Layihə
+ 
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+Kosmik fəaliyyət haqqında
+ 
+Bu Qanun Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 10-cu, 11-ci, 13-cü və 23-cü bəndlərinə uyğun olaraq, Azərbaycan Respublikasında kosmik fəaliyyətin hüquqi, iqtisadi və təşkilati əsaslarını, kosmik sənayedə sahibkarlıq fəaliyyətinin həyata keçirilməsinə dair ümumi tələbləri müəyyən edir və Yerətrafı orbitlərdə, Ay və digər səma cisimləri və onların orbitləri daxil olmaqla, kosmik fəzada milli fəaliyyətə aid edilən münasibətləri tənzimləyir.
+ 
+1-ci fəsil
+Ümumi müddəalar
+ 
+Maddə 1. Əsas anlayışlar
+1.1. Bu Qanunda istifadə olunan əsas anlayışlar aşağıdakı mənaları ifadə edir: 
+1.1.1. kosmik fəaliyyət – Yerətrafı orbitlər, habelə Ay və digər səma cisimləri və onların orbitləri daxil olmaqla, kosmik fəzanın (bundan sonra – kosmik fəza) texniki, iqtisadi, müdafiə, təhlükəsizlik, informasiya, elmi, ekoloji və digər məqsədlər üçün kosmik obyekt vasitəsilə tədqiqi və istifadəsi, kosmik obyektin kosmik fəzaya çıxarılması, idarə edilməsi, istismarı və Yerə qaytarılması, yaxud istismardan çıxarılması;
+1.1.2. kosmik sənaye – peyk xidmətlərinin təşkili, təqdim edilməsi, kosmik obyektlərin və onların tərkib hissələrinin layihələndirilməsi, istehsalı, kosmik resurslardan və texnologiyalardan istifadə sahəsində elmi tədqiqatların aparılması;
+1.1.3. milli fəaliyyət – kosmik fəaliyyətin subyektləri tərəfindən Azərbaycan Respublikasının kosmik obyektlərinin dövlət reyestrində (bundan sonra – Reyestr) qeydiyyata alınmış kosmik obyektlər vasitəsilə kosmik fəzada həyata keçirilən kosmik fəaliyyət;
+1.1.4. kosmik obyekt – kosmik fəzaya çıxarılması nəzərdə tutulan və ya çıxarılmış kosmik aparat (peyk, kosmik gəmi), kosmik qurğu, raketdaşıyıcı, habelə kosmik aparatların və kosmik qurğuların öz funksiyalarını düzgün icra etməsi üçün nəzərdə tutulan digər avadanlıq;
+1.1.5. kosmik obyektin idarə edilməsi – uçuşun nizamlanması məqsədilə kosmik obyektə münasibətdə yerinə yetirilən izləmə, telemetriya və telekomanda əməliyyatlarının məcmusu;
+1.1.6. kosmik obyektin istismarı – kosmik obyektin təyinatı üzrə istifadə edilməsi, o cümlədən kosmik obyektin texniki imkanlarının digər şəxslərin istifadəsinə bilavasitə verilməsi;
+1.1.7. kosmik operator – kosmik obyektin kosmik fəzaya çıxarılmasını, kosmik obyektin idarə edilməsini və ya istismarını (o cümlədən istismardan çıxarılması), Yerə qaytarılmasını bilavasitə həyata keçirən Azərbaycan Respublikasının hüquqi şəxsləri və ya dövlət orqanları (qurumları), o cümlədən milli kosmik operator;
+1.1.8. kosmik fəaliyyətin subyektləri – kosmik operatorlar, fiziki və hüquqi şəxslər, dövlət orqanları (qurumları);
+1.1.9. milli kosmik operator – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum);
+1.1.10. xarici kosmik operator – kosmik fəaliyyəti bu Qanunun 10.2-ci maddəsinə uyğun həyata keçirən xarici hüquqi şəxs və ya xarici dövlət qurumu;
+1.1.11. Yerin məsafədən müşahidəsi peyk sistemi – Yerin məsafədən müşahidəsini aparan ən azı bir peyk, onun idarəetməsini təmin edən yerüstü idarəetmə mərkəzi, Yerin məsafədən müşahidəsi peykindən ilkin informasiyanın qəbulu, saxlanılması, emalı və ya yayımı (digər şəxslərə verilməsi) üçün istifadə edilən qurğu və avadanlığın məcmusu;
+1.1.12. Yerin məsafədən müşahidəsi – təsvir və digər informasiya əldə edilməsi üçün Yerin, o cümlədən atmosferin məsafədən izlənilməsi (zondlanması);
+1.1.13. yerüstü idarəetmə mərkəzi – kosmik fəzada olan kosmik obyektin idarə edilməsi üçün nəzərdə tutulmuş qəbuledici və ötürücü stansiya (olduğu halda), informasiya texnologiyaları infrastrukturu, bina və tikililər;
+1.1.14. ilkin informasiya – Yerin məsafədən müşahidəsi peykinin müşahidə qurğusu vasitəsilə toplanıb peykdən ötürülən informasiya;
+1.1.15. müşahidə məhsulu – ilkin informasiyanın emalı nəticəsində yaranan təsvir və ya digər növ informasiya;
+1.1.16. orbital mövqe – Yerin ekvatoru üzərində geostasionar orbitdə kosmik obyektin saxlanması nəzərdə tutulan hüdudların mərkəz nöqtəsinin coğrafi uzunluğu;
+1.1.17. peyk xidmətləri – telekommunikasiya, naviqasiya, meteoroloji, tədqiqat, Yer müşahidə və digər təyinatlı peyklər vasitəsilə təqdim edilən xidmət növü.
+1.2. Bu Qanunda istifadə olunan digər anlayışlar Azərbaycan Respublikasının normativ hüquqi aktları və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə müəyyən olunmuş mənaları ifadə edir.
+Maddə 2. Kosmik fəaliyyət haqqında Azərbaycan Respublikasının qanunvericiliyi
+Kosmik fəaliyyət haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən, o cümlədən “Ay və digər səma cisimləri də daxil olmaqla, kosmik fəzanın tədqiqi və istifadəsi üzrə dövlətlərin fəaliyyət prinsipləri haqqında” Müqavilədən (bundan sonra – Müqavilə), bu Qanundan və digər normativ hüquqi aktlardan ibarətdir.
+Maddə 3. Bu Qanunun tətbiq dairəsi 
+3.1. Bu Qanun kosmik fəaliyyətin subyektlərinə şamil olunur. 
+3.2. Azərbaycan Respublikasının hava məkanı daxilində kosmik obyektə münasibətdə Azərbaycan Respublikasının müvafiq qanunları şamil edilir.
+3.3. Ələt azad iqtisadi zonasında kosmik fəaliyyət və kosmik sənaye sahələrində münasibətlər “Ələt azad iqtisadi zonası haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun olaraq tənzimlənir.
+Maddə 4. Kosmik fəaliyyətin prinsipləri
+4.1. Kosmik fəaliyyət aşağıdakı prinsiplər əsasında həyata keçirilir:
+4.1.1. kosmik fəzadan sülh naminə istifadə edilməsi;
+4.1.2. milli maraqların qorunması;
+4.1.3. kosmik resurslardan səmərəli istifadə olunması;
+4.1.4. milli fəaliyyətə dövlət tərəfindən nəzarət edilməsi;
+4.1.5. kosmik fəaliyyətin və kosmik sənayenin təhlükəsizliyi, kosmik tullantıların ətraf mühitə təsirinin azaldılması.
+Maddə 5. Beynəlxalq əməkdaşlıq
+Kosmik fəaliyyət və kosmik sənaye sahələrində beynəlxalq əməkdaşlıq kosmik fəaliyyət haqqında Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq Azərbaycan Respublikasının kosmik və peyk texnologiyalarına əsaslanan malların (işlərin, xidmətlərin) təchizatçılarının mövqelərinin möhkəmlənməsi, belə malların (işlərin, xidmətlərin) tətbiqinin genişləndirilməsi, bu sahədə təcrübə və nailiyyətlərin beynəlxalq mübadiləsi məqsədilə həyata keçirilir.
+ 
+2-ci fəsil
+Kosmik fəaliyyətin dövlət tənzimlənməsi
+ 
+Maddə 6. Kosmik fəaliyyətin tənzimlənməsi
+6.1. Azərbaycan Respublikasında kosmik fəaliyyətin tənzimlənməsi aşağıdakı istiqamətlərdə həyata keçirilir:
+6.1.1. kosmik fəaliyyət üçün nəzərdə tutulan malların (işlərin, xidmətlərin), onlarla əlaqəli proseslərin və istehsal metodlarının sertifikatlaşdırılması;
+6.1.2. kosmik obyektlərin dövlət qeydiyyatı;
+6.1.3. orbital mövqelərin əldə edilməsi və qorunması;
+6.1.4. kosmik fəaliyyətin tənzimlənməsinin bu Qanundan irəli gələn digər istiqamətləri.
+6.2. Milli kosmik operatora öz fəaliyyət istiqamətləri üzrə müvafiq işlərin görülməsi üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi siyahıda nəzərdə tutulmuş lisenziya və icazələrin alınması tələb olunmur.
+Maddə 7. Kosmik fəaliyyət üçün nəzərdə tutulan malların (işlərin, xidmətlərin), onlarla əlaqəli proseslərin və istehsal metodlarının sertifikatlaşdırılması
+Kosmik fəaliyyət üçün nəzərdə tutulan malların (işlərin, xidmətlərin), onlarla əlaqəli proseslərin və istehsal metodlarının sertifikatlaşdırılması “Standartlaşdırma haqqında”, “Telekommunikasiya haqqında”, “Uyğunluğun qiymətləndirilməsi sahəsində akkreditasiya haqqında” və “Texniki tənzimləmə haqqında” Azərbaycan Respublikasının qanunları ilə müəyyən edilmiş hallarda və qaydada həyata keçirilir.
+Maddə 8. Kosmik obyektlərin dövlət qeydiyyatı
+8.1. Kosmik fəaliyyət subyektlərinin kosmik obyektlər üzərində mülkiyyət və digər əşya hüquqlarının əmələ gəlməsi, məhdudlaşdırılması (yüklülüyü), başqasına keçməsi və bu hüquqlara xitam verilməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada Reyestrdə qeydiyyata alınmalıdır. Reyestrin aparılması qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir. 
+8.2. Kosmik fəzada olan kosmik obyektin bu Qanunun tələblərinə əməl etməklə özgəninkiləşdirilməsinə, dövlət mülkiyyətində olan kosmik obyektlərin “Dövlət əmlakının özəlləşdirilməsi haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq özəlləşdirilməsinə, istismara yararsız hala düşmüş və məhv olmaya qarşı tam sığortalanmış kosmik obyektlər üzərində mülkiyyət hüququnun sığorta müqaviləsində nəzərdə tutulduğu halda sığorta ödənişi müqabilində sığortaçılara keçməsinə yol verilir. 
+8.3. Azərbaycan Respublikasının ərazisində aşkar edilmiş kosmik obyekt üzərində mülkiyyət hüququ Müqaviləyə və Azərbaycan Respublikasının mülki qanunvericiliyinə uyğun müəyyən edilir.
+8.4. Reyestrdə qeydiyyata alınmış kosmik obyektlərə, həmçinin belə kosmik obyektlərin orbitdən çıxarılmasına dair məlumatlar milli kosmik operator tərəfindən Müqavilədə nəzərdə tutulmuş qaydada BMT-yə təqdim edilir.
+Maddə 9. Orbital mövqelərin əldə edilməsi və qorunması
+9.1. Azərbaycan Respublikasına ayrılmış və ya ayrılacaq orbital mövqelər və onlarla əlaqədar radiotezliklər dövlətə məxsusdur və “Lisenziyalar və icazələr haqqında” və “Telekommunikasiya haqqında” Azərbaycan Respublikasının qanunlarına uyğun olaraq kosmik operatorların istifadəsinə ayrılır. 
+9.2. “Beynəlxalq Telekommunikasiya İttifaqının Radiorabitə Reqlamentinin və Ümumdünya Radiorabitə Konfransının Yekun Aktlarının təsdiq edilməsi haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada orbital mövqelər, onlarla əlaqədar radiotezliklər, habelə peyk şəbəkələri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) və kosmik operator tərəfindən birgə koordinasiya edilir.
+Maddə 10. Kosmik fəaliyyətin subyektləri
+10.1. Fiziki və hüquqi şəxslər, dövlət orqanları (qurumları) kosmik fəaliyyəti kosmik operator vasitəsilə həyata keçirirlər.
+10.2. Kosmik fəaliyyətin həyata keçirilməsinə kosmik operatorla bağlanan müqavilə əsasında xarici kosmik operatorun cəlb edilməsinə yol verilir.
+10.3. Bu Qanunun 10.1-ci maddəsində göstərilən kosmik fəaliyyətin subyektləri beynəlxalq təşkilatların, xarici dövlətlərin və digər xarici şəxslərin kosmik obyektlərini və kosmik sənaye obyektlərini bu Qanunun məqsədləri üçün icarəyə, kirayəyə, əvəzsiz istifadəyə götürmək hüququna malikdirlər.
+10.4. Reyestrdə qeydiyyata alınmış kosmik obyektin digər dövlətin hava məkanında uçuşu Müqaviləyə və Azərbaycan Respublikasının tərəfdar çıxdığı digər beynəlxalq müqavilələrə əsasən tənzimlənir.
+ 
+3-cü fəsil
+Kosmik fəaliyyət və kosmik sənayenin iqtisadi xüsusiyyətləri
+ 
+Maddə 11. Kosmik fəaliyyət və kosmik sənaye sahələrində investisiya və tərəfdaşlıq
+Kosmik fəaliyyət və kosmik sənaye sahələrində investisiya qoyuluşu və dövlət-özəl tərəfdaşlığı müvafiq olaraq “İnvestisiya fəaliyyəti haqqında” və “Dövlət özəl tərəfdaşlığı haqqında” Azərbaycan Respublikasının qanunlarına əsasən həyata keçirilir.
+Maddə 12. Kosmik obyektin üçüncü şəxslərə zərərvurma riski 
+12.1. Kosmik obyektin üçüncü şəxslərə zərərvurma riskinin sığorta və ya digər maliyyə təminatının məbləği Müqavilə əsasında irəli sürülən tələblərin ödənilməsi üçün istifadə edilir. 
+12.2. Kosmik obyektin üçüncü şəxslərə zərərvurma riski üzrə sığorta şəhadətnaməsinin şərtləri kosmik fəaliyyət haqqında Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq müəyyən edilir.
+12.3. Kosmik operatorlar və kosmik obyektlərin mülkiyyətçiləri kosmik obyektin üçüncü şəxslərə zərərvurma riski üzrə sığorta şəhadətnaməsinin şərtlərinə əməl etməlidirlər.
+12.4. Tərəflər arasında ayrı razılaşma nəzərdə tutulmayıbsa, kosmik obyektin üçüncü şəxslərə zərərvurma riski (üçüncü şəxslər qarşısında məsuliyyətin sığortası) kosmik obyektin mülkiyyətçisinin vəsaiti hesabına sığortalanır və ya sığorta əvəzinə maliyyə təminatı əldə olunur.
+ 
+4-cü fəsil
+Yerüstü kosmik infrastruktur və kosmik obyektlərin təyinatı
+ 
+Maddə 13. Yerüstü kosmik infrastruktur
+13.1. Yerüstü kosmik infrastruktura aşağıdakılar aid edilir:
+13.1.1. kosmik obyektlərin yerüstü idarəetmə mərkəzləri;
+13.1.2. kosmik fəzada olan kosmik obyektlə telekommunikasiyanı təmin edən yer stansiyaları;
+13.1.3. kosmik raket kompleksləri və vasitələri, kosmik obyektlərin uçuş və eniş poliqonları və platformaları, kosmik uçuşların yerüstü idarəetmə məntəqələri;
+13.1.4. kosmik uçuşlara hazırlıq mərkəzləri;
+13.1.5. kosmik obyektin saxlanc yerləri və sınaq məntəqələri;
+13.1.6. kosmik fəaliyyət üçün zəruri olan digər yerüstü kosmik infrastruktur qurğular və vasitələr.
+13.2. Yerüstü kosmik infrastrukturun istismarına lazımi şərait yaradılması üçün onların ətrafında Azərbaycan Respublikasının Torpaq Məcəlləsinə uyğun olaraq xüsusi hüquqi rejimli mühafizə zonaları yaradılır.
+Maddə 14. Kosmik obyektlərin təyinatı
+Telekommunikasiya, məsafədən müşahidə, naviqasiya və digər təyinatlı kosmik obyektlər kosmik fəzada bu Qanunun tələblərinə uyğun istifadəyə verilir.
+Maddə 15. Telekommunikasiya peyk şəbəkələri
+15.1. Telekommunikasiya peykləri vasitəsilə peyk rabitəsi, telekommunikasiya xidmətləri, yüksəksürətli peyk internet xidməti, radio və televiziya yayımı, verilənlərin ötürülməsi və digər telekommunikasiya peyk xidmətlərinin göstərilməsi ölkə daxilində və xaricdə həyata keçirilir.
+15.2. Milli kosmik operator Azərbaycan Respublikasının, habelə xarici ölkələrin telekommunikasiya peykləri vasitəsilə ölkə daxilində və xaricdə peyk sistemləri və telekommunikasiya peyk şəbəkələri təşkil edir.
+Maddə 16. Yerin məsafədən müşahidəsi peyk sistemi
+16.1. Yerin məsafədən müşahidəsi peyk sistemi vasitəsilə Yer səthinin quruluşu haqqında məlumatların toplanması və təbiət hadisələrinin dəyişkənliyi, antropogen faktorlar, təbii ehtiyatlar, ətraf mühit, eləcə də elmi, iqtisadi, ekoloji və müdafiə məsələlərinin həlli məqsədilə təsvir və digər informasiya əldə edilir. 
+16.2. Azərbaycan Respublikasında filialı və ya nümayəndəliyi olmayan xarici kosmik operatorun (onun səlahiyyətləndirdiyi xarici hüquqi şəxsin) istismar etdiyi xarici kosmik obyektdən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilmiş göstəricilərdə ilkin informasiyaların Azərbaycan Respublikasında birbaşa yer stansiyası vasitəsilə qəbulu milli kosmik operator tərəfindən həyata keçirilir. 
+Maddə 17. Kosmik naviqasiya sistemi 
+17.1. Kosmik naviqasiya sisteminin təşkili üçün xarici dövlətlərin peyklərindən istifadəyə yol verilir. 
+17.2. Peyklərdən və yerüstü kosmik infrastrukturdan ibarət olan kosmik naviqasiya sistemi vasitəsilə kosmik naviqasiya xidmətlərinin istifadəçiləri koordinat-zaman parametrləri ilə təmin edilir. 
+ 
+5-ci fəsil
+Kosmik fəaliyyət və kosmik sənayedə təhlükəsizlik
+ 
+Maddə 18. Kosmik fəaliyyət və kosmik sənaye sahələrində təhlükəsizliyin təmin edilməsi
+18.1. Azərbaycan Respublikasında kosmik fəaliyyət və kosmik sənaye sahələrində fəaliyyət həyata keçirilərkən ətraf mühitin qorunması, ekoloji və texniki təhlükəsizlik tələblərinə riayət edilməsi üçün müvafiq olaraq “Ətraf mühitin mühafizəsi haqqında”, “Ətraf mühitə təsirin qiymətləndirilməsi haqqında”, “Ekoloji təhlükəsizlik haqqında” və “Texniki təhlükəsizlik haqqında” Azərbaycan Respublikasının qanunları ilə nəzərdə tutulan tədbirlər görülür. 
+18.2. Kosmik obyektlərin və onların hissələrinin Azərbaycan Respublikasının ərazisində aşkar edildiyi yerlərdə kosmik fəaliyyət haqqında Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq müvəqqəti karantin tətbiq edilməsinə yol verilir.
+18.3. Azərbaycan Respublikasının ərazisində qəzaya uğrayan pilotlu kosmik  obyektin heyətinin xilası üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən tədbirlər görülür, habelə qəza ərazisində kosmik fəaliyyət haqqında Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq müvəqqəti karantin tətbiq edilir.
+18.4. Reyestrdə qeydiyyata alınmış kosmik obyektin kosmik operatoru tərəfindən idarə edilməsi mümkün olmadıqda, Müqaviləyə əsasən kosmik uçuşun təhlükəsizliyi üçün onun əvəzinə kosmik obyektin idarə edilməsi milli kosmik operator tərəfindən həyata keçirilir. Bu zaman Reyestrdə qeydiyyata alınmış kosmik obyektin mülkiyyətçisi milli kosmik operatoru kosmik obyektin müvəqqəti idarə edilməsi imkanı ilə təmin etməlidir.
+Maddə 19 Kosmik obyektin istismardan çıxarılması
+19.1. Kosmik fəzada olan kosmik obyekt bu Qanun, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə müəyyən edilmiş qaydada və hallarda, həmçinin istismara yararlılığı başa çatdıqda, idarə edilməsi itirildikdə, təbiət hadisəsinin təsiri və ya qəzaya uğraması nəticəsində məhv olduqda istismardan çıxarılır.
+19.2. Reyestrdə qeydiyyata alınmış kosmik obyektin mülkiyyətçisi Müqavilə ilə nəzərdə tutulmuş qaydada BMT-ni məlumatlandırmaq üçün kosmik obyektin istismardan çıxarılması barədə dərhal milli kosmik operatora yazılı məlumat verməlidir.
+Maddə 20. Kosmik fəaliyyətə nəzarət
+20.1. Bu Qanunla kosmik fəaliyyət subyektlərinin Reyestrdə qeydiyyata alınmış kosmik obyektlərinin idarə edilməsinə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən nəzarət edilir. Həmin kosmik obyektlərinin idarə edilməsinə nəzarət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilən qaydada həyata keçirilir.
+20.2. Kosmik fəzada milli fəaliyyətin əlaqələndirilməsi və həmin fəaliyyətə texniki nəzarət milli kosmik operator tərəfindən həyata keçirilir.
+20.3. Azərbaycan Respublikasının vətəndaşı və ya hüquqi şəxsi Azərbaycan Respublikasından kənarda kosmik obyekt üzərində əmlak hüququnu əldə edənədək bu barədə milli kosmik operatora əvvəlcədən yazılı məlumat verməlidir. 
+20.4. Azərbaycan Respublikasından kənarda kosmik obyektin istehsalını sifariş etmiş Azərbaycan Respublikasının vətəndaşı və ya hüquqi şəxsi sifariş verdiyi andan 30 (otuz) gün müddətində bu barədə milli kosmik operatora yazılı məlumat verməlidir.
+Maddə 21. Məlumatların qorunması
+Kosmik fəaliyyət və kosmik sənaye sahələrində dövlət sirri, kommersiya sirri və konfidensial məlumatlar qanuna və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq qorunur. 
+ 
+6-cı fəsil
+Yekun müddəalar
+ 
+Maddə 22. Mübahisələrin həlli
+Kosmik fəaliyyət və kosmik sənaye sahələrində yaranan mübahisələr kosmik fəaliyyət haqqında Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq həll olunur.
+Maddə 23. Bu Qanunun pozulmasına görə məsuliyyət
+Bu Qanunun tələblərinin pozulmasında təqsirli olan şəxslər qanunda nəzərdə tutulmuş hallarda məsuliyyət daşıyırlar.
+Maddə 24. Bu Qanunun qüvvəyə minməsi
+Bu Qanun dərc edildiyi gündən 60 gün sonra qüvvəyə minir.

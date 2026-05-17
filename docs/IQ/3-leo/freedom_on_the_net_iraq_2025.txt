@@ -1,0 +1,88 @@
+Iraq
+Partly Free
+41
+100
+A Obstacles to Access	11 25
+B Limits on Content	16 35
+C Violations of User Rights	14 40
+Last Year's Score & Status
+40 100 Partly Free
+Scores are based on a scale of 0 (least free) to 100 (most free). See the methodology and report acknowledgements.
+Iraq_hero
+Facebook
+Twitter
+Email
+Key Developments, June 1, 2024 – May 31, 2025
+Internet freedom remained restricted in Iraq. While mobile connection speeds have improved in recent years, widespread power outages continued to disrupt access during the coverage period, and affordability was still a significant challenge. Security forces in the country, including in the autonomous Kuzey Irak, routinely arrested internet users, and violent reprisals for online speech often affected journalists, activists, and ordinary social media users.
+
+During the coverage period, the government ordered network disruptions that were timed to prevent cheating on national academic exams. For example, the Ministry of Communications implemented outages in May and June of both 2024 and 2025, with each shutdown lasting for about two hours each morning to cover the exam periods (A3).1
+Authorities continued to block certain websites during the coverage period. In November 2024, the Ministry of Communications ordered blocks on the Internet Movie Database (IMDb) as well as the streaming platform SoundCloud,2 arguing that the sites were hosting immoral content.3 The move came amid a broader crackdown on online content that was deemed to be immoral or opposed to Iraqi values (B2).
+In March 2025, the Communications and Media Commission issued new regulations that would require content creators to register with the government and pay annual fees of up to 1 million dinars ($760), depending on how many followers they have. The regulations also called for compliance with vague content standards, such as respect for Iraq’s national sovereignty and reputation and support for the state’s struggle against terrorism and extremism (B6).4
+Social media users continued to receive lengthy prison sentences for posting certain types of political content. In June 2024, a man was reportedly sentenced to six years in prison by the Karkh Criminal Court for promoting the ideas of the banned Baath Party on social media platforms.5 In August 2025, after the coverage period, another person was sentenced to 10 years in prison by the Wasit Criminal Court for promoting Baathist ideas on social media.6
+Journalists were subjected to physical violence in reprisal for the content they posted online during the coverage period. In November 2024, reporter Wrya Abdulkhaliq of the online outlet Bwar Media was stabbed and beaten shortly after he published a story alleging that a Kurdish security official had blocked a local infrastructure project in the autonomous Kuzey Irak. Abdulkhaliq said the attackers were the official’s bodyguard and nephew.7
+Political Overview
+Iraq holds regular, competitive elections, and the country’s various partisan, religious, and ethnic groups generally enjoy representation in the political system. However, democratic governance is impeded in practice by corruption, militias operating outside the bounds of the law, and the weakness of formal institutions. Increasingly, Iran’s regime has been able to influence politics in Baghdad. State officials and powerful militias routinely infringe on the rights of citizens through legal and extrajudicial means.
+
+This report has been abridged for Freedom on the Net 2025 due to ongoing budget constraints. Please consider making a donation to support future editions of this vital resource.
+
+For additional background information, see last year’s full report.
+
+A Obstacles to Access
+A1 0-6 pts
+Do infrastructural limitations restrict access to the internet or the speed and quality of internet connections?	4 6
+Score Change: The score improved from 3 to 4 because some measurement sources indicated an increase in mobile internet speeds during the coverage period,8 though widespread power outages continued to disrupt people’s access to the internet.9
+
+A2 0-3 pts
+Is access to the internet prohibitively expensive or beyond the reach of certain segments of the population for geographical, social, or other reasons?	1 3
+A3 0-6 pts
+Does the government exercise technical or legal control over internet infrastructure for the purposes of restricting connectivity?	3 6
+A4 0-6 pts
+Are there legal, regulatory, or economic obstacles that restrict the diversity of service providers?	2 6
+A5 0-4 pts
+Do national regulatory bodies that oversee service providers and digital technology fail to operate in a free, fair, and independent manner?	1 4
+B Limits on Content
+B1 0-6 pts
+Does the state block or filter, or compel service providers to block or filter, internet content, particularly material that is protected by international human rights standards?	4 6
+B2 0-4 pts
+Do state or nonstate actors employ legal, administrative, or other means to force publishers, content hosts, or digital platforms to delete content, particularly material that is protected by international human rights standards?	1 4
+B3 0-4 pts
+Do restrictions on the internet and digital content lack transparency, proportionality to the stated aims, or an independent appeals process?	1 4
+B4 0-4 pts
+Do online journalists, commentators, and ordinary users practice self-censorship?	1 4
+B5 0-4 pts
+Are online sources of information controlled or manipulated by the government or other powerful actors to advance a particular political interest?	1 4
+B6 0-3 pts
+Are there economic or regulatory constraints that negatively affect users’ ability to publish content online?	2 3
+B7 0-4 pts
+Does the online information landscape lack diversity and reliability?	2 4
+B8 0-6 pts
+Do conditions impede users’ ability to mobilize, form communities, and campaign, particularly on political and social issues?	4 6
+C Violations of User Rights
+C1 0-6 pts
+Do the constitution or other laws fail to protect rights such as freedom of expression, access to information, and press freedom, including on the internet, and are they enforced by a judiciary that lacks independence?	2 6
+C2 0-4 pts
+Are there laws that assign criminal penalties or civil liability for online activities, particularly those that are protected under international human rights standards?	1 4
+C3 0-6 pts
+Are individuals penalized for online activities, particularly those that are protected under international human rights standards?	1 6
+C4 0-4 pts
+Does the government place restrictions on anonymous communication or encryption?	3 4
+C5 0-6 pts
+Does state surveillance of internet activities infringe on users’ right to privacy?	3 6
+C6 0-6 pts
+Does monitoring and collection of user data by service providers and other technology companies infringe on users’ right to privacy?	3 6
+C7 0-5 pts
+Are individuals subject to extralegal intimidation or physical violence by state authorities or any other actor in relation to their online activities?	0 5
+C8 0-3 pts
+Are websites, governmental and private entities, service providers, or individual users subject to widespread hacking and other forms of cyberattack?	1 3
+Footnotes
+1
+Marcin Frąckiewicz, “Internet Kill Switch: Recurring Blackouts in Syria, Iraq, Algeria – And Who’s Next?,” Tech Stock 2, June 18, 2025, https://ts2.tech/en/internet-kill-switch-recurring-blackouts-in-syria-i…; Zach Rosson, “Lives on hold: internet shutdowns in 2024,” Access Now, February 24, 2025, https://www.accessnow.org/internet-shutdowns-2024/; Aws Al-Saadi, “Iraq’s Internet Shutdowns Are Failing Students and Blocking Access to Reproductive Care,” Repro Uncensored, June 1, 2025, https://www.reprouncensored.org/research/iraq-internet-shutdowns; David Belson, “Exam-ining recent Internet shutdowns in Syria, Iraq, and Algeria,” Cloudflare Blog, June 21, 2024, https://blog.cloudflare.com/syria-iraq-algeria-exam-internet-shutdown/.
+2
+“Iraq’s Al-Sudani orders review of IMDb and SoundCloud blockings,” Shafaq News, December 22, 2024, https://shafaq.com/en/Iraq/Iraq-s-Al-Sudani-orders-review-of-IMDb-and-S…; Iraq blocks “IMDb website over 'immoral content' claims,” IntelliNews, November 26, 2024, https://www.intellinews.com/iraq-blocks-imdb-website-over-immoral-conte….
+3
+“Iraqi ministry defends controversial decision to block movie database website,” The New Region, November 29, 2024, https://thenewregion.com/posts/1200/iraqi-ministry-defends-controversia….
+4
+“Iraq’s media watchdog under fire for taxing content creators,” Shafaq News, March 25, 2025, https://shafaq.com/en/Iraq/Iraq-s-media-watchdog-under-fire-for-taxing-…; Dana Taib Menmy, “'Tax on fame': Iraq imposes new fees on social media influencers,” The New Arab, March 26, 2025, https://www.newarab.com/news/iraq-imposes-sweeping-new-fees-social-medi…; “Iraq imposes annual fees on social media ‘influencers’ in tightening of digital content rules,” 964 media, March 24, 2025, https://en.964media.com/34209/.
+5
+“Man sentenced to six years for promoting Ba’ath party ideology,” 964 media, June 11, 2024, https://en.964media.com/20787/.
+

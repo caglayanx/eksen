@@ -1,0 +1,63 @@
+Middle East on the Precipice: GPS Jamming in the Arabian Gulf and Strait of Hormuz Disrupts 970 Ships Daily 
+Feature Images Blogs.png
+What’s inside?
+GPS Jamming on the Rise
+Transits Fall, Risk Rises
+Freight and Insurance Premiums Surge
+Middle East Charters Not Accepted
+A Strategy of Disruption
+According to Windward data, approximately 970 ships per day have experienced GPS jamming in the Arabian Gulf and Strait of Hormuz over the past four days.
+
+Ships’ Automatic Identification System (AIS) signals are increasingly appearing in implausible locations — such as Iranian ports, the Omani desert, and around Dubai — due to widespread GPS jamming in the region. This sudden and severe disruption to navigation systems began with the latest outbreak of war in the Middle East.
+
+Although the strait — through which roughly 20% of global oil and gas flows — remains operational for commercial traffic, the risks have escalated. Shipowners, insurers, charterers, and energy traders are now reassessing maritime safety and security. Persistent electronic interference has led to delays, diversions, and broader shifts in routing strategies as stakeholders attempt to navigate the growing operational uncertainty.
+
+
+GPS jamming saw ships’ AIS signals erroneously show them on land in Iran as they transited the Strait of Hormuz. Source: Windward Maritime AI™ Platform
+GPS Jamming on the Rise
+Between June 15–18, an average of 972 ships per day experienced GPS jamming, according to Windward-generated data. The interference peaked on Tuesday, affecting 1,155 ships, with the lowest figure recorded on Monday at 693 vessels.
+
+Among the approximately 900 ships targeted yesterday were at least 120 tankers over 10,000 deadweight tonnes, including 27 very large crude carriers (VLCCs) and 24 containerships. From June 13–15, around 1,000 ships were found to have had their AIS signals erroneously manipulated.
+
+Windward has identified three distinct GPS interference zones:
+
+Within Qatar’s territorial waters.
+In international waters along shipping lanes to and from Iraq and Kuwait en route to the Strait of Hormuz.
+Within the traffic separation lanes during Hormuz transits.
+Electronic interference is redirecting AIS signals to areas near Asaluyeh and Bandar Abbas in Iran, as well as off the coast of Oman. Some vessels’ signals are also being redirected near Dubai, in the United Arab Emirates, as they transit the strait. 
+
+(*Windward’s analysis excludes vessels whose AIS was jammed only briefly or over short distances)
+
+Transits Fall, Risk Rises
+Hormuz transits fell by 20% over the course of a week, according to the Joint Maritime Information Center (JMIC).
+
+A total of 118 ships transited the Strait on June 16, compared with 147 a week earlier, according to a center advisory. Transits on June 17 measured 114. (Only ships over 1,000 Gross Tons are counted.) The JMIC, based in Bahrain, is operated by the U.S. Combined Maritime Forces. The Center noted “persistently high levels of electronic interference.”
+
+Maritime traffic patterns are also shifting in response to heightened threats. Between June 11–18, Windward’s Early Detection identified more than 35 LPG tankers stationary in Omani waters — an 82% increase over expected levels.
+
+The median duration of port calls for 89 tankers in Saudi Arabia during the week ending June 19 dropped to 19 hours, 37% lower than the prior week. This marks the shortest median duration since monitoring began in August 2021.
+
+
+Windward Early Detection identified tankers spending shorter durations at Saudi ports in the past week
+Freight and Insurance Premiums Surge
+The financial response has been swift. War risk premiums for tankers entering the region rose from $0.20 to $0.80 per barrel, according to one shipbroker.
+
+For a VLCC, that translates to an additional $1.2 million per voyage. Freight rates have nearly doubled in just three days as shipowners adjust pricing to reflect increased risk.
+
+Owners are responding by demanding partial freight payments in advance or renegotiating charters mid-voyage. A fleetwide safety advisory has been issued by at least one Asian shipping conglomerate.
+
+
+Rates for VLCCs shipping crude to China doubled in three days to more than $53,000 daily. Source: Baltic Exchange
+Middle East Charters Not Accepted
+On June 17, Frontline’s China-bound Front Eagle, a VLCC, collided with another tanker off Khor Fakkan, UAE, hours after its navigation system experienced severe and prolonged GPS jamming during its transit from Iraq through the Arabian Gulf and the Strait.
+
+The company stated that the collision was caused by an “unspecified navigational error”, and added that it would no longer accept charters requiring its vessels to enter the region.
+
+Qatar, the world’s third-largest LNG exporter, this week requested that liquefied natural gas (LNG) and liquefied petroleum gas (LPG) carriers wait outside the Strait of Hormuz until they are ready to load at Gulf terminals.
+
+While southbound LNG carriers were tracked without delay, at least one northbound Qatar-bound LNG vessel temporarily altered course in the Gulf of Oman. Two others remained anchored for up to four days before transiting.
+
+A Strategy of Disruption
+In the Strait of Hormuz, GPS jamming — rather than hijacking vessels or blocking commercial traffic — appears to be the preferred tactic of grey zone aggression by regional actors, as it threatens without directly impeding maritime flow.
+
+There is no clearer signal of unprecedented risk in the Arabian Gulf than so many ships unable to safely and accurately use AIS to signal their position through a crucial trade artery.

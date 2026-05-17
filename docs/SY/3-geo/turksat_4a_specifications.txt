@@ -1,0 +1,26 @@
+
+Get Satbeams on your smartphone!
+
+ 	
+Turksat 4A
+Back to the list
+Satellite Name: Turksat 4A
+Status: active
+Position: 42° E (42° E)
+NORAD: 39522
+Cospar number: 2014-007A
+Operator: Turksat
+Launch date: 14-Feb-2014
+Launch site: Baikonur Cosmodrome
+Launch vehicle: Proton M
+Launch mass (kg): 4910
+Dry mass (kg):  
+Manufacturer: Mitsubishi Electric Corp. (MELCO)
+Model (bus): DS2000
+Orbit: GEO
+Expected lifetime: 15 yrs.
+Call sign:  
+Beacon(s): 12498.5 RHCP, 12499.5 RHCP
+Details:
+24 Ku-band and 2 Ka-band transponders
+Charts: list

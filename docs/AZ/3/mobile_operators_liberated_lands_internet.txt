@@ -1,0 +1,53 @@
+Azerbaijan's mobile operators prioritise high-speed full Internet access in liberated lands Analysis by Caliber.Az
+Khazar Akhundov
+Caliber.Az
+17 May 2023 12:28
+Azerbaijan is nearly finished with the work required to fully cover the country's territory with broadband fixed Internet by 2024. Simultaneously, steps are being taken to catapult the mobile communications sector to a qualitatively new level of development. Priorities here include increasing the cellular network's speed characteristics and fully providing liberated territories with mobile communications and the Internet, as well as further introducing 5G technologies.
+
+The prospects for global cellular network development, as well as the most recent achievements in domestic mobile communications, were also discussed at the GSMA Mobile 360 Eurasia 2023 international forum, which took place in Baku on May 16.
+
+In recent years, nonverbal forms of communication have taken the lead in the field of mobile communications. This trend is associated with the massive proliferation of smartphones and tablets supporting fourth and fifth-generation technologies, as well as the widespread use of messengers such as WhatsApp, Telegram, Viber, and Skype, as well as the increase in the number of active Facebook and other social network users.
+
+Over the last decade, this global trend has contributed to a significant decrease in the use of voice traffic and SMS, as well as the transition of subscribers from traditional calls to Internet resources. According to experts, data transmission via Internet channels will become an absolutely dominant trend in mobile telephony in 2023-2024, with nearly half of all cellular subscribers worldwide connected via LTE technology of the fourth and fifth generations.
+
+
+
+Actually, that is why the dominant global trend in the development of mobile communications in recent years has been associated with an increase in the capacity of cellular networks and a multiple increase in Internet speed. To this end, the construction of LTE networks of the fourth generation was carried out all over the world, including Azerbaijan, and preparations were underway for the introduction of the following promising technologies. Such a policy justifies itself if we take into account that today about two-thirds of the income of mobile operators (the world average) falls on the provision of Internet-related services.
+
+Similar statistics are observed in Azerbaijan, where investments in the construction of modern LTE networks give an increase in the speed characteristics of cellular Internet. In particular, according to the latest data from the global rating service Speedtest Global Index, in March 2023, Azerbaijan, having advanced three steps relative to the beginning of the year, ranked 54th among 140 countries in terms of mobile Internet speed. The average download speed in the country during the reported period was 39.46 Mbps.
+
+"The mobile communications sector is the most attractive industry for investment: every dollar invested provides a profit of $3 and in developing countries - four or more dollars," said An Jian, president of the operator business group of the Chinese company Huawei in the Middle East and Central Asia, at the GSMA Mobile 360 Eurasia 2023 conference in Baku on May 16.
+
+According to the Chinese company's president of the operator business, the most promising direction in this regard is the development of fifth-generation networks: "5G in three years has allowed us to achieve what 4G in five years did, and today the number of users of this network, including in the corporate sector, is rapidly growing. As a result, over one billion Chinese people now use 5G networks in their daily lives as well as in industrial production."
+
+5G networks are the most recent generation of wireless technology, offering faster speeds and lower latency. They are highly efficient because they use dynamic spectrum distribution to ensure maximum performance with the least amount of latency. 5G networks, in particular, can provide speeds that are 10 times faster than 4G networks, allowing you to download heavy content (video conferences, high-resolution movies, etc.) faster. Furthermore, because of the higher density of connected devices per square kilometre, fifth-generation networks can support more users.
+
+However, a number of objective problems prevent the mass spread of 5G technology: millimetre-wave frequencies are used here, which requires a much higher density of antennas and base stations, which increases the problems with the deployment of cellular equipment. In addition, 5G networks are more sensitive to interference and more complex software configurations are required for their operation due to the increased traffic load, not to mention the need for increased cybersecurity measures for the same reason.
+
+Another issue is related to the release of a low-frequency resource - 694-790 MHz for the needs of mobile operators: in the post-Soviet states, Iran, Türkiye, and a number of other countries, these frequencies were used for broadcasting analogue TV, and the process of switching to digital television broadcasting on the 470-694 MHz frequency spectrum recommended by the UN - International Telecommunication Union (ITU) was slow from-due to differences in the pace of overcoming the "digital divide".
+
+However, the most difficult problem was the slow commercial payback of 5G networks in developing countries, where the number of mobile devices supporting fifth-generation technologies is insignificant and the current tasks of citizens and businesses were completely solved by existing and properly functioning 4G networks.
+
+Therefore, according to the world's leading manufacturers of network equipment - Ericsson North America, Japan, China and Korea are leading the pace of implementation of 5G communications, and in recent years these processes have accelerated in the EU, Australia and New Zealand.
+
+So, by late 2022, about 35 per cent of cellular subscribers in these regions use fifth-generation services, including autonomous driving systems, augmented virtual reality, as well as Smart Community network options - smart homes and offices based on IoT devices interacting with each other and transmitting information (Internet of Things, English Internet of things). The concept of IoT includes all autonomous devices connected to the global network and remotely controlled via the Internet: cars, kitchen and household appliances, smart sockets, lighting systems, surveillance cameras, and security systems.
+
+According to Ericsson, in late 2022, there were about 8.4 billion active devices connected to mobile networks in the world, and by 2028 this figure will grow to 9.2 billion units, of which 55 per cent will account for 5G connections. In 2022, almost 230 telecommunications companies in 78 countries deployed 5G networks and it is expected that by 2028, 5G communications will be available to 85 per cent of the world's population.
+
+Meanwhile, there is no mass commercial demand for 5G networks in the post-Soviet space and only some operators in Russia, Belarus, and Kazakhstan are implementing pilot projects in this direction. For similar reasons, Azerbaijani mobile operators have not yet accelerated the process of developing fifth-generation networks, but at the same time, international experience in this area has been actively studied in the country.
+
+Today, certain successes have been achieved in this direction, in particular, at the beginning of this year, mobile operators Azercell and Bakcell launched a 5G network in a test mode, but its coverage area is limited to only a few sections of Baku’s central part. But we are not talking about the commercial use of such a high-speed network and its replication to the entire territory of the country yet, since there is a technical and software update of the current configuration of LTE networks, obtaining a license for frequencies, and most importantly, gaining confidence in sufficient market demand for new services.
+
+
+
+"The provision of 5G services in Azerbaijan contributes to the acceleration of the development of the mobile communications sector, and today a number of mobile operators of the republic are already developing pilot projects in this direction. I believe that in order to attract investments in the development of mobile communications, it is necessary to revise tax duties, as well as develop new incentive mechanisms," said GSMA CEO Mats Granrid, a participant in the Baku forum.
+
+One way or another, the main focus in the development of mobile communications in Azerbaijan is currently on expanding fourth-generation LTE networks, increasing their capacity, as well as the construction of new base stations in the Karabakh region, where, according to Azerbaijan’s Digital Development and Transport Minister Rashad Nabiyev, active work has been underway for the third year on the implementation of projects in the field of mobile communications and telecommunications.
+
+In particular, at the end of last year, Bakcell launched its 101st base station on the liberated territories, another market participant, Azercell, also had hundreds of stations in the Karabakh region by the beginning of the year, and 35 more such solar-powered bases will be installed here during 2023.
+
+In general, Minister Nabiyev noted during the forum that the mobile communications sector in Azerbaijan is developing rapidly, for which a stable infrastructure has been created and there are competent specialists and cybersecurity mechanisms. The minister stressed that the communications department is committed to achieving its goals to provide all regions of the country, including the most remote, with high-speed fixed Internet by late 2024 and work is already underway on a project to lay an optical cable across the Caspian Sea, which will provide end-to-end Internet connection of Central Asia with Europe through Azerbaijan.
+
+Caliber.Az
+Views:
+1450

@@ -1,0 +1,68 @@
+Bulgaria U-turns on claim Moscow jammed GPS of von der Leyen's plane
+
+Copyright Eduard Vinatoru/Copyright 2025 The AP. All rights reserved.
+By Estelle Nilsson-Julien & Mared Gwyn Jones
+Published on 04/09/2025 - 16:02 GMT+2•Updated 09/09/2025 - 12:54 GMT+2
+Share
+Comments
+Bulgaria's Prime Minister says there is "no evidence" of "prolonged interference or jamming" of the GPS signal around Plovdiv airport at the time of von der Leyen's landing, but experts remain divided, with some still supporting Russian spoofing allegations.
+Bulgarian officials have denied claims they suspected Moscow of jamming the GPS of a plane carrying European Commission President Ursula von der Leyen, days after the Commission cited Bulgarian authorities as suggesting the incident was "due to blatant interference from Russia."
+
+The country’s Prime Minister Rosen Zhelyazkov told parliament on Thursday that von der Leyen's plane had not experienced "prolonged interference or jamming."
+
+In a statement made later the same day, Zhelyazkov said that even though no jamming had been detected by "ground instruments," it didn't exclude the possibility of "onboard devices" detecting jamming.
+
+Analysts consulted by Euronews confirmed that GPS interference on-board the plane could have been plausible despite jamming not being detected in the area.
+
+Ian Petchenik, Flightradar24's director of communications, told Euronews interference "could have been internal to the aircraft, or from another source."
+
+Other analysts believe the GPS could have been "spoofed" with false signals, a highly sophisticated practice believed only accessible to state actors, which would not have necessarily been detected by conventional instruments.
+
+Mahmoud Elsahoury, an expert in telecommunications engineering at the University of Vaasa in Finland, told Euronews "if the signal level is good and the pilot is going around in circles, this is a a very big indicator that it was a spoofing incident."
+
+In an interview with Bulgarian channel bTV, Deputy Prime Minister and Transport Minister Grozdan Karadjov denied that the government had submitted any information on the matter to the European Commission, contradicting the Commission's assertion that Bulgarian authorities suspected the disruption was the result of the Kremlin's hybrid warfare.
+
+A screenshot shows the track of the plane carrying Ursula von der Leyen to Plovdiv airport on August 31, 2025
+A screenshot shows the track of the plane carrying Ursula von der Leyen to Plovdiv airport on August 31, 2025 Flightradar24
+According to the Deputy Prime Minister, Bulgarian aviation authorities did hand the European Aviation Safety Agency (EASA) a report of the conversation between the pilot of the plane and the control tower, but while this exchange referred to "minor issues" with the GPS, it did not mention Russian interference. 
+
+"EASA still needs to remove the computers on board the aircraft and see what these computers registered," Karadjov added.
+
+These revelations come after days of intense speculation surrounding the cause of disruption to a chartered airplane carrying von der Leyen – as well as members of her team and journalists – from Warsaw to the Bulgarian city of Plovdiv on Sunday. 
+
+Almost a week later, both the EU executive and the Bulgarian authorities have distanced themselves from their initial statements and the story is quickly unravelling.
+
+A recording of the plane's pilot raising "issues with the GPS" in a conversation with Bulgarian air traffic controllers during the flight has emerged. The plane's recorded track also shows it circling above Plovdiv airport upon its descent.
+
+But claims first made by a Financial Times journalist, citing officials, that the aircraft was circling the airport for an hour have been contradicted by open-source data provided by reliable flight tracking platforms such as Flightradar24.
+
+
+Although the aircraft circled the airport upon its descent, the total flight time was approximately one hour and 57 minutes, while the estimated flight time for this route is one hour and 48 minutes. It suggests a total delay of approximately nine minutes, contradicting reports of a one hour delay. 
+
+An analysis of the data also reveals that the plane was an hour late for take off, which could explain the confusion regarding the delayed arrival time.
+
+Reports that the pilot used "paper maps" to conduct the landing have also been contradicted by statements made by the Bulgarian authorities specifying that a ground-based radio navigation system known as ILS was used.
+
+Euronews has consulted several analysts, some of which stand by the possibility of a "spoofing" or "jamming incident," while others firmly asserted there is no evidence of GPS jamming in the area around Plovdiv on the day in question.
+
+Flightradar24 said the "aircraft's transponder reported good GPS signal quality from take-off to landing," based on their analysis of Navigation Integrity Category (NIC) values, which they say indicates the quality of navigational data received by the aircraft.
+
+A Romanian military helicopter is parked next to the plane carrying Ursula von der Leyen during her visit at the Mihail Kogalniceanu Air Base, 1 September, 2025
+A Romanian military helicopter is parked next to the plane carrying Ursula von der Leyen during her visit at the Mihail Kogalniceanu Air Base, 1 September, 2025 AP Photo
+"The NIC value for this flight was 8 throughout," Ian Petchenik of Flightradar24 told Euronews. "There's also a secondary value called NACP, and that value was also within very high ranges, leading us to not see any jamming of the ADS-B signal."
+
+Petchenik also said there are "numerous reasons" for the GPS signal to be "perfectly fine" but for the aircraft to encounter "issues using that signal in its avionics."
+
+"For whatever reason, that (GPS) system wasn't functioning the way it was supposed to. The pilots let air traffic controllers know that. Air traffic controllers offered an instrument landing system arrival, and they landed just fine," he said.
+
+"How the story expanded from there is a question for those telling the story."
+
+Related
+Ursula von der Leyen 'extremely saddened' by situation of children in Gaza
+Was Ursula von der Leyen kicked out of the European leaders' meeting with Trump?
+Addressing the claim that the plane landed using "paper maps", Petchenik said it's "unusual but certainly not outside the realm of possibility."
+
+Despite doubts surrounding this incident, Moscow has intensified GPS jamming targeting planes and ships since Russia's full-scale invasion of Ukraine in February 2022, with the area surrounding the Baltic Sea particularly impacted. 
+
+"We are very well aware that unfortunately this incident is not specific to the President, meaning that it occurs on a very regular basis to many aircrafts flying in particular next to our eastern border," a Commission spokesperson said on Thursday, adding that "coordinated action from the European Union is needed" to tackle the threat.
+

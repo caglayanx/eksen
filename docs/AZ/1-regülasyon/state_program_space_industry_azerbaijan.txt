@@ -1,0 +1,671 @@
+der #443 of the President of the Republic of Azerbaijan dated 17 August 2009 “The State Program on Creation and Development of Space Industry in the Republic of Azerbaijan"
+Short Name:
+The State Program on Creation and Development of Space Industry in the Republic of Azerbaijan
+Law Type:
+National Space Law
+Country:
+AzerbaijanAzerbaijan
+Adoptation Date:
+17 August 2009
+Region:
+Caucasus
+Law Category:
+ Space programme
+Documents:
+Articles
+Collapse All
+English (English)
+Order of the President of the Republic of Azerbaijan
+
+On approval of State Program on establishment and development of space industry in the Republic of Azerbaijan 
+
+In conformity with the Order No. 27 of the President of the Republic of Azerbaijan “On establishment of space industry in the Republic of Azerbaijan and launching telecommunication satellites into orbit” dated 4 November 2008, I hereby resolve the following:
+
+1. to approve the State Program on establishment and development of space industry in the Republic of Azerbaijan (attached).
+
+2. to task the Ministry of Communications and Information Technologies to coordinate the implementation of the measures indicated in the State Program approved in the first paragraph of the current Order.
+
+3. to define that implementation of the measures indicated in the State Program is financed through the State Budget as well as other sources which are allowed under the legislation.
+
+4. to instruct the Cabinet of Ministers of the Republic of Azerbaijan to solve all the issues stemming out from the present Order.
+
+ 
+
+Ilham Aliyev, 
+President of the Republic of Azerbaijan 
+Baku city, 17 August 2009 
+
+No. 443 
+
+1. Introduction
+English (English)
+As a result of policy formulated by national leader Heydar Aliyev and carried out in accordance with realities of today, the Republic of Azerbaijan has become a leading country of the region living in conditions of socio-economic development as well as social and political stability in recent years. State programs implemented and concrete effective measures currently carried out for the development of the non-oil sector in the country have offered extraordinary opportunities for diversification of the economy and development of new industries.
+
+The level of application of information and communication technologies (ICT) along with socioeconomic development of each country is considered as the main indicator of its intellectual and scientific potential, transparency and efficiency of the public administration, and its social development.
+
+The field of information and communication technologies was declared as key priority. It is expected that the field of communications and information technologies will be the most developed sector of the economy in Azerbaijan following the oil sector. Wide application of information and communication technologies serves not only to overall development of the country, but also it is of great importance in terms of national security in the informatin sphere.
+
+The favorable geo-economical and geographical location of the Republic of Azerbaijan on the joint of Europe and Asia as well as its location at the intersection of information highway, elimination of dependence on data exchange from foreign countries, preparation and launching telecommunication satellites into orbit enable the country to become a leading country of the region in the field of data transmission.
+
+The Order No. 27 of the President of the Republic of Azerbaijan “On establishment of space industry in the Republic of Azerbaijan and launching telecommunication satellites into orbit” dated  4 November 2008 intends to prepare the State Program on establishment and development of space industry to apply new technologies of high quality in Azerbaijan as well as to stimulate establishment of space industry in the country. To provide the sequence and systematization of the activities implemented in this direction, to achieve set forth strategic goals requires formulation of respective management structure, establishment and development of space industry, creation of telecommunication satellite networks through preparation and launching telecommunication satellite into orbit, establishment of multifunctional supercomputer center for  receiving and processing of space data and staff training. At the same time, it is also expected to adopt  new regulations on improving the legal acts existing in the field development of space industry and information technologies through wide usage of nanotechnologies.
+
+Development of economic and military power of the state requires enlargement of the fundamental scientific knowledge in the field of space investigations. Conquering the outer space is one of the factors defining the level of economy and national security. Devices and complexes allocated in the airspace enable to get operatively widespread and qualitatively new information about studied objects, whereas airspace laboratories create excellent opportunities to investigate components, the world ocean, planets and other special objects.
+
+State Program on establishment and development of the space industry in the Republic of Azerbaijan will stimulate the establishment and development of the space industry within the next 5 years and special measures will be taken for the next stages upon consideration of the results and modifications on implementation of the State Program.  
+
+2. Current state
+English (English)
+Establishment of new VSAT technology (Very Small Aperture Terminal) in the 80s of the 20th century strongly impacted on the development of local, intercity and international communications in a great number of areas; however the satellites launched during the 60-70s were mainly used for the communications and analogue radio and TV broadcasting. In late 90s application of the satellite systems created a great opportunity for the establishment of high quality and reliable communications systems as well as construction of the digital radio and TV broadcasting systems and networks in the world. Demand for the satellite resources has even more accelerated the application of new technologies in this field since 2000.
+
+According to the figures there were about 270 satellites in the world by the end of 2008 and the total number of their transponders exceeded five thousand. The main part of the telecommunication satellites was located in the geostationary orbit. Today, more than 30 countries have such satellites. If in 1996 the overall revenue from communication satellite was US$16 billion, then in 2002 this number reached US$50 billion whereas today it is around US$100 billion.
+
+At the beginning of 2009 the satellite capacities in the Republic consisted of approximately 120 Mbs, substantial part of which are used in VSAT systems and the remaining majority for the state and private radio and TV broadcasting. According to the forecasts, for the next 15 years the need for the satellite capacities will be 1700 Mbs.
+
+Part of international and local communications and the main part of the radio and TV broadcasting in the Republic are being used by the satellite. Given that more than 50 % of the territory relief of the Republic is mountainous and the possibility of more operatively organizing of the satellite communications systems, it is expected that demand for this service will increase in the future.
+
+In addition to the satellite stations providing telecommunication services, application of the satellite stations installed on the basis of DVB-S technology will be enlarged in the near future in order to broadcast within and outside the republic the programs of radio and TV broadcasting companies operating in the country. 
+
+In 2006, the Ministry of Communications and Information Technologies (MCIT) of the Republic of Azerbaijan sent a tentative request to the International Telecommunication Union (ITU) to obtain unplanned orbital position and frequencies. In 2008, coordination requirements were submitted to the ITU and work is currently carried out in accordance with the procedural rules. The South-East Centre for investigation of natural resources established in Baku in 1974  by using technical means gave an impact to the commencement of establishing of space industry, receiving and processing of space data in the Republic. In the same year  Space Instrumentmaking Special Construction Bureau was established under  Azerbaijan National Academy of Sciences and conducting of space investigations was launched.
+
+Currently, the state entity- National Aerospace Agency (NAA) operating under the Ministry of Defence Industry of the Republic of Azerbaijan is directly involved in establishing space technique and technologies, as well as solution of various issues by using airspace information. During the period of its activity the NAA  has achieved significant progress in the field of creation of space instrument-making, subspace systems and complexes. It also established close relations with Military Industrial Complex, Ministry of Defence, Machine-building Ministry, Academy of Sciences of the former USSR as well as multi-purpose projects have been implemented. “Pulsar X-1” spectrometer manufactured in the Space Instrument–making Experimental Plant of the NAA enabled discovery of local sources of roentgen and gamma radiation. This spectrometer operated about 15 years in the orbital systems of “Salyut-7” and “Mir” and successfully demonstrated its functional capabilities.
+
+According to the agreement concluded between Space Instrument-making Special Construction Bureau of the NAA and the Russian Space Instrument-making Scientific Research Institute within the framework of the “Economic Cooperation Agreement” between the Republic of Azerbaijan and the Russian Federation, Space Data Receipt Complex UNISCAN-24 was installed in the NAA in early 2007 and is operating at the moment. 
+
+Highly trained staff operating in this receipt complex has been formed, significant actions have been taken for the systematization and archiving of data received and its application in the various fields of economy. Increasing capabilities of this system may be exceptional tool in the inventory of soil-plant objects of the Republic, solution of the meteorological issues, evaluation of the natural-destructive processes, conducting of the monitoring of the ground-based pipecommunications networks, creation and renewal of the digital electronic maps, as well as solution of a number of issues which are important from economic, strategic and defensive point of view.
+
+Space industry system and space data receiving and processing technology available in the Republic have become outdated both physically and morally. Strong necessity has been arisen in the application of ICT in the management process as well as in the establishment of new production and processing technology in the factories operating in this field and other production and experimental points. Reconstruction of the mentioned field on the basis of the State Program, mastering of the state-of-the-art technologies and arrangement of the local production are considered as the main directions in the establishment and development of this field. The main feature of the Program is focused on the enhancement, rebuilding and development of the potential gained in this field over 30 years.
+
+The other significant feature of the Program is training of highly skilled specialists for operation of the telecommunication satellite, organization and controlling of manufacture in the field of space industry, receiving and processing of space data. At the first stage training will be conducted abroad and then in the Republic. 
+
+3. Aim of the State Program
+English (English)
+The primary aim of the State Program is to create and develop space industry, to meet the needs of the state authorities for satellite communication, to provide growing needs of the population in the regions for radio and TV broadcasting, to increase country’s international communication channels, as well as to develop economic, social, scientific, cultural and security fields by effective utilization of outer space. Expansion of international cooperation in the field of space industry, strengthening the potential of the space industry of the Republic, development of space industry technologies, organization of new communications services, radio and TV broadcasting, earth remote sensing, hydrometeorology, environmental monitoring, control of emergency situations, space investigations, search and rescue programs and so forth will create excellent prospects for the development of this field.
+
+Significant development of telecommunications and ICT sector throughout the world requires implementation of effective measures towards improvement of competitiveness of the satellite networks. Therefore, the following issues are considered actual for the prospective development of space industry complex:
+
+Great attractiveness of satellite communication and broadcasting services and envisaging them for a large number of population;
+Increasing the competitiveness of the newly launched satellites;
+Increasing the commercial effectiveness of fixed satellite systems;
+Regulating prices for services  submitted via the new satellites;
+Upgrading the infrastructure of the services rendered via the new satellites;
+Expansion of the integration of satellite communication systems with the ground-based broadcasting services.
+To organize wide and high quality satellite communication services in the Republic it is important to launch into geostationary orbit the satellite belonging to Azerbaijan. For this purpose, it is planned to launch one telecommunication satellite into orbit. Operation of
+
+Azerbaijan’s telecommunication satellite in C and Ku bands will cover the whole Europe and a considerable part of Asia. Telephone communication, TV and radio broadcasting, high-speed Internet, multi-media services will be rendered via this satellite, and corporative VSAT networks will be set up.
+
+The following strategic aims are considered in the State Program:
+
+Establishment of the potential for further development;
+Ensuring and strengthening of the national and information security;
+Enhancement of integration to the global information environment;
+Provision of the connection possibility of government agencies, legal and physical entities to the satellite networks;
+Improvement of the legal framework for satellite systems, their operation and exploitation, as well as for establishment and development of space industry;
+Creation of conditions for attracting of investment to the space industry;
+Provision of the territory of the Republic with satellite communication, radio and TV broadcasting;
+Meeting the needs of state authorities for the special communication;
+Environmental monitoring in the territory of the Republic, forecasting  and investigations of anthropogenic-related emergency cases and evaluation of the scale of on shore and offshore oil spill;
+Creation of conditions for the Republic to participate in the international space programs;
+Provision of the development of space industry, stimulation of local manufacture and support of its export potential;
+Training of  specialists in the space industry and satellite systems field;
+Carrying out of monitoring so as to provide the security of strategically significant infrastructure facilities;
+Establishment of space industry and its development. 
+4. Main directions of fulfillment of the Program
+English (English)
+To achieve the aims set in the State Program, below stated issues are considered:
+
+Solution of structural-organizational issues;
+Launching of telecommunication satellite into orbit and its operation;
+Organization of receiving and processing of space data obtained from the satellite;
+Training of specialists.
+4.1 Structural-organizational issues
+English (English)
+The establishment of space industry in the Republic of Azerbaijan, receiving and processing of space data will be implemented by the National Aerospace Agency of the Ministry of Defence Industry of the Republic of Azerbaijan, but the operation and exploitation of telecommunication satellite will be implemented  by Azercosmos OJSC considered to be established. Preparation of normative legal acts and normative documents is deemed as being crucial for organizing satellite systems, their operation and maintenance in accordance with the existing legislation.
+
+4.2 Launch of the satellite into orbit and its operation
+English (English)
+The following fields and measures are to study and implemented in order to launch telecommunication satellite into orbit:
+
+-  Preparing offers in order to increase the opportunities related to orbital positions allocated to the Republic of Azerbaijan by the ITU;
+-  Selection of optimal orbital position for the telecommunication satellite;
+-  Preparation of feasibility study for launching of the satellite into orbit;
+-  Selection of the manufacturer, launch vehicle and insurance companies of the satellite;
+-  Installation of ground-based system for operation and exploitation of the satellite;
+-  Launching of the telecommunication satellite into orbit.
+
+The following measures are to be taken for the development of the telecommunication satellite network:
+-  Creation of operation system of the telecommunication satellite;
+-  Creation of space complex of TV and radio broadcasting, fixed radio systems;
+-  Organization of multifunction space retranslation systems;
+-  Transmission of multifunction individual space communication and data;
+-  Creation of new technical complexes for broadcast technology of the satellite communications.
+
+4.3. Establishment of space industry and its development
+English (English)
+The following issues are to be implemented in connection with the establishment and development of space industry in the Republic:
+-  Wide application of ready-made systems, study of the efficiency and development of proposals for their manufacturing in the country for the purpose of establishment of space industry at the first stage;
+-  Assemblage of different equipment in the Republic through acquiring main parts of spacequalified hardware from abroad and organizing their manufacture;
+-  Creation of local base of main profiles of manufacture of the space-qualified hardware;
+-  Studying of technological potential opportunities for preparation and launching of small satellites into orbit;
+-  Receiving and processing of space data. 
+
+5. Personnel training
+English (English)
+Personnel training on operation and exploitation of the satellite, manufacture of the spacequalified hardware, receiving and processing of space data is deemed as being critical for successful realization of the State Program. Taking into account space industry as a new field, it is important to provide short-term personnel training in the USA and Europe in the following directions:
+
+-  Operation and exploitation of the satellite;
+-  Satellite services and marketing;
+-  Coordination of orbital position and regulation of the relationships with other space operators; - Receiving and processing of space data;
+-  Creation of space industry conforming to the international standards.
+
+ To carry out personnel training in the relevant scientific and educational establishments of higher education opportunities and practical framework will be reviewed. 
+
+6. Financial sources
+English (English)
+Financial sources of the State Program are as follows:
+
+-  State budget;
+-  Internal and external investment;
+-  Technical-financial aids, loans and grants;
+-  Other sources not prohibited by law. 
+
+7. Expected results
+English (English)
+Expected results regarding the implementation of the State Program are as follows:
+
+-Provision of the population of the Republic with high quality TV and radio broadcasting;
+-Rendering reliable special communication services for public agencies;
+-Creation of conditions for satellite communication users to use telecommunication satellite of Azerbaijan;
+-Establishment of direct and reliable space communications with diplomatic representations and embassies of Azerbaijan in foreign countries;
+-Strengthening and ensuring the protection of information security of the country;
+-Elimination of dependence of the country upon other satellite networks;
+-Establishment of high speed satellite Internet services;
+-  Receiving information from any region of the country in emergency cases and organization of management;
+-  Creation of ground-based infrastructure for receiving, processing, protection, dissemination and use of space data and defining ways of their development;
+
+-  Utilizing satellite network in manufacturing of products and rendering services;
+-  Rendering multimedia satellite broadcasting services for the mobile subscriber (interactive video);
+-  Creation of new opportunities for personnel training and development of human capital. 
+
+8. Action Plan for implementation of the State Program
+English (English)
+ 
+
+  
+
+№
+
+Name of activity
+
+ 
+
+Implement
+
+ation period (by  years)
+
+ 
+
+Responsible governmental body
+
+ 
+
+1
+
+2
+
+3
+
+4
+
+1
+
+General issues
+
+ 
+
+ 
+
+ 
+
+1.1.
+
+Establishment of the respective entity in the Republic of Azerbaijan and ensuring its activity for operation, exploitation and launching of the telecommunication satellite into orbit
+
+ 
+
+2009
+
+CM,        MCIT,
+
+MED, SCPI
+
+ 
+
+1.2.
+
+Submission of proposals regarding elaboration of corresponding legal documents and taking special measures on operation and exploitation of satellite networks and systems 
+
+ 
+
+ 
+
+2009-2010
+
+ 
+
+CM,        MCIT,
+
+SCSMP, MJ
+
+ 
+
+ 
+
+2.
+
+Satellite networks and systems
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1.
+
+Preparing offers in order to increase broadcasting opportunities related to the planned orbital position allocated to the Republic of Azerbaijan by the ITU as well as intended for broadcasting to Azerbaijan and neighboring countries
+
+ 
+
+2009-2010
+
+ 
+
+MCIT
+
+ 
+
+ 
+
+2.2.
+
+Continuation of the activities with the ITU and taking measures for obtaining of additional orbital positions so as to get allocation of unplanned orbital positions for the Republic of Azerbaijan
+
+ 
+
+2009-2013
+
+ 
+
+MCIT
+
+ 
+
+2.2.1.
+
+Coordination work regarding the satellite networks defined by the ITU
+
+2009-2013
+
+ 
+
+MCIT
+
+ 
+
+ 
+
+Implementation of special arrangements jointly with the ITU regarding
+
+regularly
+
+MCIT
+
+2.2.2.
+
+the registration of orbital positions
+
+ 
+
+ 
+
+2.2.3.
+
+Implementation of measures on protection of the rights of the Republic of
+
+Azerbaijan on possession and use of orbital positions allocated to the Republic of Azerbaijan
+
+ 
+
+regularly
+
+ 
+
+MCIT, MJ
+
+ 
+
+ 
+
+2.3.
+
+ 
+
+Implementation of the technical and marketing related preparatory work in order to launch the satellite into orbit.
+
+ 
+
+ 
+
+2.3.1.
+
+Choosing the optimal orbital position for the satellite
+
+ 
+
+2009
+
+ 
+
+MCIT
+
+ 
+
+2.3.2.
+
+Preparation of the feasibility study for launching the satellite into orbit
+
+2009
+
+ 
+
+MCIT, MED
+
+ 
+
+ 
+
+2.3.3.
+
+Choosing companies and signing contracts in order to manufacture and launch the satellite into orbit
+
+2009-2010
+
+ 
+
+MCIT,
+
+MED,
+
+MD
+
+ 
+
+ 
+
+ 
+
+2.3.4.
+
+Launching the satellite into orbit, its exploitation, implementation of appropriate procurements, finding solutions to insurance and legal related issues
+
+ 
+
+2009-2012
+
+ 
+
+MCIT,
+
+MED,
+
+Ministry
+
+Finance
+
+ 
+
+of
+
+2.3.5.
+
+Construction of ground-based system for operation and exploitation of the satellite
+
+ 
+
+2010
+
+ 
+
+MCIT,
+
+MD
+
+ 
+
+ 
+
+2.3.6.
+
+Launching the satellite into orbit
+
+ 
+
+2011-2012
+
+ 
+
+CM,
+
+MCIT
+
+ 
+
+ 
+
+2.3.7.
+
+Implementation of measures for security of the satellite ground control system and space data
+
+ 
+
+2009-2012
+
+ 
+
+MCIT,
+
+MDI
+
+ 
+
+ 
+
+3.
+
+Establishment of space industry and its  development  
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.1.
+
+Development of proposals for assembling and in-country production of elements and parts of the VSAT and other terminal stations, and satellite receivers of various types and functionalities (Internet, direct TV, GPS etc.)with the aim of establishing space industry at an initial period
+
+ 
+
+2010-2013
+
+ 
+
+CM,
+
+MDI,
+
+MCIT,
+
+MED,
+
+MD
+
+ 
+
+ 
+
+ 
+
+3.2.
+
+Development of proposals on preparing the base for spare parts and elements of satellite network and equipment, and preparation of other field-related equipment of small capacity satellite by finding out demands
+
+2012-2013
+
+ 
+
+CM,
+
+MED,
+
+MDI,
+
+MCIT,
+
+MD
+
+ 
+
+ 
+
+4.
+
+Receiving of space data and its processing
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.1.
+
+Purchase of equipment for obtaining, receiving and processing space data from multi-purpose satellites and delivering them to the related authorities of the country
+
+ 
+
+2010-2011
+
+ 
+
+MC,
+
+MED, MDI,
+
+MCIT
+
+MD
+
+ANAS
+
+ 
+
+ 
+
+5.
+
+Personnel training
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.1.
+
+Personnel training on satellite operation and exploitation, manufacturing of the space-qualified hardware, receiving and processing of the spacerelated data
+
+ 
+
+ 
+
+2009-2011
+
+ 
+
+MC,
+
+MCIT,
+
+MDI,
+
+MD,
+
+ME
+
+ 
+
+ 
+
+ 
+
+Mutual cooperation in the field of personnel training and organizing trainings by involving foreign specialists 
+
+regularly
+
+MCIT, MDI,
+
+ 
+
+5.2.
+
+ 
+
+ 
+
+MD,
+
+ME
+
+ 
+
+ 
+
+ 
+
+Acronyms:
+
+ 
+
+CM-Cabinet of Ministers
+
+MCIT- Ministry of Communications and Information Technologies
+
+MDI-Ministry of Defence Industry
+
+MD-Ministry of Defence
+
+MED-Ministry of Economic Development
+
+MJ-Ministry of Justice
+
+ME-Ministry of Education
+
+SCPI- State Committee on Property Issues
+
+SCSMP - State Committee for Standardization, Metrology and Patent   

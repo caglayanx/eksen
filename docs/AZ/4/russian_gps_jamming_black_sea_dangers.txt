@@ -1,0 +1,82 @@
+Suspected Russian GPS Jamming Risks Fresh Dangers In Black Sea Region
+By Georgi A. Angelov
+October 26, 2023 19:58 CET
+
+Share
+
+
+Print
+
+Are Russian forces causing problems with the civilian use of GPS in the black Sea? 
+Are Russian forces causing problems with the civilian use of GPS in the black Sea?
+SOFIA -- An avid Bulgarian plane spotter heard odd chatter from commercial pilots preparing to land their aircraft in Sofia, the capital of Bulgaria, around 10 o'clock in the evening of August 31.
+
+Tuned in to a Sofia Airport radio frequency, the plane spotter, who requested that they remain anonymous, said several pilots were speaking about problems they were experiencing with GPS, or the global positioning system, a network of U.S.-owned satellites that are used to determine locations on Earth.
+
+The next day, September 1, it was happening again. Pilots approaching Sofia complained of the same problem, according to transcripts seen by RFE/RL's Bulgarian Service of recordings from a Sofia Airport radio channel. The plane spotter's findings were also confirmed by GPSJAM, a website documenting jamming activity.
+
+The jamming had also happened before. Romania experienced a similar problem with its GPS system, a glitch that the army's chief of staff blamed on Russia and said posed a significant risk to shipping in the region. While Bulgarian officials are being careful not to directly accuse Russia, they have said that the problems with GPS largely date from the start of the Kremlin's full-scale invasion of Ukraine in February 2022.
+
+Asked by RFE/RL who was behind the jamming and how Sofia is countering it, the Bulgarian Defense Ministry was circumspect, only saying that the jamming was being carried out "with radio-electronic warfare systems."
+
+"But information about the systems themselves, the means of operation and countermeasures is classified," the Defense Ministry said.
+
+Russia is likely behind the jamming, said Thomas Withington, an expert on electronic warfare, radar, and military communications at the London-based Royal United Services Institute, a defense and security think tank, adding that such activity poses a safety risk for shipping in the area.
+
+'Very Dangerous'
+
+In an interview with RFE/RL's Bulgarian Service, Withington said Russia could be attempting to protect its invading forces in Ukraine from GPS-guided weapons launched by the Ukrainian military. "It's not necessarily that the Russians are doing it on purpose, but it has consequences and a side effect is that it can be very dangerous for civilian vessels relying on satellite navigation," Withington said.
+
+Romania explicitly warned about this risk to shipping at the end of September when General Daniel Petrescu, the chief of staff of the country's army, accused Russia of "actively and constantly" jamming ships' GPS communications in its territorial waters, causing a risk of collisions.
+
+"War has returned to Europe. It is a war chosen by Russia, which for Ukraine is a war of national survival and a fight for Western values," he told the Euro-Atlantic Resilience Forum in Bucharest, a strategy-focused conference supported by the Romanian Foreign Ministry.
+
+Romanian General Daniel Petrescu (file photo)
+Romanian General Daniel Petrescu (file photo)
+Petrescu said that the war in Ukraine has fundamentally destabilized the Black Sea region. "The Black Sea has become an area of Russian military operation," he said.
+
+"We do not see the end of this war now, and while we admire the resilience of Ukrainian society in the face of Russian attacks, we must also prepare for a long-term confrontation with the regime of the Russian Federation," the general added.
+
+Such electronic warfare -- the use of electronic signals to locate, intercept, and disrupt enemy operations -- has become an important, if underreported, element in Russia's invasion of Ukraine.
+
+Leaked U.S. documents, cited in June by the Royal United Services Institute, showed that Russian electronic warfare may be having a negative impact on certain U.S.-supplied weapons, known as Joint Direct Attack Munition, or JDAM.
+
+"It is no secret that Russian land forces have deployed scores of EW (electronic warfare) systems into the Ukrainian theater of operations," that report said.
+
+Ukrainian soldiers load a shell into howitzer before firing toward Russian positions in the Kharkiv region on March 12. 
+SEE ALSO:
+Ukraine Live Briefing: US Negotiators Head To Moscow
+Bulgarian officials, however, have denied that GPS jamming is a serious problem. "The problems with the GPS signal are isolated incidents," Georgi Peev, director-general of BULATSA, the Bulgarian Air Navigation Service, which oversees the country's air traffic control system.
+
+Such GPS interference "in no way compromises the security of aviation, because an alternative, ground-based [radar] system is available," Peev told RFE/RL.
+
+Bulgaria and other countries are "monitoring the situation," Peev said, adding that they were taking precautionary steps to avert unspecified difficulties in the event of a GPS malfunction.
+
+While the source of the jamming at Sofia Airport is still not known, some experts have speculated that Russia could be using ships in the Black Sea equipped with jamming devices.
+
+In August, GPS interference over the Bulgarian and Romanian Black Sea coasts appeared to spike, according to data from GPSJAM. The uptick in activity occurred just a month after Russia launched what it described as military exercises in the Black Sea in an area not far from the shores of Bulgaria, which Sofia has designated its Exclusive Economic Zone, a designation that gives a state the right to explore and exploit marine resources.
+
+'Humanitarian Corridor'
+
+The military exercises also came in the wake of Russia's July 17 decision to unilaterally exit the UN-brokered Black Sea grain deal due to sanctions that had blocked its food and fertilizer exports.
+
+"There is no such [military] exercise. This is just an occasion that Russia is using, and ostensibly conducting an exercise, [to try] to block the export of Ukrainian grain," Bulgarian Defense Minister Todor Tagarev said at the end of September.
+
+Under the deal, Ukraine had managed to ship more than 32 million metric tons of grain to 45 countries over a year.
+
+Kyiv responded to Russia's withdrawal by setting up a temporary "humanitarian corridor" for cargo vessels, and multiple ships have left Ukraine's Black Sea ports since.
+
+Citing declassified intelligence, Britain said earlier in October that there was a risk Russia would target civilian ships travelling through this corridor in order to deter the export of Ukrainian grain. "Russia almost certainly wants to avoid openly sinking civilian ships, instead falsely laying blame on Ukraine for any attacks against civilian vessels in the Black Sea," the British Foreign Office said in a statement.
+
+Since July, Russian attacks have damaged 130 Black Sea and Danube River ports and infrastructure facilities and have destroyed nearly 300,000 metric tons of grain, enough to feed more than 1 million people for a year, Britain said.
+
+In September, London accused Moscow of targeting a civilian cargo ship at a port in the Black Sea with "multiple missiles," which the U.K. government said were successfully intercepted by Ukrainian defenses.
+
+Beyond the Black Sea, jamming of global navigation satellite systems (GNSS) has been detected in areas of the Mediterranean Sea, including along the coasts of Turkey, Cyprus, and Syria, according to data from GPSJAM.
+
+Russian warships are also operating in the Mediterranean Sea, with Moscow controlling the Tartus naval facility on Syria's Mediterranean coast, a site where experts have suggested Russia is carrying out jamming operations.
+
+The Royal United Services Institute's Withington says he believes that much of the jamming is done by equipment deployed on Russian warships in both the Mediterranean Sea and the Black Sea. "What the Russian weapon does is prevent the GNSS signal from space from reaching the receiver on Earth. And it does this by emitting a lot more powerful signal than [the one] coming from space," he said.
+
+Withington has warned that incidents in the Black Sea and the skies over Ukraine could quickly escalate if Russian jamming is not thwarted, although the task is "challenging because precision electronics are required."
+

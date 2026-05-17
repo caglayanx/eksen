@@ -1,0 +1,23 @@
+Syria Opens Investment Track to Fix Weak Mobile Coverage
+March 20, 2026
+The Syrian Ministry of Communications and Information Technology launched a new initiative aimed at tackling one of the country’s most persistent infrastructure problems: weak mobile and internet coverage, especially indoors.
+
+In an official announcement, the ministry said it is now accepting applications from investors to develop shared Distributed Antenna Systems (DAS). These systems are designed to boost signal strength in high-priority locations such as hospitals, universities, public institutions, and residential complexes, places where connectivity gaps directly affect daily life.
+
+A Market-Driven Fix
+
+Rather than relying on public funding, the ministry is turning to a commercial model. It has issued a Request for Information (RFI) targeting experienced operators, service providers, and investment groups capable of building and managing DAS networks.
+
+Under this model, private investors will finance and operate the infrastructure, then share revenues with existing mobile network operators. The approach is meant to accelerate deployment without adding pressure to the state budget.
+
+One Network, Multiple Operators
+
+At the core of the plan is a shared infrastructure concept. Instead of each telecom operator building its own system, multiple providers will use the same DAS network within a single location. This reduces duplication, lowers costs, and improves efficiency, while delivering stronger, more consistent coverage in crowded indoor environments.
+
+The ministry confirmed that once the RFI phase is complete, it will move into structured commercial negotiations with qualified applicants. Pilot projects are expected to follow. At the same time, coordination is underway with the Telecommunications and Postal Regulatory Authority to finalize licensing rules and define how new infrastructure players will operate alongside existing telecom companies.
+
+Part of a Bigger Telecom Overhaul
+
+This move is not isolated. It fits into a broader restructuring of Syria’s telecom sector, which includes plans to issue a new mobile operator license and introduce a regulatory framework for Mobile Virtual Network Operators (MVNOs).
+
+Minister Abdulsalam Haykal acknowledged that the sector has suffered from years of underinvestment and structural issues. He said the ministry’s goal is to reverse that trend through faster, more flexible solutions that can scale over time. The push for shared infrastructure is a key part of that strategy, aimed at improving service quality, attracting investment, and modernizing the network without delay.

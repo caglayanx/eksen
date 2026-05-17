@@ -1,0 +1,16 @@
+Digital Decade 2025: Broadband Coverage in Europe 2024
+REPORT / STUDY
+Publication 16 June 2025
+This study is a data-driven look at broadband coverage in 2024 and progress towards the Digital Decade targets.
+
+Digital Decade logo followed by text: "Study: Broadband Coverage in Europe 2024"
+The 2024 Broadband Coverage Report provides a detailed assessment of broadband availability across 31 countries, comprising the EU27, Norway, Iceland, Switzerland, and the United Kingdom. It examines the coverage of eleven key broadband technologies, including VDSL2 , DOCSIS, FTTP, 5G and Satellite, with data disaggregated at national and rural levels.
+
+More than a technical overview, the report provides a structured analysis of year-on-year trends, cross-country comparisons, and Europe’s progress toward full Very High-Capacity Network (VHCN) coverage, encompassing both traditional fixed infrastructure and BEREC-defined VHCN indicators, which also consider specific mobile technologies.
+
+Based on data collected as of June 2024, the report contributes to understanding:
+
+The comparative state of gigabit-capable infrastructure across countries
+The evolution of rural broadband availability
+The 5G coverage, including the 3.4–3.8 GHz band, in overall connectivity assessments
+Complementing the Europe-wide analysis, individual country chapters provide national-level insights into connectivity coverage developments and network infrastructures expansion over time.

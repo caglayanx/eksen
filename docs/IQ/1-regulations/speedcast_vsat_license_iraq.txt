@@ -1,0 +1,14 @@
+Speedcast Receives VSAT License to Operate in Iraq
+By Photo of Kendall Russell Kendall Russell
+Tuesday, August 15, 2017
+    
+
+Street in downtown Baghdad, Iraq. Photo: Wikimedia.
+Speedcast International has received a Very Small Aperture Terminal (VSAT) license to operate in Iraq through its locally licensed entity. This has prompted the completion of a new systems integration project providing managed network services for an international oilfield services group in the country.
+
+The VSAT license is a new requirement as of January for service providers operating in Iraq, which was previously covered under the yearly telecommunications license required to operate communications networks in-country. Speedcast’s local entity has renewed its general telecommunications license in addition to being awarded the VSAT-specific license, allowing the company to continue supporting customers in the region for satellite connectivity as well as other telecommunications and technology services.
+
+According to Speedcast, the project scope includes four sites at a major oilfield in southern Iraq, using Speedcast’s locally licensed entity to deliver communications services and full-time support. The company has equipped the sites with terrestrial, microwave and satellite connectivity, Closed-Circuit Television (CCTV), video conferencing, Wide Area Network (WAN) optimization and a range of IT equipment. Fiber and microwave serve as the primary connections with satellite providing backup.
+
+Speedcast provided terrestrial and VSAT networks together to ensure business continuity for both operator and service contractors, so both drilling and critical business data could be transmitted 100 percent of the time, the company stated. Under the terms of the agreement, Speedcast will also provide end-user VSAT licenses.
+

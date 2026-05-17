@@ -1,0 +1,45 @@
+101st RRB Meeting
+The Board carefully considered Documents RRB26-1/2 and RRB26-1/7 from the Administration of the Islamic Republic of Iran and Document RRB26-1/22 from the Administration of the United States, on the provision of STARLINK satellite transmissions in Iranian territory.
+
+The Board noted with grave concern the following points:
+
+​The Administration of the Islamic Republic of Iran had again reported the continuing unauthorized operation of STARLINK terminals within its territory;
+The Administration of the Islamic Republic of Iran had indicated that there was no equipment available to identify and locate all unauthorized STARLINK terminals throughout its entire territory;
+No response had been received from the Administration of Norway;
+The Administration of the United States was of the view that the Board was exceeding its mandate under Article 14 of the ITU Constitution and that decisions went beyond the spirit and intent of the Radio Regulations and the World Radiocommunication Conference;
+The issue of unauthorized operation of STARLINK terminals within the territory of the Administration of the Islamic Republic of Iran had been under consideration by the Board since its 92nd meeting (20–24 March 2023) without any progress.
+The Board further noted the following:​
+
+​Pursuant to No. 96 of the Constitution, the Board was to consider any other matter that could not be resolved through the application of the rules of procedure;
+The Administration of the United States, as notifying administration of the STARLINK satellite system, had also brought into use frequency assignments to satellite systems that support the STARLINK system,
+The notifying administrations of satellite systems had an obligation under Resolution 22 (Rev.WRC-23) to cooperate to the maximum extent of their capabilities to resolve the matter of unauthorized transmissions (as per resolves 3 ii) and invites administrations 3);
+Compliance with resolves 2 and 3 ii) of Resolution 22 (Rev. WRC-23) could involve geolocating and deactivating terminals remotely, if those capabilities were available to the satellite system operator;
+The administrations were bound to abide by the provisions of Article 6 of the Constitution.
+The STARLINK system was capable of geolocating terminals and disabling them remotely.
+The Board also noted with thanks that the Bureau had published as requested the webpage on the matter under resolves to instruct the Radio Regulations Board 2 of Resolution 119 (Rev. Bucharest, 2022) of the Plenipotentiary Conference.
+
+The Board reiterated that it had been acting within its mandate under Article 14, No. 96 of the Constitution and concluded as follows:
+
+The actions of the Administration of Norway were not compliant with the obligations set out in Resolutions 22 (Rev.WRC-23),25 (Rev.WRC-23) and Article 18 of the Radio Regulations;
+The Board did not have the authority to suspend frequency assignments to satellite systems for non-compliance of the notifying administration with Resolution 22 (Rev.WRC-23).
+Consequently, the Board decided to:
+
+continue to request the Administration of the Islamic Republic of Iran to pursue its efforts, to the extent possible, to identify and deactivate unauthorized STARLINK terminals in its territory, in accordance with resolves 3 i) of Resolution 22 (Rev.WRC-23);
+continue to request the Administration of Norway and the Administration of the United States to comply with Resolutions 22 (Rev.WRC-23),25 (Rev.WRC-23) and Article 18 of the Radio Regulations;
+strongly urge the Administrations of Norway and the United States to take all appropriate actions at their disposal to have the operator of the STARLINK system immediately disable unauthorized transmissions of its terminals within the territory of the Islamic Republic of Iran;
+​​to include the issue of unauthorized transmissions from earth stations in its report to WRC-27 on Resolution 80 (Rev.WRC-07), with a view to discussing, inter alia, the difficulties encountered with the application of Resolution 22 (Rev.WRC-23).​
+
+
+Input contributions from
+IRN
+RRB26-1/2;
+​RRB26-1/7
+
+NOR
+-
+
+USA
+RRB26-1/22​
+
+Delayed docum​​ents from
+

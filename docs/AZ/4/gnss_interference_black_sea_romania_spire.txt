@@ -1,0 +1,82 @@
+GNSS interference report: Russia – Part 4 of 4: Black Sea & Romanian airspace
+September 24, 2025
+Resource type:BlogCategories:Space ReconnaissanceAviation
+Written by:
+
+Travis Turgeon
+Independent Investigative Writer
+
+Tjaša Pele
+Digital Marketing Manager, Spire Aviation
+
+Antoine Cayphas
+Data Scientist, Spire Aviation
+
+Share:
+Share on FacebookShare on TwitterShare on LinkedIn
+Jump straight to
+The Black Sea: A live fire zone for GNSS interference
+Spire Satellite Validation
+The impact of Spire Aviation's satellite data
+Interference pattern and attribution
+Operational impact
+Through a combination of electronic warfare systems, offshore interference zones, and strategic positioning in Crimea, Russia has turned the Black Sea into one of the most consistently degraded GNSS zones in Europe.
+
+This four-part series delivers concise, data-backed snapshots of GNSS interference activity in and around Russia. Each installment pairs open-source reporting with Spire’s LEO-based constellation, providing decision-grade insight that goes well beyond public jamming maps like gpsjam.org.
+
+Part 4 focuses on the Black Sea, where Russian GPS jamming and spoofing have expanded into international waters and NATO airspace. Through a combination of electronic warfare systems, offshore interference zones, and strategic positioning in Crimea, Russia has turned the Black Sea into one of the most consistently degraded GNSS zones in Europe. Open-source reporting from scientific teams, ship operators, and military officials confirms a multi-layered interference campaign affecting civilian navigation, flight safety, and maritime commerce.
+
+The Black Sea: A live fire zone for GNSS interference
+While Russia’s electronic warfare systems have long targeted Ukrainian military operations, the Black Sea has increasingly emerged as a gray zone for GNSS denial, impacting civil aviation, international shipping, and regional infrastructure.
+
+From mid-2024 onward, reports of GPS jamming and spoofing persisted in the Romanian Flight Information Region (FIR), over the Danube Delta, and across the maritime zones surrounding Crimea, and these effects are not confined to the battlefield. Civilian aircraft have reported false positioning, maritime AIS systems have shown ships “teleporting” inland or spinning in circles, and scientific missions have directly recorded spoofing signals at high altitude.
+
+The scale and consistency of this interference suggest that the Black Sea is no longer just a border zone – it is a live, contested arena in Russia’s wider information warfare campaign.
+
+Summary
+Location: Black Sea coastlines and maritime FIRs, including Romanian airspace, western Crimea, and the western Black Sea
+Activity: Persistent GNSS spoofing and jamming affecting aircraft, vessels, and scientific sensors
+Date highlight: Spring 2025 – consistent GNSS degradation observed by commercial pilots, scientific missions, and national defense authorities
+Impact zones: Southeast Romanian FIR, Constanța coast, Danube Delta, Snake Island corridor, offshore platforms, maritime traffic lanes
+Real-world incident
+In late 2024 and into spring 2025, reports of GPS interference in the Black Sea region surged. Romanian officials, aviation observers, and civilian monitoring platforms all documented increasing spoofing and jamming activity, most of which originated from Russian-controlled Crimea.
+
+Scientific confirmation of high-altitude spoofing (Aug 2024 – Feb 2025)
+In August 2024, the Romanian firm InSpace Engineering launched a high-altitude balloon from Constanța to monitor GNSS spectrum quality over the Black Sea. The payload recorded persistent jamming across all GNSS bands and a definitive spoofing event at ~11 km altitude, where the reported position abruptly shifted toward Simferopol in Russian-occupied Crimea.
+
+Flight data confirmed the balloon never physically deviated from its path, pointing to external signal manipulation. The team later published spectrograms showing full-band interference across L1, L2, and L5, marking the first scientific confirmation of high-altitude GNSS spoofing in NATO airspace.
+
+Regional escalation and independent monitoring (August 2024 – April 2025)
+Between late summer 2024 and spring 2025, GNSS spoofing in the region reached new levels of scale and severity. According to OPSGROUP’s 2024 GPS Spoofing Report, the global aviation community observed a 500% increase in spoofing incidents, peaking at an average of 1,500 spoofed flights per day.
+
+While the report did not attribute activity to a specific region, Romanian and Bulgarian pilots began filing real-time reports in February of signal degradation, false GNSS positioning, and sudden navigation dropouts while flying along the Black Sea coast. These incidents aligned with public telemetry and scientific data showing consistent spoofing vector patterns that resolved eastward, often pointing toward Simferopol in Russian-occupied Crimea.
+
+In May 2025, Romania’s Chief of Defense publicly confirmed that GNSS spoofing and jamming “occur weekly” along the country’s coast, describing the interference as part of a broader “hybrid warfare” strategy that often coincides with naval movements and drone activity.
+
+Maritime impact and persistent risk (April – May 2025)
+By spring 2025, spoofed GNSS signals over the Black Sea had reached near-daily frequency, with merchant vessels east of Constanța and south of Snake Island among the most consistently affected. Civilian AIS systems displayed erratic positioning – ships appearing inland, spinning in circles, or drifting far off established maritime routes.
+
+These spoofing patterns echoed those seen in Russia’s “Baltic Bermuda Triangle”, and were captured in MarineTraffic screenshots throughout the region.
+
+While some signal distortion may appear random, analysts believe much of the interference is intentional, designed to obscure military activity or mask strategic movements. The consequences extend well beyond navigational confusion: ships risk regulatory violations, insurance disputes, and collision hazards, particularly in congested maritime corridors near the Danube Delta and Romanian offshore platforms.
+
+Notably, this maritime interference often coincides with Russian electronic warfare activity in Crimea, reinforcing the pattern of GNSS denial as a tactical smokescreen for broader hybrid operations.
+
+Yet while public reports and operational data confirm the scale and risk of interference, most civilian platforms lack the resolution or visibility to trace signal origin or detect manipulation in real time. This is where Spire’s satellite-based RF monitoring system adds critical value – not only validating interference, but mapping its scope, directionality, and operational impact from orbit.
+
+Spire Satellite Validation
+What Spire saw
+The following satellite-confirmed incidents showcase how GNSS spoofing activity escalated inland and along the Romanian coast through fall 2024 and into spring 2025. These Spire Aviation snapshots provide concrete telemetry evidence supporting the open-source observations outlined in earlier reporting.
+
+Persistent spoofing over Buzău, Romania (October 2024)
+Throughout  October 2024, Spire Aviation’s satellite-based  constellation detected a cluster of GNSS spoofing anomalies over central-eastern Romania, specifically along the flight corridor of the August 2024 high-altitude balloon mission launched by InSpace Engineering.
+
+In three adjacent hexes spanning east-west from Buzău to Ploiești, GNSS integrity metrics showed severe signal degradation that is consistent with spoofing:
+
+nacp_q05 = 0 in all three zones: this indicates that the lowest 5th percentile of ADS-B messages received in each region reported a NACp value of 0, meaning at least 5% of messages showed complete GNSS position degradation. In practice, this likely reflects GNSS loss affecting multiple aircraft, not just isolated messages.
+nic_q10 = 7 or 8 in all three zones: this means that 90% of ADS-B messages reported a NIC value of 7 or higher, indicating high signal integrity. This pattern of strong signal confidence despite degraded or incorrect positioning is a classic signature of GNSS spoofing, where the spoofed signal appears reliable to receivers but delivers false location data.
+One hex captured data from up to 399 aircraft, reinforcing that this was not an isolated anomaly, but a persistent regional interference event.
+
+While the spoofing signal itself likely originated from a local or regional source, the false positions resolved eastward near Simferopol, in Russian-occupied Crimea – mirroring the directional spoofing vector recorded by InSpace. During descent, the balloon’s receiver abruptly snapped to a spoofed position near Ayvazovskogo Airport in Crimea, despite remaining physically over Romanian airspace.
+
+Together, this spatial correlation and spoofed positional alignment confirm that the August spoofing incident was not a one-off anomaly. Instead, it was part of a broader, ongoing GNSS interference pattern affecting NATO airspace through fall 2024.

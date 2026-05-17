@@ -1,0 +1,47 @@
+Recommendation P.681
+
+Approved in 2019-08
+
+Managed by R00-SG03
+
+Main
+Number
+Title	Status	Questions
+P.681-11 (08/2019)
+ 	Propagation data required for the design systems in the land mobile-satellite service  	In force (Main)
+207/3  
+ 
+ 
+Previous versions
+Number
+Title	Status	Questions
+P.681-10 (12/2017)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+207/3  
+P.681-9 (09/2016)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+207/3  
+P.681-8 (07/2015)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+207/3  
+P.681-7 (10/2009)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+207-3/3  
+P.681-6 (04/2003)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+207/3  
+P.681-5 (02/2001)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+207/3  
+P.681-4 (10/99)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+207/3  
+P.681-3 (08/97)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+207/3  
+P.681-2 (10/95)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+N/A  
+P.681-1 (08/94)
+ 	Propagation data required for the design of Earth-space land mobile telecommunication systems  	Superseded
+N/A  

@@ -1,0 +1,31 @@
+GPS Spoofing: Final Report published by WorkGroup
+By OPSGROUP Team
+Views:  
+78,428
+
+Key Points
+Final Report of the GPS Spoofing Workgroup published today
+950 participants across full spectrum of aviation industry
+Significant concern regarding safety impact of GPS Spoofing
+Report download below
+ 
+
+Final Report Published
+The Final Report of the GPS Spoofing WorkGroup has been published today, September 6th, 2024.
+
+Over a six-week period between July 17-August 31, the WorkGroup tackled the complex issue of GPS Spoofing affecting civil aviation.
+
+950 people participated in the project, representing the full spectrum of the aviation industry. Led by OPSGROUP, the WorkGroup comprised hundreds of commercial pilots, safety managers, and representatives from airlines, aircraft operators, and air traffic control. Additionally, a diverse group of aviation authorities, avionics manufacturers, aircraft manufacturers, and experts in GPS and GNSS systems participated. Industry organizations including EBAA, IFATSEA, IBAC, ALPA, IFALPA, the Dutch VNV, and BALPA contributed significantly. Support and expertise were also provided by various organizations and agencies, including the Royal Institute of Navigation, Eurocontrol, the Israel National Cyber Directorate, the UK Ministry of Defence, the UK Royal Air Force (RAF), NASA (Langley), U.S. Space Command, the German Aerospace Center (DLR), Zurich University of Applied Sciences, and the University of Texas.
+
+The result is a comprehensive study of the GPS Spoofing problem, including detailed analysis of the technical background, impacts to aircraft handling and operation, best practices for flight crew, and a series of safety concerns and recommendations for industry attention.
+
+Overall, the Workgroup assessed that the impact of GPS Spoofing on flight safety, aircraft operation and handling, and ATC operations, is extremely significant. The WorkGroup is very concerned about the overall impact of GPS Spoofing on flight safety. A total of 8 overall safety concerns, and a further 33 specific concerns were raised.
+
+This year, a 500% increase in spoofing has been observed. On average 1500 flights per day are now spoofed, versus 300 in Q1/Q2 of 2024. This is coincident with the summer months in spoofing affected areas. With winter approaching, the operating environment changes from predominantly good weather and VMC conditions, to poor weather, icing, and IMC conditions. This change will increase the risk factors significantly.
+
+A survey of flight crew was carried out as part of the Workgroup. The response was excellent – almost 2,000 completed surveys were returned to the Workgroup. The results show that a full 1,400 crew members (~70%) rated their concern relating to GPS Spoofing impact on flight safety as very high or extreme. 91% of all crew members rated their concern as moderate or higher.
+
+The future of GPS use in aviation is unclear. The Workgroup assessed that the vulnerabilities in public-use GPS that are now becoming evident (although known to experts for a decade or more), mean that the high involvement of GPS in aircraft systems is a major issue. Further, the over-reliance on GPS for primary navigation places great importance on preserving a sufficient network of conventional ground-based navaids. This aspect of the issue requires deeper study and conversation.
+
+ 
+

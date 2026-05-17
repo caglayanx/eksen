@@ -1,0 +1,432 @@
+
+GENERAL LICENSE No 215 of 29.07.2004 on Carrying out Telecommunications through Private Telecommunication Network from the Fixed
+
+Satellite Service - VSAT Networks
+
+ 
+
+ 
+
+Issued by Decision No 1560 of 29.07.2004 of the Communications Regulation Commission, promulgated, State Gazette, issue 75 of 27.08.2004, in force since 27.08.2004
+
+ 
+
+ 
+
+ 
+
+Section I
+
+General Provisions
+
+ 
+
+            Subject-matter
+
+ 
+
+            Art. 1. This License, hereinafter referred to as the "License", stipulates the conditions for the implementation of telecommunication activities – carrying out of telecommunications through private VSAT networks and stations from the fixed satellite service, hereinafter referred to as "VSAT networks", as well as the requirements with regard to persons wishing to implement them.
+
+            Art. 2. VSAT network may have a separate control terrestrial station or the controlling functions may be performed by any of the VSAT stations.
+
+            Art. 3. VSAT networks use radio frequency spectrum within frequency bands 12,5 - 12,75 GHz for the Direction Space-to-Earth and 14,00 - 14,25 GHz for the direction Earth-to-Space in conformity with the National Plan for Allocation of the Radio Frequency Spectrum to Radio Frequencies and Radio Frequency Bands for Civil Needs, for the Needs of the National Security and the Defense as well as for shared use between them, adopted by Decision No 545 of 2004 of the Council of Ministers (State Gazette, issue 60 of 2004) and Decision No 717 of 12 February 2004 of the Communications Regulation Commission (CRC) on determination of the radio frequency spectrum for general use.
+
+ 
+
+Effect with regard to Persons
+
+ 
+
+Art. 4. (1) Solely a person who is registered under this License, hereinafter referred to as the “Registered” may implement telecommunication activity – carrying out of telecommunications through VSAT networks.
+
+            (2) The registration shall be conducted under conditions of equal treatment, publicity and transparency.
+
+            (3) The number of registered persons shall not be limited.
+
+(4) The registration may not be assigned. Registered persons shall not be entitled to assign his rights under the registration to third persons.
+
+ 
+
+            Effect in Time
+
+ 
+
+Art. 5. The term of validity of the registration shall not be limited.
+
+ 
+
+            Territorial Effect
+
+ 
+
+            Art. 6. The effect of the license shall be spread out on the territory of the Republic of Bulgaria.
+
+ 
+
+Register
+
+ 
+
+            Art. 7. The Communications Regulation Commission shall keep a public register of the persons registered under the license.
+
+ 
+
+ 
+
+Section II
+
+Rights and Obligations
+
+ 
+
+            Rights
+
+ 
+
+            Art. 8. Registered persons shall be entitled:
+
+            1. To build up VSAT networks from VSAT stations whose locations and technical parameters are declared in CRC and are entered in the registration certificate or an attachment to it.
+
+            2. To carry out telecommunications through VSAT networks for own needs in conformity with the requirements of this License, of the satellite organization, which they use a frequency resource from and with the Telecommunications Act (TA).
+
+ 
+
+            Obligations
+
+ 
+
+            Art. 9. Registered persons shall be obliged:
+
+            1. Not to carry out through their radio equipment telecommunications in a commercial manner;
+
+2. Not to transmit misleading signals for calamity and/or other extraordinary circumstances and signals, which may be taken for such;
+
+            3. Not to broadcast beyond the fixed locations stated in CRC.
+
+            Art. 10. The technical characteristics of the stations in the VSAT networks shall meet the following limitations:
+
+            1. The power of the transmitter shall not exceed 2 W;
+
+            2. The Equivalent Isotropically Radiated Power shall not exceed 50 dBW;
+
+            3. The distance to the protected borders of an airport shall not be smaller than 500 m.
+
+ 
+
+ 
+
+Section III
+
+Technical Requirements
+
+ 
+
+Requirements to Used Technical Means
+ 
+
+Art. 11. Registered persons shall be obliged:
+
+1. To use solely radio equipment with appraised compliance, which was put on the market in conformity with the effective normative acts;
+
+2. To use the radio equipment solely in conformity with the designation and manner defined by the manufacturer;
+
+            3. To use solely radio equipment in good technical working order;
+
+            4. Not to alter the technical characteristics of the used radio equipment;
+
+            5. To build up, maintain and use all technical systems in such a manner that with normal work, and under conditions of malfunction to guarantee the protection of environment, the life and health of people in compliance with the effective in the Republic of Bulgaria normative acts, standards and other technical specifications;
+
+            6. To use solely the radio frequency bands designated for the activity;
+
+7. Should problems related to the electromagnetic compatibility arise, to make at their expense the relevant instructed by CRC changes in the location and parameters of stations from the network.
+
+ 
+
+Requirements for the Implementation of the Activity
+
+ 
+
+            Art. 12. Registered persons shall be obliged to carry out telecommunications in conformity with the normative acts and the applicable technical specifications, inclusive of the Bulgarian standards, referring to the subject-matter of the license.
+
+            Art. 13. Registered person may not lodge any claims to other persons registered under this License users of the same frequency bands with regard to the possible harmful interference and restriction of their work, in event that they do not violate the norms for electromagnetic compatibility.
+
+ 
+
+ 
+
+Section IV
+
+Provision of Information
+
+ 
+
+            Art. 14. (1) The Communications Regulation Commission may require and registered persons shall be obliged to provide it with information related to the subject-matter of the license within specifically defined terms.
+
+            (2) The Communications Regulation Commission shall be obliged not to disclose the information pursuant to Para. 1, in the event that it represents personal data or registered persons declare it as trade secrecy.
+
+ 
+
+ 
+
+Section V
+
+Provision of Telecommunications in Crises of Non-Military Nature, Introduction of Regimes of “Martial Law”, “War Time” or State of Emergency
+
+ 
+
+            Art. 15. In crises of non-military nature, in introducing a regime of “martial law” or “war time” or state of emergency pursuant to Art. 60а of the Defense and Armed Forces of the Republic of Bulgaria Act registered persons shall be obliged:
+
+            1. To render assistance to the competent authorities for the provision of telecommunications through VSAT networks, which remain under the control of registered persons;
+
+            2. To fulfill the requirements of the competent authorities for the restriction of the use of the VSAT networks at time defined by them;
+
+3. To provide the competent authorities with gratuitous access to the VSAT networks for communications and calls.
+
+ 
+
+ 
+
+Section VI
+
+Fees
+
+ 
+
+            Art. 16. In conformity with the effective Tariff for the Fees Collected by the Communications Regulation Commission pursuant to the Telecommunications Act, registered persons under the License shall pay:
+
+            1. an administrative fee – for the service – consideration of an application;
+
+            2. a registration fee – for the administrative expenses for registration.
+
+ 
+
+ 
+
+Section VII
+
+Control and Sanctions
+
+ 
+
+ 
+
+Establishment of Violations and Imposition of Sanctions
+
+ 
+
+            Art. 17. (1) The establishment of violations and the imposition of sanctions for the non-observation of the conditions and the requirements of the License shall be performed in accordance with the procedure established by the Telecommunications Act.
+
+            (2) The control shall be exercised by authorized employees in conformity with the Telecommunications Act.
+
+ 
+
+            Cooperation of Controlling Authorities
+
+ 
+
+            Art. 18. For the exercise of the control registered persons shall be obliged to render assistance to the empowered employees of CRC in the fulfillment of their functions and rights granted pursuant to the Telecommunications Act.
+
+ 
+
+ 
+
+Section VIII
+
+Registration
+
+ 
+
+ 
+
+            Persons Who May Be Registered
+
+ 
+
+            Art. 19. Each person who satisfies the following conditions shall be registered under the License:
+
+            1. Who has acquired efficiency;
+
+            2. Who has filed an application and the documents accompanying it pursuant to Art. 19 and has accepted to observe the conditions of the License.
+
+ 
+
+Application
+
+ 
+
+            Art. 19. (1) For registration under the License, the applicant shall file an application to CRC in conformity with a sample form published on the Internet site of CRC.
+
+            (2) The application shall contain:
+
+            1. Data about individualization of the applicant;
+
+            2. Technical data about the VSAT networks and the stations in conformity with the Annex.
+
+            (3) The following shall be attached to the application:
+
+            1. A copy of a certificate for BULSTAT registration certified by the applicant;
+
+            2. a copy of a tax registration certificate certified by the applicant;
+
+            3. Current status certificate;
+
+            4. A copy of a document for fees paid pursuant to Art. 16.
+
+            (4) All documents shall be presented in the Bulgarian language in two copies.
+
+ 
+
+            Registration related Procedure
+
+ 
+
+            Art. 21. If the requirements under this License are met, the Communications Regulation Commission shall register the applicant through an entry in its Register and shall issue a registration certificate to him within a 30-day time limit from the receipt of the application and the documents accompanying it.
+
+            Art. 22. (1) The rights and obligations for the implementation of the activity under the License shall arise from the time of the registration.
+
+            (2) The rights and obligations for the implementation of the activity under the License shall also arise in the event that the person satisfies the conditions and the requirements stipulated in the general license, but the Communications Regulation Commission has not pronounced its judgment within a 30-day time limit from the filing of the application pursuant to Art. 20.
+
+Art. 23. (1) In the events when the person does not satisfy the conditions and the requirements stipulated in the general license, CRC shall by a motivated decision reject the registration and shall notify the person in writing about that within a 7-day time limit from the adoption of the decision.
+
+            (2) In the events pursuant to Para. 1 the fee under Art. 16, sub-paragraph 2 shall be refunded to the applicant within a time limit of up to 10 days from the entry into force of the decision of CRC, by which the registration is rejected.
+
+            Art. 24. Within a two-month term after the registration the applicants shall present the following before CRC:
+
+            1. A copy of the Contract with the satellite organization or a copy of the Contract with the operator of the controlling terrestrial station;
+
+            2. An evaluation of the hygiene protective zone around the antenna of each station in a tabular and/or graphic kind for the maximal power of the transmitter defined in conformity with Ordinance No 9 of 1991 on Maximal Admissible Levels of Electromagnetic Fields in Populated Territories and Determination of Hygiene Protective Zones Around Emitting Sites (promulgated, State Gazette, issue 35 of 1991; corrected, issue 38 of 1991; amended and supplemented, issue 8 of 2002).
+
+ 
+
+Amendments in Registration
+
+ 
+
+            Art. 25. (1) When an amendment in the data pursuant to Art. 20 occurs, registered persons shall notify CRC in writing within a 14-day time limit.
+
+            (2) The Communications Regulation Commission shall reflect the amendments occurred in the registration certificate within a 30-day time limit from the filing of the notification pursuant to Para. 1.
+
+ 
+
+Erasure of Registration
+
+ 
+
+            Art. 26. (1) The Communications Regulation Commission may by a motivated decision erase the registration under the license in the following events:
+
+            1. Essential or systematic violation of the Telecommunications Act and the conditions of the License;
+
+            2. Actions of registered persons which endanger the national security or infringe the public interest.
+
+            (2) In the events pursuant to Para. 1 CRC shall erase the registration, if within a 30-day term after the receipt of a warning in writing registered persons have not suspended the violation and have not eliminated its consequences.
+
+Art. 27. The registration under the License shall also be erased at a request of registered persons in writing.
+
+            Art. 28. (1) The registration under the license shall be erased in event of death of the natural person or in event of erasure of the legal entity.
+
+            (2) The registration may not be erased in event of death of the registered – natural person if his heirs declare their request before CRC within a 3-month term for the implementation of the activity, continuing the implementation of the activity until the pronouncement of the judgment of CRC.
+
+ 
+
+ 
+
+ADDITIONAL PROVISION
+ 
+
+            § 1. Within the meaning of this License:
+
+            1. "VSAT (Very Small Aperture Terminal) station" shall be a terrestrial station with a small aperture of the antenna in the fixed satellite service with key characteristics defined in Recommendation ITU-R S.725.
+
+            2. A "terrestrial station" shall be a station in the fixed satellite service, located on the earth surface and designated for the carrying out of telecommunications with one or more satellite stations.
+
+            3. "VSAT network" shall be a group of VSAT stations, declared in CRC with a defined title and working with one satellite.
+
+            4. "Controlling terrestrial station in VSAT network" shall be a terrestrial station, which implements the access of the VSAT stations in the network to the satellite radio channel, the connection between the VSAT stations and the release of the radio channel.
+
+            5. " Equivalent IsotropicRadiated Power" shall be the product of the power supplied to the antenna and the antenna gain in a given direction relative to an isotropic antenna.
+
+            6. The maximal permitted power of the transmitter shall be expressed by peak power. In connecting the antenna to more than one transmitter or in radiation of more than one carrier of the peak power shall be the sum of the powers for each carrier.
+
+            7. "Isotropic radiator" shall be a hypothetical radiator, which radiates uniformly in all directions.
+
+            8. "Protectable limits" shall be the terrains comprised by a perimeter fence of an airport.
+
+ 
+
+ 
+
+TRANSITIONAL AND FINAL PROVISIONS
+
+ 
+
+            § 2. The License shall be issued on the grounds of Art. 27, sub-paragraph 8 of the Telecommunications Act and Art. 5, sub-paragraph 5 of Ordinance No 13 of 2003 on on Determination of Telecommunication Activities Subject to Individual Licensing and Registration under General license (State Gazette, issue 2 of 2004).
+
+            § 3. The License shall enter into force from the date of its promulgation in the State Gazette.
+
+            § 4. This License shall revoke General license No 215 of 2001 on Implementation of Telecommunication Activities for Own Needs for the Purposes of a Fixed Satellite Service adopted by the State Telecommunications Commission (State Gazette, issue 107 of 2001).
+
+            § 5. The certificate issued under General license No 215 of 2001 on Implementation of Telecommunication Activities for Own Needs for the Purposes of a Fixed Satellite Service shall preserve their validity.
+
+            § 6. Persons registered under General license No 215 of 2001 on Implementation of Telecommunication Activities for Own Needs for the Purposes of a Fixed Satellite Service shall be obliged to bring their activities in compliance with this License within a term of up to three months from its promulgation in the State Gazette.
+
+ 
+
+ 
+
+ Annex To Art. 20, Para. 2, Sub-Paragraph 2
+
+ 
+
+Technical Data about VSAT Network, Which Shall be Provided for with the Application
+
+ 
+
+ 
+
+            1. General data about the VSAT network:
+
+            1.1. Title of the VSAT network and the terrestrial station (TS) (if any) for the needs of licensing.
+
+            1.2. Data about the satellite, which the TS and the VSAT network shall work with:
+
+             - title, with which it was declared before ITU-R;
+
+             - position of the geostationary orbit in degrees eastern length.
+
+            1.3. Title of the satellite organization whose satellite is used.
+
+            1.4. Method for access to the satellite radio channel (SCPC, TDM/TDMA, DA/TDMA, DAMA, others).
+
+            2. Data about each station:
+
+            2.1. General data:
+
+            2.1.1. Location and precise address of the station, geographic coordinates and altitude above sea level at terrain elevation (inclusive of measured with GPS receiver);
+
+            2.1.2. A copy of a topographic map with a scale not bigger than 1:25 000 with indicated location of the station;
+
+            2.1.3. Code of the receiving ray of the satellite, which the station shall work with as stated before ITU;
+
+            2.1.4. Frequency ranges, which the transmitting and receiving channels are located in;
+
+            2.1.5. Diameter of the antenna and height of the focus of the antenna over terrain elevation in [m];
+
+            2.1.6. Maximal antenna gain in a regime of transmission with regard to an isotropic radiator in [dBi];
+
+            2.1.7. Takeoff of the horizon around the antenna of VSAT, presented in a tabular and graphic kind as an angle of elevation to the visible horizon, indicated from topographic maps with scale 1:25 000 in azimuth sector of 0˜ - 360˜ (maximally through 10˜), rendering an account of the take off from higher buildings and other obstacles in the proximity of the antenna;
+
+            2.1.8. Number of transmitting channels;
+
+            2.1.9. Term of building up and commissioning.
+
+            2.2. Parameters of each transmitting channel:
+
+            2.2.1. Designation (code) of the emitted signal in conformity with Annex S1 of the Radio Regulation;
+
+            2.2.2. Kind of the transmitted information from VSAT along each of the transmitting radio channels (data, telephony, radio programs, television, official information and others);
+
+            2.2.3. Needed frequency band in [MHz] for the provision of non-deformed transfer of the signals along each of the transmitting radio channels corresponding to the width of the frequency band provided for by the satellite organization;
+
+            2.2.4. Maximal peak power at the input of the antenna in dBW for each transmitting radio channel.
+
+ 

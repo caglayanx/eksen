@@ -1,0 +1,27 @@
+
+
+ 	
+HellasSat 3
+Back to the list
+Satellite Name: HellasSat 3 (HS 3, Inmarsat-S EAN, Europasat)
+Status: active
+Position: 39° E (39° E)
+NORAD: 42814
+Cospar number: 2017-040A
+Operator: Hellas-Sat (Arabsat subsidiary)
+Launch date: 28-Jun-2017
+Launch site: Guiana Space Center
+Launch vehicle: Ariane 5 ECA
+Launch mass (kg): 5780
+Dry mass (kg): 2500
+Manufacturer: Thales Group
+Model (bus): Spacebus-4000C3
+Orbit: GEO
+Expected lifetime: 16+ yrs.
+Call sign:  
+Beacon(s):  
+Details:
+44 Ku-band transponders payload to replace the existing HellasSat-2 satellite and provide more growth capacities to its customers with diversified footprints in Europe, Middle East and Africa. The satellite has a second payload managed by Inmarsat (9 S-Band user spot beams in 2 polarizations, using a large Tx antenna of 12 meters diameter) to provide the satellite element of the integrated European Aviation Network (EAN), set to transform connectivity for airline passengers in Europe
+Charts: list
+
+

@@ -1,0 +1,67 @@
+What to know about Russia's GPS jamming of a European official's plane
+World Sep 2, 2025 2:42 PM EDT
+LONDON (AP) — Bulgaria will not investigate suspected Russian electronic interference with a top European official's plane, officials said Monday — because this kind of GPS jamming is now so common.
+
+European Commission President Ursula von der Leyen was flying to Plovdiv, Bulgaria on Sunday when her plane was hit by GPS jamming. It landed safely but the disruption was the latest in a string of almost 80 incidents tracked by The Associated Press and blamed on Russia by Western officials since Moscow invaded Ukraine in 2022.
+
+This year, Nordic and Baltic nations — including Finland, Latvia, Lithuania and Estonia — have repeatedly warned about greater electronic interference from Russia disrupting communications with planes, ships and drones.
+
+While Russian authorities suggest the jamming is defensive — to protect key cities and military infrastructure from Ukrainian drone attacks — Baltic officials say the depth of electronic interference has increased, causing navigation failures far from Russia's borders.
+
+In 2024, a plane carrying the British defense secretary had its satellite signal jammed as it flew near Russian territory, while a Finnish airline temporarily suspended flights to the Estonian city of Tartu.
+
+NATO Secretary-General Mark Rutte said the interference experienced by von der Leyen's plane was part of a complex campaign by Russia against Europe which could have "potentially disastrous effects."
+
+How jamming works
+Satellite communications systems — known collectively as the Global Navigation Satellite System or GNSS — receive precise time signals from satellites around 20,000 kilometers (12,400 miles) away in space. A smartphone, car, marine or aircraft navigation system compares how long it takes to receive signals from several different satellites to calculate an exact location.
+
+But the signals can be interfered with — commonly known as jamming or spoofing.
+
+Jamming means a receiver is overwhelmed by a strong radio signal transmitted in the same range where GNSS and other satellite navigation signals operate, leaving the receiver unable to fix a location or time. Spoofing involves transmitting fake signals which imitate a real GNSS satellite signal — commonly known as GPS — to mislead a phone, ship or aircraft into thinking it is in a different place.
+
+In a military context, jamming could be used to stop an incoming missile or drone attack, whereas the idea behind spoofing is to "create deception," said Thomas Withington, an expert in electronic warfare at the Royal United Services Institute in London.
+
+It's possible that Israel used spoofing technology to fly into Iranian airspace in June, when it killed top generals and struck nuclear sites, Withington suggested. Spoofing, he said, could have helped Israel deceive Iranian radar.
+
+Long before the invasion of Ukraine, Russian authorities deployed spoofing technology around the Kremlin in Moscow, causing chaos for taxi drivers or other motorists using GPS.
+
+Russia "does not mind" if its own infrastructure is affected, as long as enemy activity is deterred, said Withington.
+
+Flying without satellite navigation
+In August, Latvia's Electronic Communications Office said it had identified at least three hot spots for electronic interference along borders with Russia in the Kaliningrad, Leningrad and Pskov regions. All three regions host important Russian military bases.
+
+In April 2024, Finland's national carrier Finnair temporarily suspended flights to Tartu, Estonia after it said two of its planes were prevented from landing because of GPS disruptions. At that time, Tartu airport required approaching planes to use GPS to land, although planes have — and use — other forms of navigation.
+
+READ MORE: Putin says Trump administration is listening to Russia's arguments on Ukraine war
+
+These include radio navigation and Inertial Navigation Systems, which determine where an aircraft — or submarine — is located by measuring its position in the air or water without relying on GPS.
+
+Jamming and spoofing are common across the world and shouldn't be a problem for pilots to deal with, said Withington. But they could impair decision-making at a time when other things are going wrong, he suggested.
+
+In December, Azerbaijan Airlines blamed a plane crash which killed 38 people on unspecified "physical and technical interference."
+
+Azerbaijan said the aircraft was hit by fire from the ground over southern Russia and rendered uncontrollable by electronic warfare.
+
+Russian officials said that at the time the aircraft was preparing to land in Grozny, Ukrainian drones were targeting the area around the airport.
+
+Expanded operations
+Bulgarian Prime Minister Rosen Zhelyazkov said von der Leyen's plane was not specifically targeted and called the jamming a "side effect" of the war in Ukraine.
+
+Latvia's Electronic Communications Office said it recorded 820 cases of interference with satellite signals in 2024, compared to 26 in 2022, and warned that the areas affected have recently "expanded significantly."
+
+In response, Baltic nations have banned drone flights in some areas near their borders with Russia and warned civilian drone pilots to assess signal stability before flying.
+
+Sweden's Maritime Administration said it received multiple reports of signal interference with ships in the Baltic Sea this year and in June officially warned sailors to use radar or landmarks for navigation.
+
+In July, Lithuanian media reported that two German tourists accidentally flew a light aircraft into Russia and had to be guided back to Lithuania by experienced pilots.
+
+Several states have complained about the electronic interference to the International Civil Aviation Organization but Russian officials dismissed the complaints and suggested they were politically motivated.
+
+Potential for disaster
+While jamming and spoofing were initially aimed at protecting Russian infrastructure, authorities have realized the tactics have a useful "second order of effect, which is that it creates disruption and disquiet among the nations President (Vladimir) Putin perceives as being his enemy," said Withington.
+
+While countries along Russia's border appear to have largely mitigated the impact of Russian jamming in the air, there is potential for a serious incident at sea.
+
+While sailors should rely on radar and charts, as well as GPS, to navigate, "anecdotal evidence" suggests some crews are "lazy," and just rely on GPS, said Withington.
+
+In that case, he said, if a large cargo ship crashes, "potentially you could have a disaster on your hands."

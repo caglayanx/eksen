@@ -1,0 +1,18 @@
+Syria
+
+SyTRA introduces new regulation for WiFi 6E technology
+The Syrian Telecommunications Regulatory Authority (SyTRA) has introduced a new regulation for WiFi 6E technology, aimed at enhancing wireless connectivity. Key updates include:
+
+Frequency Allocation: WiFi 6E can now operate in the following bands: 2400–2483.5 MHz, 5150–5250 MHz, 5250–5350 MHz, 5470–5725 MHz, 5725–5850 MHz, 5925–6425 MHz, and 57–66 GHz.
+
+Technical Parameters:
+
+Indoor Use: Maximum EIRP of 100–200 mW depending on the band.
+
+Outdoor Use: Maximum EIRP of 1W for the 5725–5850 MHz band.
+
+57–66 GHz: Maximum EIRP of 10W for indoor installations.
+
+Device Compliance: All WiFi 6E devices must comply with SyTRA’s specifications and require type approval before use or import.
+
+Contact Us for More Info

@@ -1,0 +1,12 @@
+SyTRA allows 6GHz band for WLAN.
+Syria Flag
+17-SEP-24
+
+Copy link
+SyTRA has updated WLAN/RLAN Regulation to include WLAN 6GHz band.
+ 
+ The Syrian Telecommunications Regulatory Authority (SyTRA) has updated WLAN/RLAN Regulation by adding WLAN 5925-6425 MHz band.
+
+ This new regulation allows the use of 5925–6425 MHz for WLAN with a power  limit of 23dBm and for indoor use (inside buildings only).
+ 
+Please contact us for any question about this new regulation. 

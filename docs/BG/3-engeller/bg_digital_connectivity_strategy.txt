@@ -1,0 +1,34 @@
+Digital connectivity in Bulgaria
+The National Development Programme Bulgaria 2030 introduced "Priority 8 Digital connectivity" aiming at building a modern and secure digital infrastructure as a basis for offering more digital services.
+
+The National Broadband Infrastructure Plan for Next Generation Access 'Connected Bulgaria' and the Policy on electronic communications were adopted in 2020. The strategic document Digital Transformation of Bulgaria 2020-2030  aims at deploying networks with a very high capacity. State budget and the EU funds will be used to help reach the set goals.
+
+National digital connectivity strategy and policy
+Responsible authorities
+Bulgaria’s Ministry of Transport and Communications (Министерство на транспорта и съобщенията, MTC) coordinates the activities for the implementation of the policy in the field of information and communications technology. The ministry aims to develop a legal framework to ensure an effective environment for the communication business and the construction and maintenance of modern electronic communications infrastructure.
+The Ministry of e-Governance (Министерство на електронното управление) introduces control-related policies, rules, regulations and good practices in the field of electronic governance, strategic planning and initiatives, budget planning and control, coordinates sector-related policies and interdepartmental projects.
+The Communications Regulation Commission (Комисията за регулиране на съобщенията) oversees digital connectivity deployment at a national level. It executes laws and performs regulations, while supervising the field of technical standards or use of frequencies.
+Main aims for digital connectivity development 
+The National Broadband Infrastructure Plan for Next Generation Access 'Connected Bulgaria' outlines the steps to provide digital infrastructure for the provision of various services. By 2030, Bulgaria must be equipped with gigabit-symmetric access networks throughout the country. The measures envisage improving access to high-speed Internet in less populated regions and developing the high-speed mobile Internet in the country. Of key importance for the digitisation of the Bulgarian economy and public services will be investments for the introduction of 5G networks. The plan sets out the need for targeted investments in technological development, completion of the necessary infrastructure and guaranteed network and information security. The main priority fields in the plan are:
+
+Digital connectivity infrastructure: accelerated building of digital connectivity infrastructure, including for the needs of the state administration
+Very high-speed infrastructure: creating conditions for very high-speed networks’ deployment
+Spectrum efficient use: establishing conditions for building NGA networks
+Improving coverage in settlements located in peripheral, sparsely populated and rural areas
+Bridging the Digital divide
+Network security
+The updated Policy in the field of electronic communications aims to ensure the provision of modern and quality electronic communications services by creating conditions for the development of a competitive market as part of the EU internal market. The priority is the deployment and use of very high-capacity networks, the provision of fifth generation services, effective and sustainable competition, the security of networks and services, as well as advantages for end-users, including equivalent access to the services of people with disabilities.
+
+The Priority 8 Digital connectivity of the National Development Program Bulgaria 2030 aims to build a modern and secure digital infrastructure as a basis for offering more services through digital management. The goal is to build very high capacity networks, which will form a platform for providing a variety of digital value-added services while ensuring that no part of the country or a society group will be left without adequate digital connectivity. The focus is on deploying high-speed networks, especially digital connectivity in rural areas, effective assignment of the spectrum for wireless digital connectivity and 5G, accelerated development and take-up of digital connectivity dependent services such as cloud, IoT, etc. as well as the development of digital skills and services.
+
+The strategic document Digital Transformation of Bulgaria for the period 2020-2030 approved in July 2020 aims to deploy networks with a very high capacity, to ensure that no part of the country or a group in society is left without adequate digital connectivity, and to provide better access of the enterprises to diverse, high-quality and innovative digital services. Digital connectivity shall contribute to providing access to all major drivers of socio-economic development, such as schools, hospitals, transport centres, major public service providers, etc.
+
+National and regional digital connectivity financial instruments and measures
+According to the Priority 8 of the National Development Program Bulgaria 2030, use of the state budget and EU funds is foreseen.
+
+Bulgaria’s recovery and resilience plan supports the digital transition with investments and reforms aimed at increasing the coverage of very high-capacity networks across the country. EUR 270 million are earmarked for investments in rural and sparsely populated areas.
+
+Within the Roadmap to implement the Connectivity Toolbox, Bulgaria implemented a number of best practices such as permit exemptions and fast track procedures; availability of georeferenced information about the occupation level of infrastructure and existence of dark fibre, and easy access to physical infrastructure controlled by public bodies. Bulgaria also indicated efforts on: (i) ensuring that permit applications are submitted through electronic means, (ii) establishing digital connectivity coordinators, and (iii) entrusting a body with a coordination role regarding rights of access to existing physical infrastructure.
+
+Data on digital connectivity development and technologies in Bulgaria
+For the latest data on digital connectivity coverage, subscriptions and penetrations, coverage of different digital connectivity technologies check the Digital Decade country reports.

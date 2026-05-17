@@ -1,0 +1,26 @@
+Link Budget Analysis
+Satellite link budget analysis and path propagation loss
+Satellite Communications Toolbox provides link budget analysis capabilities and RF propagation models.
+
+Use Satellite Link Budget Analyzer app to analyze, design, and visualize a link budget for satellite communications.
+
+Model RF propagation paths to calculate atmospheric loss for a signal.
+
+
+Apps
+Satellite Link Budget Analyzer	Analyze static and time-varying link budgets for satellite communications
+Functions
+p618PropagationLosses	Calculate Earth-space propagation losses, cross-polarization discrimination, and sky noise temperature
+p618SiteDiversityOutage	Calculate outage probability due to rain attenuation with site diversity
+satelliteCNR	Carrier-to-noise ratio for configured satellite link budget parameters (Since R2022b)
+Objects
+p618Config	Create P.618 configuration object
+p618SiteDiversityConfig	Create P.618 site diversity configuration object
+satelliteCNRConfig	Carrier-to-noise ratio configuration parameters (Since R2022b)
+Topics
+Get Started with Satellite Link Budget Analyzer App
+Create, configure, analyze, and visualize link budgets for satellite communications.
+
+Satellite Link Budget
+Explore the factors that influence the satellite link budget analysis and derive the power budget equations for C/No and link margin.
+

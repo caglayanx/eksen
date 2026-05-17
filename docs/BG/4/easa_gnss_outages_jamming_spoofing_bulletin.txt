@@ -1,0 +1,239 @@
+Global Navigation Satellite System (GNSS) Outages and Alterations
+Login or register to stay informed
+Related Content
+Get notified via email alerts
+The European Union Aviation Safety Agency (EASA) issued the third revision of Safety Information Bulletin (SIB) 2022-02R3 on July 5, 2024, addressing the increasing issues related to global navigation satellite system (GNSS) outages and alterations. This bulletin, targeted at competent authorities (CAs), providers of air traffic management (ATM), air navigation service providers (ANSPs), air operators, and aircraft and equipment manufacturers, highlights the growing severity and sophistication of GNSS jamming and spoofing incidents.
+
+Check out the SIB for the full information, except for the affected flight information regions (FIRs) listed below.
+
+On this page, you can also find the following:
+
+Overview of GNSS interference
+Types of interference
+Effects and symptoms of GNSS interference
+FIRs affected by jamming and spoofing
+Recommendations and mitigating measures
+Reporting and further information
+Related Content — SIB 2022-02R3
+Overview of GNSS interference
+Since February 2022, there has been a notable increase in GNSS jamming and spoofing, particularly in regions surrounding conflict zones and other sensitive areas such as the Mediterranean, Black Sea, Middle East, Baltic Sea, and the Arctic. These interferences disrupt the accurate reception of GNSS signals, leading to various operational challenges for aircraft and ground systems.
+
+Types of interference
+Jamming: This intentional radio frequency interference prevents GNSS receivers from locking onto satellite signals, rendering the system ineffective or degraded.
+Spoofing: This involves broadcasting counterfeit satellite signals to deceive GNSS receivers, causing incorrect position, navigation, and timing data.
+Effects and symptoms of GNSS interference
+Interference can occur during any phase of flight, leading to re-routing or diversions to ensure safety. Common symptoms of GNSS spoofing include:
+
+discrepancies in navigation positions;
+abnormal differences between ground speed and true airspeed;
+time shifts;
+spurious terrain awareness and warning system (TAWS) alerts; and
+potential deviations in hybrid positions (inertial reference system (IRS) / GNSS).
+FIRs affected by jamming and spoofing
+Although GNSS jamming and spoofing can be encountered anywhere in the world, according to the data collected so far, the mainly affected FIRs to date are the following:
+
+powered by Data4Safety Logo
+impacted FIRs in the last 7 days on 06/05/2026
+src: ads-b data and reports
+rank	region	ICAO	name	spoofing	reported
+1	EUR	LTAA	ANKARA	 	*
+2	EUR	EYVL	VILNIUS	*	*
+3	EUR	EPWW	WARSZAWA	*	*
+4	EUR	UBBA	BAKU	 	*
+5	EUR	EFIN	HELSINKI	*	*
+6	EUR	LRBB	BUCURESTI	*	*
+7	EUR	EETT	TALLINN	*	*
+8	EUR	ESAA	SWEDEN	*	*
+9	ASIA	VYYF	YANGON	*	 
+10	MID	OEJD	JEDDAH	*	*
+11	EUR	LBSR	SOFIA	*	*
+12	ASIA	VIDF	DELHI	*	*
+13	MID	OOMM	MUSCAT	*	 
+14	ASIA	OPLR	LAHORE	*	 
+15	EUR	EVRR	RIGA	*	*
+16	EUR	ULLL	SANKT-PETERBURG	*	 
+17	EUR	UGGG	TBILISI	 	 
+18	MID	OMAE	EMIRATES	*	 
+19	ASIA	VTBB	BANGKOK	*	 
+20	EUR	LTBB	ISTANBUL	 	 
+21	EUR	UUWV	MOSCOW	 	 
+22	EUR	UWWW	SAMARA	 	 
+23	EUR	LLLL	TEL AVIV	*	 
+24	EUR	USSV	YEKATERINBURG	 	 
+25	MID	OJAC	AMMAN	*	 
+26	MID	OSTT	DAMASCUS	*	 
+27	MID	OBBB	BAHRAIN	*	 
+28	EUR	URRV	ROSTOV-NA-DONU	 	 
+29	EUR	UNNT	NOVOSIBIRSK	 	 
+30	EUR	UATT	AKTOBE	 	 
+31	EUR	UMMV	MINSK	*	 
+32	EUR	ULWW	VOLOGDA	 	 
+33	MID	HECC	CAIRO	*	*
+34	EUR	UMKK	KALININGRAD	*	 
+35	EUR	UIII	IRKUTSK	 	 
+36	MID	HSSS	KHARTOUM	*	 
+37	EUR	ULKK	KOTLAS	 	 
+38	MID	OIIX	TEHRAN	 	 
+39	MID	ORBB	BAGHDAD	*	 
+40	EUR	UDDD	YEREVAN ZVARTNOTS	 	 
+41	MID	OLBB	BEIRUT	*	 
+42	EUR	ULAA	ARKHANGELSK	 	 
+43	EUR	UNKL	KRASNOYARSK	 	 
+44	AFI	HCSM	MOGADISHU	 	 
+45	EUR	LUUU	CHISINAU	 	 
+46	AFI	HHAA	ASMARA	 	 
+47	AFI	HUEC	ENTEBBE	 	 
+48	ASIA	VGFR	DHAKA	 	 
+impacted FIRs in the last 30 days on 06/05/2026
+src: ads-b data and reports
+rank	region	ICAO	name	spoofing	reported
+1	EUR	LTAA	ANKARA	*	*
+2	EUR	LCCC	NICOSIA	*	*
+3	EUR	EYVL	VILNIUS	*	*
+4	EUR	UBBA	BAKU	 	*
+5	EUR	EFIN	HELSINKI	*	*
+6	EUR	LRBB	BUCURESTI	*	*
+7	EUR	EPWW	WARSZAWA	*	*
+8	EUR	EETT	TALLINN	*	*
+9	ASIA	VYYF	YANGON	*	 
+10	EUR	LBSR	SOFIA	*	*
+11	MID	OOMM	MUSCAT	*	 
+12	MID	OMAE	EMIRATES	*	 
+13	EUR	ULLL	SANKT-PETERBURG	*	 
+14	ASIA	VTBB	BANGKOK	*	 
+15	EUR	EVRR	RIGA	*	*
+16	EUR	UGGG	TBILISI	 	 
+17	EUR	UUWV	MOSCOW	*	 
+18	EUR	UWWW	SAMARA	 	 
+19	EUR	USSV	YEKATERINBURG	 	 
+20	EUR	LLLL	TEL AVIV	*	 
+21	EUR	UNNT	NOVOSIBIRSK	 	 
+22	EUR	URRV	ROSTOV-NA-DONU	 	 
+23	MID	OJAC	AMMAN	*	 
+24	EUR	UATT	AKTOBE	 	 
+25	EUR	ULWW	VOLOGDA	 	 
+26	EUR	UMMV	MINSK	*	 
+27	MID	OSTT	DAMASCUS	*	 
+28	EUR	UMKK	KALININGRAD	*	 
+29	EUR	ULKK	KOTLAS	 	 
+30	MID	HSSS	KHARTOUM	*	 
+31	EUR	UDDD	YEREVAN ZVARTNOTS	 	 
+32	MID	OIIX	TEHRAN	*	 
+33	EUR	UKFV	SIMFEROPOL	 	 
+34	EUR	ULAA	ARKHANGELSK	 	 
+35	MID	OLBB	BEIRUT	*	 
+36	MID	OBBB	BAHRAIN	*	 
+37	AFI	HCSM	MOGADISHU	 	 
+38	EUR	UUYY	SYKTYVKAR	 	 
+39	EUR	LUUU	CHISINAU	 	 
+40	AFI	HHAA	ASMARA	 	 
+41	EUR	USTV	TYUMEN ROSCHINO	 	 
+42	AFI	HUEC	ENTEBBE	 	 
+43	EUR	UIII	IRKUTSK	 	 
+44	EUR	UACN	NUR SULTAN	 	 
+45	MID	ORBB	BAGHDAD	*	 
+46	EUR	UHHH	KHABAROVSK	 	 
+47	EUR	UNKL	KRASNOYARSK	 	 
+FIRs in EUR region FIRs not in EUR region
+>
+
+ 
+
+Jamming & Spoofing Data Analysis clarifications
+The algorithm is designed to analyse data related to jamming and spoofing in aviation, specifically focusing on the performance of Flight Information Regions (FIRs). The algorithm focuses for the moment on the reported Navigation Integrity Category (NIC) broadcasted by aircraft Automatic Dependent Surveillance – Broadcast (ADS-B) systems. This category ranges from 0 (bad) to 11 (good), knowing that a value of 11 indicates that the aircraft position is within a radius of 7.5 meters or less while a value of 0 indicates that the position uncertainty is more than 20 nautical miles.
+
+The jamming algorithm considers the NIC value of 7 as the frontier between “good” and “bad” GNSS position report quality. This indicator can be used as an indicator of potential GNSS jamming when:
+
+there is a representative number of aircraft movements in the FIR;
+several aircraft are experiencing this bad navigation indicator in the same area;
+this number is big enough to be considered for the statistics;
+the aircraft must have previously broadcasted a sufficiently long good signal during the flight.
+By computing the ratio of aircraft having a bad NIC to all the aircraft of the day, we can assess how the area is exposed to what can be interpreted as possible GNSS Radio Frequency Interferences. This daily analysis is then averaged across two periods, one covering 7 days and one covering 30 days, to present element of persistence.
+
+The identification of speed anomalies between two aircraft positions may also indicate the presence of spoofing. A speed is considered as an anomaly when the computation between 2 points would constitute a violation of the laws of physics.
+
+The table also confirms if jamming or spoofing was encountered in the FIR for the periods covered, 7 or 30 days, by cross-checking reported occurrences at the time of publication. 
+
+Recommendations and mitigating measures
+To address these issues, EASA recommends several measures for different stakeholders:
+
+Competent authorities (CAs)
+
+Establish contingency procedures with providers of ATM and ANSPs.
+Implement proactive mitigating measures and issue Notices to Airmen (NOTAMs).
+Facilitate information collection on GNSS degradations and notify air operators promptly.
+Avoid unauthorised transmitters that cause interference.
+Providers of air traffic management (ATM) and air navigation service providers (ANSPs)
+
+Collect and communicate information on GNSS degradations.
+Ensure that ground navigation infrastructure (instrument landing system (ILS), distance-measuring equipment (DME), VHF Omnidirectional Range (VOR)) remains operational.
+Provide timely information to airspace users through appropriate channels.
+Develop contingency plans for GNSS jamming/spoofing events.
+Air operators
+
+Train flight crews to recognise and respond to GNSS interferences.
+Report any observed GNSS anomalies promptly.
+Include GNSS jamming/spoofing scenarios in crew training.
+Assess operational risks and limitations due to GNSS loss.
+Ensure the availability of alternative non-GNSS-based procedures.
+Specific recommendations for air operators
+
+For jamming:
+verify aircraft position using non-GNSS means;
+check critical navigation aids; and
+report irregularities.
+For spoofing:
+monitor aircraft position using non-GNSS navaids;
+closely follow air traffic control (ATC) frequencies;
+apply manufacturer instructions on detecting and dealing with suspected GNSS spoofing; and
+report irregularities.
+Aircraft and equipment manufacturers
+
+Assess the cumulative effects of jamming/spoofing on their products.
+Provide guidance to air operators on detecting and dealing with spoofing.
+Offer instructions on operating and maintaining products during GNSS interference.
+Reporting and further information
+All stakeholders are reminded to report safety-impacting events according to EU regulations. Air operators should report GNSS alterations to aircraft manufacturers and support their investigations with relevant data.
+
+For more information, contact the EASA Safety Information Section at ADs@easa.europa.eu.
+
+By following these recommendations and maintaining vigilant monitoring, the aviation industry can mitigate the risks associated with GNSS jamming and spoofing, ensuring continued safety and reliability in air navigation and operations.
+
+Network of Aviation safety analysts (NoA) guidance on reporting the GNSS outage or alteration issues to competent authorities
+GNSS outage- or alteration-related occurrences shall be reported in line with the applicable regulations. Depending on the content of the occurrences, they shall be mandatory or voluntarily reported by organisations or natural persons as per Article 4 of Regulation (EU) No 376/2014. Occurrences are mandatorily reportable by persons mentioned in Article 4, paragraph 6 of said Regulation, if they may represent a significant risk to aviation safety, or if there are elements in the occurrences that are included in the list of mandatorily reportable occurrences of Regulation (EU) 2015/2018. Occurrence reports containing flight crew's or air traffic controllers’ description of occurrences with a safety effect provide relevant information on the effects encountered, which supports the safety analysis.
+
+In recent years, GNSS outage- and alteration-related occurrences have increased to a significant number, which creates a burden for air operators, air navigation service providers (ANSPs), and authorities to process the related occurrence reports.
+
+The analysis that is performed by the Network of Aviation safety analysts (NoA) indicates that for jamming occurrences in the majority of cases, reports of GNSS jamming encounters where there is no effect on aviation safety provide limited or no new information to support the analysis or possible mitigating actions. For statistical and trend analysis purposes, there are alternative and more complete means available for monitoring the jamming issue on a larger scale, e.g. by exploring the automatic dependent surveillance — broadcast (ADS-B) data.
+
+The situation is different for spoofing occurrences that still provide additional information and describe the new elements encountered. 
+
+To address this aspect of managing the workload on both sides (industry and civil aviation authorities (CAAs)) and the same time ensure the flow of important aviation safety information to authorities, the NoA discussed the way forward, and recommends that:
+
+Air operators can decide not to report occurrences of GNSS outages/jamming that had no effect on flight safety to their competent authority. These occurrences could be managed under the organisation’s safety management system (SMS). It is advisable that air operators inform their competent authority of the decision to apply this guidance.
+
+GNSS-related occurrences that have had an effect on flight safety shall be reported as per the provisions of Regulation (EU) No 376/2014.
+
+All spoofing events should be reported (e.g. confirmed shifting of maps, clock shifts, TAWS alerts leading to uncoordinated high-rate climbs) as the events must be analysed to evaluate the safety impact per aircraft type in the context of the continuing airworthiness (CAW) and to detect any new phenomena.
+
+Examples of types of events to be reported:
+
+GNSS not restoring after leaving the affected area after a reasonable time (global positioning system (GPS) primary not recovered);
+map shifts due to possible spoofing;
+alternative navigation systems (IRS, ground-based equipment) not available or enabled;
+need for air traffic control (ATC) vectoring;
+false terrain awareness and warning system (TAWS) alerts, uncoordinated high-rate climbs;
+interference leading to diversions or missed approaches; and
+airspace required navigation performance (RNP) provisions not met.
+ 
+ANSPs, if there were no consequences on flight safety or on an ANSP, may elect to consolidate occurrences encountered during one outage or alteration event for a specific area in one report. These reports should include the duration of the event and a list of the affected aircraft and should be communicated to the competent authority. It is advisable that ANSPs inform their competent authority of the decision to apply this guidance.
+
+GNSS-related occurrences that have had an effect on flight safety shall be reported as per the provisions of Regulation (EU) No 376/2014.
+
+Without prejudice to Regulation (EU) 2015/1018, the below is a non-exhaustive list of examples of types of events to be reported:
+
+need for ATC vectoring;
+uncoordinated high-rate climbs (due to reaction to false TAWS alerts); and
+interference leading to diversions or missed approaches.
+This guidance does only apply to the reporting of GNSS jamming/outage occurrences. In case of doubt, the provisions of Regulation (EU) No 376/2014 prevail.
+

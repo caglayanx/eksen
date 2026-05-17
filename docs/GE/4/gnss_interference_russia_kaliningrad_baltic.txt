@@ -1,0 +1,138 @@
+GNSS interference report: Russia 2024/2025 – Part 1 of 4: Kaliningrad & the Baltic Sea
+June 27, 2025
+Resource type:BlogCategories:Space ReconnaissanceAviation
+Written by:
+
+Travis Turgeon
+Independent Investigative Writer
+
+Tjaša Pele
+Digital Marketing Manager, Spire Aviation
+
+Antoine Cayphas
+Data Scientist, Spire Aviation
+
+Share:
+Share on FacebookShare on TwitterShare on LinkedIn
+Jump straight to
+Kaliningrad & the Baltic Region
+Spire satellite validation
+Interference pattern and attribution
+Operational impacts
+Why Spire's view is critical
+What's next?
+This four‑part series delivers concise, data‑backed snapshots of GNSS interference activity in and around Russia.
+
+Each installment pairs open‑source reporting with Spire’s LEO-based RF constellation, providing decision‑grade insight that goes well beyond public jamming maps like gpsjam.org.
+
+Part 1 covers multiple interference events in October 2024, when aircraft transiting the Baltic Sea near Kaliningrad experienced GNSS disruptions confirmed by satellite-based monitoring.
+
+Kaliningrad & the Baltic Region
+Kaliningrad Oblast, wedged between NATO members Poland and Lithuania, has emerged as the Baltic’s most persistent GNSS interference zone. The region hosts both known electronic warfare installations and suspected mobile jammers, both on land and at sea.
+
+In October 2024, maritime jamming strong enough to affect flight navigation was confirmed, with high-confidence attribution to vessels operating offshore. These mobile sources regularly affect aircraft and shipping in the EEZs of Poland, Lithuania, and Sweden, raising operational risks across the region.
+
+Summary
+global coverage icon
+
+Location:
+Baltic Sea, international waters north‑west of Kaliningrad Oblast
+
+informed decisions icon
+
+Activity:
+GNSS jamming traced to at least one moving vessel; corroborated by Polish university sensors and Spire satellite data
+
+Calendar icon
+
+Event window:
+October, 2024, with October 14th as the represented example
+
+travel icon
+
+Impact zones:
+Maritime corridors & low‑to‑mid‑altitude airspace inside and near to the EEZs of Poland, Sweden, and Lithuania
+
+Real-world incident
+Over a 6-month period in 2024, researchers at Gdynia Maritime University and GPSPATRON in Poland monitored GPS disruptions with on-campus sensors situated just over 70 miles east of Kaliningrad. Over those 6 months, they detected 84 hours of GNSS interference, with 29 hours of that total observed in October alone.
+
+In October, researchers observed up to 7-hour stretches of GNSS disruption affecting all four major satellite constellations (GPS, GLONASS, Galileo, BeiDou). Position errors exceeded 30 meters, enough to compromise safe routing for ships and aircraft. The interference patterns, matched with vessel movement, point to ship-borne jammers operating in international waters.
+
+By correlating the interference patterns with real-time vessel movement, researchers provided strong evidence that the source was mobile jamming devices aboard ships underway. This marked one of the first publicly verified cases of ship-based GNSS jamming in the Baltic Sea, with additional interference events detected across the exclusive economic zones (EEZs) of Poland, Sweden, and Lithuania.
+
+The findings increase the growing concern over mobile maritime interference as a newer, more unpredictable source of GNSS disruptions, which increasingly affect marine and aviation environments.
+
+Spire satellite validation
+What Spire saw
+Spire Aviation’s satellite-based analysis captured GNSS integrity metrics (NIC) and positional accuracy (NACp) across more than 300 aircraft on 14 October 2024. While most aircraft (q10 cohort) maintained normal performance, the bottom 5% (q05) showed total collapse in both NACp and NIC, as shown in the table below. This collapse was concentrated within a specific hexagon (shown in Figure 1) where a subset of aircraft experienced complete GNSS failure while others nearby remained unaffected.
+
+Metric	10th percentile (q10)	5th percentile (q05)	What it means
+NACp	7 (< 75 m accuracy)	0 (no fix)	A minority of aircraft lost all positional accuracy, while others remained unaffected
+NIC	5 (moderate integrity)	0 (no integrity)	A small subset of receivers flagged positional data as unusable
+Table 1: Performance of aircraft transiting the hexagon shown in Figure 1, where GNSS interference was most severe.
+
+Because q10 values remain relatively healthy while q05 values collapse, the interference is deemed localized and inconsistent across aircraft. This is consistent with directional jamming or a mobile emitter impacting some aircraft more than others, depending on altitude, position, and heading.
+
+This pattern is visible in Figure 1, which shows a central hex identified as one of the strongest and most likely interference zones for the day. In contrast, Figures 2, 3, and 4 show nearby hexes with diminished disruption – fewer affected aircraft, partial metric degradation, and ultimately, a weaker or more distant jamming signal. This progression helps illustrate how GNSS interference intensity decreases with distance from one of the suspected jammer’s core influence areas.
+
+Spire hex‑map over the Baltic Sea 14 Oct 2024: central red cells show q05 = 0 for NACp & NIC. Adjacent cells retain increasingly normal values, confirming the jammer’s finite footprint
+
+Figure 1. Spire hex‑map, 14 Oct 2024: central red cells show q05 = 0 for NACp & NIC. Adjacent cells retain increasingly normal values, confirming the jammer’s finite footprint.
+
+Northeast Hex map over the Baltic Sea
+
+Figure 2. Northern hex shows moderate q05 degradation, indicating some aircraft experienced reduced GNSS integrity. However, no full collapse occurred, suggesting this hex sits inside the jammer’s reach but outside its peak cone.
+
+Northwest Hex map over the Baltic Sea
+
+Figure 3. Southwest hex shows no q05 collapse and minimal aircraft impact, indicating it sits outside the effective jamming cone. The absence of interference closer to land further strengthens the mobile emitter hypothesis.
+
+Southern Hex map (toward Kaliningrad)
+
+Figure 4. Western hex reports normal NIC and NACp values across both q10 and q05 cohorts, supporting the conclusion that the jammer was not land-based, especially not located in Kaliningrad.
+
+Why does this point to mobile jammers?
+Several clues in Spire’s dataset indicate that the interference source on 14 October was likely maritime:
+
+Geographic isolation: The most affected hexes are in open water. Disruption does not increase as aircraft approach Kaliningrad, weakening the case for a land-based emitter.
+Rapid falloff: As shown in Figures 2 through 4, GNSS degradation weakens quickly across adjacent hexes, consistent with a directional or moving signal origin.
+Selective aircraft impact: q05 values collapsed while q10 values remained stable. This points to localized jamming affecting only those aircraft positioned in a narrow cone of interference.
+High altitude effect: The affected aircraft were flying at altitudes up to 36,000 feet. That profile is consistent with upward radiation from sea-level, not fixed spoofers or urban EW systems.
+While open-source platforms often flag only complete blackouts or a range of interference, Spire’s percentile breakdown reveals localized interference in international waters – data that points not to stationary emitters, but likely to mobile assets operating across borders and jurisdictions.
+
+Using passive RF detection from low Earth orbit (LEO), Spire recorded a marked decline in reliable ADS-B signals from multiple aircraft transiting the region surrounding Kaliningrad. The degraded signals were spatially and temporally concentrated in international airspace directly adjacent to the Russian exclave, which is consistent with the signature of onboard GNSS receivers experiencing interference, rather than spoofing or aircraft-based system failure.
+
+Interference pattern and attribution
+Over the past few years, the Kaliningrad exclave has become one of Europe’s most active GNSS jamming zones. Situated between NATO members Poland and Lithuania, Kaliningrad is home to several known Russian electronic warfare (EW) units. Reports have also linked ongoing GNSS interference to the Tobol system, a mobile jamming unit that restricts satellite navigation and communications over broad areas.
+
+These reported disruptions are not one-off events. As early as 2024, the European Union Aviation Safety Agency (EASA) issued Safety Information Bulletins warning operators of persistent signal degradation in the Baltic region, particularly in airspace proximate to Kaliningrad and the Russian coast.
+
+Academic and Spire data together indicate the October event was a maritime extension of that capability, likely a naval or paramilitary platform demonstrating area‑denial over NATO corridors.
+
+Operational impacts
+GNSS jamming near the Baltic Sea has affected civil aviation, NATO surveillance missions, and commercial maritime traffic. Area Navigation (RNAV) Approaches – procedures that allow aircraft to navigate along pre-defined flight paths without support from ground-based navigation systems – have been regularly disrupted, forcing aircraft to revert to long-used and semi-outdated ground-based navigation procedures.
+
+The growing scale and frequency of these events have prompted closer coordination between regional air navigation service providers and calls for rapidly available space-based interference detection solutions that can be deployed today.
+
+Pinpoint GNSS interference. Protect flight operations.
+Access real-time global visibility into GNSS jamming using Spire’s satellite-based ADS-B data. Stay informed, stay safe.
+
+Talk to our Aviation data expert
+
+Why Spire’s view is critical
+In this Baltic Sea case study, the value lies in how Spire’s telemetry reveals critical patterns that conventional heat maps miss. Three reasons:
+
+Hidden severity: q05 vs q10 spread
+In the primary interference zone, 3 out of 53 aircraft experienced full GNSS collapse. That may seem minor, but with directional or mobile jammers, this pattern is expected. Only aircraft in the right slice of airspace at the right moment are affected. For operators, even a small cluster of failures becomes a red flag, especially when those failures concentrate along a defined corridor.
+Mobile attribution: Spatial fingerprint
+On October 14th, the worst-affected hexes appeared offshore, with no signal gradient leading back toward land. That spatial isolation (GNSS denial over open water rather than near fixed EW infrastructure) strongly suggests a mobile emitter, likely operating from a vessel.
+Cruise phase impact pattern
+Although altitude data wasn’t directly extracted, the affected airspace lies well offshore, in regions typically transited by aircraft at cruising altitudes. The pattern aligns with an emitter at sea level radiating upward, consistent with maritime jamming, not ground-based spoofing or low-elevation urban jammers.
+Bottom line for Baltic stakeholders
+It is highly probable that a single mobile emitter created navigation blind spots capable of disrupting RNAV procedures and undermining safety. Spire’s percentile telemetry suggests that this event may not be a benign anomaly.
+
+What’s next?
+Part 2 investigates Crimea & the Black Sea, where Ukranian drone strikes drastically affected Russian jamming strategies. We’ll apply the same Spire analytics to expose mobile jamming tactics used around Russian assets.
+
+Get in touch to explore Spire’s GNSS‑interference data feed or request a demo:
+

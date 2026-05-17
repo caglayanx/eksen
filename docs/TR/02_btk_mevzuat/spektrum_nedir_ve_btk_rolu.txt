@@ -1,0 +1,41 @@
+Spektrum Nedir?
+
+Telsiz olarak iletişim kuran bir cihazın spektruma ihtiyacı vardır. Örneğin televizyonlar, otomobillerin uzaktan kumandalı anahtarları, kablosuz bebek monitörleri, kablosuz mikrofonlar ve uydular frekans spektrumu olmaksızın çalışamazlar. Cep telefonları da bir telsiz hücresel ağa bağlanmak ve iletişim kurabilmek  için spektrumu kullanır.
+
+Spektrum hayatımızı kolaylaştırmakla birlikte doğada sınırlı şekilde bulunmaktadır. Belirli spektrum bantları farklı sistemler ve amaçlar için kullanılır. Örneğin, uydu işletmecileri, mobil işletmeciler, TV yayıncıları spektrumun farklı bölümlerini kullanır. Bu nedenle, hizmetlerin kesintisiz şekilde verilebilmesi için  spektrumun yönetilmesi gerekir.
+
+
+Radyo dalgaları olarak da bilinen radyo spektrum, kızılötesi ve görünür ışığın hemen altında (<3 THz)  yer almaktadır.
+
+spektrum-yonetimi-genel-bilgiler
+
+Temel olarak, bir telsiz haberleşme sistemi, bir veriyi belirli bir frekanstaki bir telsiz sinyaline dönüştüren bir vericiyi ve radyo sinyalini alan ve bu veriyi tekrar elde eden bir alıcıyı içerir. Bununla birlikte, bazen verici ve alıcı arasındaki bu haberleşme, diğer vericilerden gelen istenmeyen sinyallerle bozulabilir veya tümüyle engellenebilir. Bu olguya zararlı girişim (enterferans) adı verilir. Bu nedenle radyo spektrum kontrolsüz bir şekilde kullanılamaz. Farklı sistemler ve kullanıcılar arasındaki zararlı girişimi önlemek için radyo dalgalarının kullanım esasları 5809 sayılı Elektronik Haberleşme Kanunu ve ilgili ikincil düzenlemelerle belirlenmiştir.
+
+Spektrum Kullanım Örnekleri
+
+Spektrumun en yaygın kullanım alanlarından bazıları şunlardır:
+
+Cep telefonu araması yapmak veya mobil şebeke kullanarak kısa mesaj göndermek,
+Bir mobil şebeke veya kablosuz yerel alan ağı bağlantısı kullanarak evde veya hareket halindeyken internette gezinmek,
+Bir anten veya uydu çanağı aracılığıyla televizyon izlemek veya radyo dinlemek,
+Kişisel cihazlara bağlanmak için Bluetooth vb yakın mesafe bağlantısı kullanmak,
+Bir akıllı telefonda veya araç içi navigasyon sistemi ile uydu veya mobil konum hizmetlerine erişmek.
+
+
+spektrum-yonetimi-genel-bilgiler
+
+Spektrumun son kullanıcılarca kullanımına ek olarak, birçok işletme ve kuruluş, işlerini etkin bir şekilde yönetmek amacıyla spektrumu kullanabilmektedir. Spektrumun ana ticari kullanımlarından bazıları şunlardır:
+
+Gemiler; iletişim, navigasyon, diğer gemileri takip etmek ve gemideki insanların güvenliğini sağlamak için bir dizi deniz telsiz ekipmanı kullanır,
+Tipik bir ticari uçak, iletişim, navigasyon ve gözetim işlevleri için yirmiden fazla havacılık radyo sistemine sahip olabilir,
+Ortak Kullanımlı Telsiz kullanıcıları taksi şirketlerinden ve fabrikalardan hastanelere, bakım evlerine, sanayi sitelerine kadar çeşitlilik gösterir,
+Radyo astronomi ve diğer uzay bilimleri faaliyetleri evren hakkındaki bilgimize katkıda bulunur. Örneğin, dünya gözlem uyduları, hava tahmini, çevresel izleme, iklim değişikliği araştırması ve diğer birçok uygulama için kullanılan dünya ve atmosfer hakkında veri toplar,
+Yayıncılar ve etkinlik organizatörleri, haber toplama, spor etkinlikleri, canlı konserler, filmler, tiyatro ve eğitim etkinlikleri için program oluşturma ve özel etkinlik ekipmanlarını (kablosuz mikrofonlar, kablosuz kameralar, kulak içi monitörler gibi) kullanır,
+Mobil işletmeciler, yayıncılar ve diğerleri, bir mobil baz istasyonunu çekirdek ağa bağlamak gibi iki veya daha fazla nokta arasında telsiz olarak büyük miktarda veri göndermek için sabit bağlantılar kullanır.
+Ayrıca spektrum kamu kurumları tarafından da çeşitli hizmetlerle ilgili olarak kullanılmaktadır.
+
+BTK'nın Spektruma İlişkin Rolü
+
+BTK, Türkiye Cumhuriyeti’nde radyo spektrumun kullanımına izin vermekle ve yönetmekle görevlidir ayrıca bu konuda ülkemizi uluslararası alanda temsil eder.
+
+Radyo spektrum kıt bir kaynaktır ve yeni frekanslar ‘üretilemez’. Gelişen teknoloji ile her geçen gün yeni hizmetlerin telsiz olarak sunulmaya başlanması nedeniyle spektrumun kullanım talebi sürekli büyümektedir. Bu nedenle, zararlı girişime neden olmadan daha fazla kullanıcının aynı frekansı paylaşımlı şekilde kullanmasını sağlayacak teknikler de geliştirilmektedir. BTK bu teknikleri kullanarak spektrumun daha etkin kullanılmasını amaçlamaktadır. Spektrumun bazı bölümleri uluslararası ve ulusal düzenlemeler kapsamında BTK’dan izin alınarak, bazı bölümleri ise mevzuatta belirlenen şartların sağlanması kaydıyla izin alınmaksızın kullanılabilmektedir. Söz konusu mevzuata uymaksızın kullanımda bulunmak bir ihlal oluşturur ve yasal müeyyidelere tabi bulunmaktadır. Yetkisi olmayanlarca zararlı enterferans oluşturularak diğer kullanıcıların haberleşmelerinin bozulması/engellenmesi de ayrıca müeyyideye tabidir. Bu nedenle, müeyyidelere maruz kalınmamasını teminen, frekans kullanan cihazların satın alınmasından ve kullanılmasından önce izne tabi olup olmadığı ayrıntılı şekilde araştırılmalı ve izne tabi olanlar için mutlaka önceden izin alınmalıdır.

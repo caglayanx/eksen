@@ -1,0 +1,92 @@
+Satellite network interference in Iran
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+
+This section may contain original research. Some statements appear to be based on unverified claims and may constitute synthesis without reliable sources. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (August 2025) (Learn how and when to remove this message)
+
+Satellite jamming equipment installed on a mobile antenna tower
+
+Telecommunication BTS tower with jamming equipment
+Satellite network interference in Iran by the Islamic Republic government, along with the enactment of laws prohibiting the use of satellite receiving equipment[1][2] and confiscation of satellite dishes from homes and residential complexes, has been accompanied by the transmission of satellite jamming signals. Although the Islamic Republic government cites combating corruption as a main reason for these actions, the primary focus has been on political news networks. Interference and jamming intensified after the controversial 2009 Iranian presidential election.[3] The jamming broadcasts have provoked widespread protests both inside and outside Iran, especially due to health concerns among citizens, but so far without tangible results.
+
+Iran has never officially confirmed or denied allegations of jamming foreign satellite networks.
+
+According to a report by the Statistical Center of Iran, out of approximately 24.3 million Iranian households, about 5.7 million use satellite dishes. The majority of satellite users are urban households, but around 1.17 million rural households also use satellite services. Evidence suggests that with the rise of Persian-language satellite channels, the number of users has increased in recent years.[4] Nevertheless, satellite usage by about one-quarter of the population is considered high.
+
+Methods of Interference
+To counter satellite signals, similar but stronger signals, known as uplinks, are sent from transmitters towards the satellite. Since the satellite cannot distinguish between signals, it chooses the stronger signal, causing disruption. This jamming method has been halted due to complaints from international organizations, sanctions on Iran, and Iran’s own removal of broadcasting from satellites such as Hot Bird.
+
+Hot Bird satellite, used by many news channels including BBC Persian, Iran International, Voice of America Persian News Network, and Deutsche Welle, and Europe’s largest telecommunications satellite, has been subjected to the highest levels of jamming.
+
+The control center for Hot Bird 8 satellite can monitor interference signals sent towards the satellite but is powerless to stop them. The French company Eutelsat has identified the source of jamming as being in Tehran using specialized software named “Sat-ID” and has filed complaints with the French National Frequency Agency.
+
+The French company Eutelsat, which broadcasts many major foreign channels into Iran, has filed two lawsuits in international economic courts against Iran related to interference with BBC Persian and Voice of America Persian News Network. The company stated that to maintain uninterrupted broadcasting, it "continuously conducts technical operations" and sometimes uses other satellites that are less sensitive to jamming.
+
+Jamming intensifies during specific occasions, especially amid rising public protests.[5]
+
+Don Smalley, a technology expert at BBC World Service, believes Iran uses “two types of jamming”: "The first type during elections was broadcast from the satellite and could only disrupt satellite reception, having no effect on other devices. The second type comes from buildings and tall towers, with much higher power that can affect many satellites and other equipment."
+
+In October 2011, the Wall Street Journal published an article accusing Chinese tech giant Huawei of supplying Iran with jamming and censorship equipment.[6]
+
+Organizations Responsible for Jamming
+It remains unclear which governmental body is responsible for satellite jamming. Possible agencies include IRIB, the IRGC, the Ministry of Intelligence, TCI, or a combination of these. Some parliament members have blamed TCI, but the company denies having the authority or capability, noting their tallest towers are only 48 meters, while jamming requires much taller towers. However, in 2009 TCI was controversially sold to a consortium reportedly linked to the IRGC and the Office of the Supreme Leader. Informal reports often point to the IRGC as responsible, though it has not officially commented.[3]
+
+No clear entity has been held accountable for jamming, which operates without oversight, even by the parliament. However, various organizations share responsibility for the content of satellite broadcasts, including the Office of Islamic Propaganda, the Ethical Security Police, Ministry of Health, IRIB’s commercial department, Ministry of Industry, Mine and Trade, Iran Telecom Company, Customs, and the Central Headquarters for Combating Goods and Currency Smuggling.
+
+Previously, countries such as Bulgaria, Cuba, and Venezuela have also engaged in satellite jamming.[5]
+
+International Reactions
+European Union Statement
+On March 22, 2010, foreign ministers of EU member states met in Brussels and called on Iran to cease jamming satellite channels. They emphasized moving beyond verbal condemnation to concrete actions.
+
+A month earlier, executives of BBC, Voice of America, and Deutsche Welle condemned Iran’s jamming in a joint statement. They wrote:
+
+>
+
+Iranian officials use the same satellite services to broadcast freely in English and Arabic worldwide while depriving their own people of programming from the rest of the world. We will not cease broadcasting accurate and impartial news about current affairs in Iran. > These three broadcasters state that Iran’s jamming violates Article 45 of the International Telecommunication Union’s regulations, which prohibits harmful interference. They urge international monitoring bodies to adopt a stronger stance against these deliberate disruptions.
+
+The governments of the United Kingdom, Germany, and France also issued a statement in February 2010 demanding stronger EU action against Iranian jamming.[7]
+
+United Nations Statement
+The International Telecommunication Union (ITU), a specialized agency of the United Nations, has called on Iran to stop transmitting jamming signals against foreign satellites, which violates international regulations. The ITU issued a statement through its Radio Regulations Board indicating that the jamming signals originate from within Iran's borders and damage the satellite network signals operated by Eutelsat, a French satellite company. The union urged Iran to identify the source of the jamming and make its removal a "top priority."
+
+Eutelsat is Europe's main satellite operator and one of the three largest worldwide, headquartered in Paris. Millions of people globally use its services, and nearly 3,400 television channels are broadcast via its satellites. The ITU has labeled Iran's jamming as deliberate and illegal under international law and demanded its cessation. Sanjay Acharya, the ITU spokesperson, noted that Iran was informed about the issue but has not accepted responsibility, only stating that it would investigate.[8]
+
+Health Risks of Jamming Signals
+Main article: Health and environmental effects of satellite signal jamming in Iran
+Concerns about the health effects of jamming signals transmitted by the Islamic Republic of Iran (in addition to mostly non-standard mobile phone tower emissions) have been raised by some members of parliament and medical professionals. The Deputy of the Center for Environmental and Occupational Health at the Ministry of Health stated that no specific reports have yet confirmed harm from jamming radiation.[9]
+
+However, Reza Malekzadeh, Minister of Health during his tenure as Deputy of Research and Technology at the Ministry, confirmed there is no doubt about the effects of jamming in increasing diseases.[10]
+
+Disruption to the Meteorological Organization
+Davood Parhizgar, head of Iran's Meteorological Organization, stated that jamming signals have reduced the radar visibility in Tehran and some other cities due to "electromagnetic noise from various sources." He linked this interference to the failure to forecast a storm in Khordad 1393 (June 2014), which caused five fatalities in Tehran. According to Parhizgar, the Radio Regulatory Authority is responsible for identifying and addressing the issue.[11][12]
+
+Methods to Counteract Jamming
+Various methods have been tried to neutralize the effects of jamming signals, but it appears that using satellites less affected by interference, such as Yahsat, or placing satellite dishes at low heights may be effective.[13]

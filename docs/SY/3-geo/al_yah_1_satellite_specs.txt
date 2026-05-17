@@ -1,0 +1,23 @@
+Al Yah 1
+Back to the list
+Satellite Name: Al Yah 1 (Yahlive, Y1A, Yahsat Y1A, Yahsat 1A)
+Status: active
+Position: 53° E (52.5° E)
+NORAD: 37393
+Cospar number: 2011-016B
+Operator: Al Yah Satellite Communications Company PrJSC (Yahsat)
+Launch date: 22-Apr-2011
+Launch site: Guiana Space Center
+Launch vehicle: Ariane 5 ECA
+Launch mass (kg): 5935
+Dry mass (kg):  
+Manufacturer: Airbus Defence and Space
+Model (bus): Eurostar-3000
+Orbit: GEO
+Expected lifetime: 15 yrs.
+Call sign:  
+Beacon(s): 20201, 20202
+Details:
+14 active C-band transponders, 20 Ku-band transponders, 21 Ka-band transponders to provide DTH coverage in The Middle East, Africa, Europe and South West Asia.
+Charts: list
+

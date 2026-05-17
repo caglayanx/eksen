@@ -1,0 +1,148 @@
+Middle East Airspace – Current Operational Picture
+By David Mumford
+Views:  
+437,838
+
+April 27 Update:
+The central Middle East corridor is still not a practical routing option, but the picture has shifted again.
+
+Kuwait:The Kuwait FIR has now reopened after being fully closed since Feb 28. Some flights are now operating in and out of OKKK/Kuwait airport, mainly via Saudi airspace. Overflights are technically possible again, but there is still no sign of transit traffic using a central Middle East routing. Flights continue to avoid the corridor, instead routing north via the Caucasus or south via Egypt/Saudi, so this is not yet a practical option for Europe-Asia ops.
+
+Iran: The Tehran FIR has partly reopened. The east is open for overflights above FL285 under strict procedures (specific routes, reduced ATC capability, and larger separation), while the west remains closed for transit. Some flights have restarted at Tehran airports, but most international operators continue to avoid the airspace. Treat as high-risk and not a normal routing option.
+
+Across the rest of the Gulf, several FIRs are technically open, but only in a very controlled way:
+
+Qatar: Qatar is open again, including OTHH/Doha, but ops are still controlled through fixed entry/exit points. Overflights are no longer fully closed, but remain conditional/restricted. Airlines are returning in phases, mainly regional first, with US/European long-haul still slower to come back.
+
+UAE: UAE airspace remains usable but managed. Arrivals/departures are still tied to specific routes, overflights remain constrained, and flow measures are expected. This is open airspace, but not free-flowing airspace.
+
+Bahrain: Bahrain is open, but still approval-based. OBBI/Bahrain ops are through fixed entry/exit points and traffic is gradually resuming rather than back to normal.
+
+Iraq: Iraq is open again for overflights, but it still doesn’t really restore the old central corridor. With western Iran still restricted and Kuwait only just reopening in phases, the ORBB/Baghdad FIR may be technically usable, but it still has limited practical value for normal Europe-Asia routings. Some operators may use it selectively after risk assessment, but the main flows still appear to be north via the Caucasus/Afghanistan or south via Egypt/Saudi/Oman.
+
+Elsewhere, airspace is open but operating under contingency measures:
+
+Saudi Arabia: Saudi remains open and is still the main southern bypass link. Expect contingency routings, flow measures, and some congestion on key sectors, especially towards the Gulf.
+
+Oman: Oman remains one of the most useful FIRs in the region, especially for the southern bypass. It is open, but still part of the managed corridor system, with flow measures and ongoing GNSS interference reports.
+
+Jordan: Open and operating normally. In practice, it’s still not a major transit route for Europe-Asia traffic. Most operators continue to route via Egypt and Saudi Arabia, as they did before the conflict.
+
+Israel: Israel is open again, including LLBG/Tel Aviv, but ops remain controlled and capacity is not normal. Some foreign airlines are returning, but most major US/European operators are still cautious.
+
+Armenia/Azerbaijan/Afghanistan: Armenia and Azerbaijan remain important parts of the northern bypass, with steady overflight demand. The main issue is still Afghanistan – the OAKX/Kabul FIR remains Class G with no normal ATS service, so crews still need to use the published contingency routes and operate with TIBA procedures.
+
+So for Europe-Asia traffic or Gulf positioning, the two real options are still the same – north via the Caucasus then Afghanistan, or south via Egypt then Saudi then Oman:
+
+
+
+Recent developments
+April 24-26 – Kuwait and Iran begin phased reopening
+Kuwait has reopened its airspace and resumed limited operations after nearly two months of closure, while Iran has restarted some international flights from Tehran and expanded access in the eastern part of its FIR. Both are reopening cautiously and in phases, and neither restores a normal central Middle East routing yet. Most international airlines are still avoiding Iran, with only limited use of Iraq airspace.
+
+April 23 – Opsgroup member reports on OEJD/Jeddah FIR congestion
+OPSGROUP members report comms congestion in the southeastern sector of the Jeddah FIR (towards the Muscat boundary, up to ITRUX). Frequencies are saturated with blocked transmissions and delayed check-ins, with ATC sometimes instructing extended “standby” and calling aircraft individually. Guard (121.5) has occasionally been used to pass frequency changes. Crews report being held around FL300-330 until handoff. This reflects the increased traffic using the southern bypass route and may cause delays in the area.
+
+OPSGROUP members can check Airport Spy for more info.
+
+April 22 – Ceasefire extended, but Hormuz still blocked
+The US says the ceasefire with Iran has been extended again at Pakistan’s request, but the situation around the Strait of Hormuz remains unstable, with reports of commercial shipping incidents.
+
+April 21 – Iran reopens east part of Tehran FIR
+Iran has reopened the east part of Tehran FIR to overflights above FL285 under recovery-period procedures, while the west part remains closed. This is the biggest airspace change since our last update, but it does not restore a normal central corridor.
+
+April 20-22 – Qatar and Bahrain move further into controlled reopening
+Qatar’s current Notams now say OTHH is available to all airlines via dedicated corridor entry and exit points, while Bahrain remains open with prior approval only and fixed OBBI entry and exit points. Both are more usable than they were in early April, but neither is back to normal hub operations.
+
+April 9 – EASA CZIB update
+EASA has updated its CZIB on Middle East airspace, now valid to April 24. The same advice stands to avoid airspace of Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Qatar, UAE, Oman and Saudi Arabia.
+
+There’s one narrow exception: in Oman and Saudi, you can operate south of a line from OBSOT-DANOM-KEDON-VELOD, at FL320 or above only, and only with a current risk assessment.
+
+
+
+March 30 – Missile intercepted over Turkey
+Another Iranian ballistic missile was intercepted over southern Turkey, with debris reported near the Syrian border. Turkish airspace remains open with no operational impact, but the incident again shows how far west some of the missile activity is extending.
+
+March 24-30 – UAE short-notice closures continue
+The UAE continued to briefly close its airspace during new missile and drone threats, reopening shortly afterwards. This reinforced the risk of sudden disruption even when the FIR was technically open.
+
+March 24 – OKKK/Kuwait airport fuel tank hit
+A drone strike hit a fuel storage tank at OKKK/Kuwait, causing a fire. No casualties were reported, but this was another direct strike on airport infrastructure and highlighted the ongoing risk to ATC and fuel systems.
+
+March 17 – UAE airspace closure
+The UAE briefly closed its entire airspace overnight on March 16-17 as an “exceptional precautionary measure” during new missile and drone threats.
+
+It lasted about two hours before reopening, but caused fresh disruption to already limited ops into OMDB/Dubai and OMDW/Al Maktoum.
+
+This came just one day after the drone strike near OMDB, and showed how quickly the situation can change – even FIRs that are technically open can shut with little or no warning.
+
+March 16 – LLBG/Tel Aviv BizAv ban appears to ease
+Earlier this week we reported that BizAv flights were not being approved at LLBG/Tel Aviv, based on guidance from the Israeli CAA and multiple Opsgroup member reports. That restriction did not appear in the Notams at the time.
+
+A local handler at QAS Executive Aviation (pvt@qasisrael.co.il) later advised that BizAv operators could again apply for PPR approval through the airport ops center. Slots remained extremely limited and priority was still being given to emergency and state flights, so approvals could be difficult to obtain. Check with your handler before planning any BizAv ops to LLBG.
+
+March 16 – OMDB/Dubai drone strike halts flights
+A drone strike hit a fuel storage tank near OMDB/Dubai, causing a large fire and forcing a temporary suspension of operations. At least 65 flights diverted to airports across the region, including OMDW/Al Maktoum, while others held or turned back as emergency services dealt with the blaze.
+
+March 14 – Drones strike OKKK/Kuwait airport radar
+Kuwait authorities reported that multiple drones targeted OKKK/Kuwait airport, damaging part of the airport’s radar system. No casualties were reported, but the incident highlighted the potential for ATC capability to be degraded if radar infrastructure is damaged.
+
+March 11 – Opsgroup member reports
+OMDW/Al Maktoum turn: One member reported a recent turn at OMDW/Al Maktoum with generally smooth operations despite the regional situation. Arriving from the north, the only operational issue was GPS jamming beginning near Riyadh. The airport itself was quiet and well organised. Departure was delayed by about five minutes due to military activity. The permit process was more involved than usual, requiring a risk assessment before approval as part of the current UAE corridor procedures (see this section below for more info).
+
+OERK/Riyadh rescue flight: Another member operating a Part 121 rescue flight reported smooth ops on a routing Germany-Riyadh-Germany. The permit process and UAE GCAA No Objection Certificate were issued without problems. Ground handling at OERK/Riyadh was efficient, with fuel uplift starting immediately on arrival and a two-hour ground time. The western routing via Saudi-Egypt-Greece worked without issues. They also reported that insurance applied a premium for the trip, and the flight required a Safety Risk Analysis including FAA considerations.
+
+March 9-11 – Gulf missile and drone attacks
+Iranian missile and drone attacks continued across the Gulf between March 9 and 11. Saudi Arabia, Kuwait and Qatar reported intercepting several missiles and drones, while the UAE activated air defences during alerts that briefly caused arrival holding at OMDB/Dubai. Authorities also reported drones falling near Dubai on March 11, injuring several people, though airport operations continued. No airport strikes or new airspace closures were reported at that stage.
+
+March 7 – OMDB/Dubai drone incident
+OMDB/Dubai Airport briefly suspended operations on March 7 after a drone struck near Terminal 3, causing minor damage and smoke near the terminal area. Flights were halted while authorities checked the airport and several arrivals aborted or held. Operations resumed later the same day, though delays continued across the airport.
+
+March 6 – Israel
+Ops at LLBG/Tel Aviv were briefly disrupted when an El Al repatriation flight had to abort its landing after missile sirens sounded across central Israel during an Iranian attack wave. The aircraft entered a holding pattern before returning for a second approach once the alert was lifted.
+
+March 6 – OOMS/Muscat “scheduled flights only” Notam
+Some media reports said Muscat was restricting BizAv flights due to congestion from evacuation traffic. A Notam appeared to support this: OOMS airport accepts scheduled flights only, all diversion flights subject to prior approval. However, a local handler at Jetex OOMS advised that normal BizAv operations were continuing, and operators should not expect any practical impact from this Notam for now. Contact them at: fbo-mct@jetex.com for more info.
+
+March 6 – UAE airports operating limited flights
+Airlines started operating more flights from UAE airports using the restricted corridor system, though capacity remained well below normal levels.
+
+A local handler advised that to use the repatriation corridors into UAE airports, operators first had to obtain a No Objection Certificate (NOC) from the GCAA Foreign Operators Affairs Department (FOA). Operators reportedly submitted a short risk assessment to foa@gcaa.gov.ae, after which a NOC was issued. This then had to be provided to the handler for the landing permit request. Response times were typically less than 60 mins, and a single NOC could cover multiple flights for the same aircraft during the recovery period. You can find an example of a completed risk assessment here.
+
+
+
+March 6 – Oman becoming a staging point
+Flightradar24 reported that OOMM/Muscat was becoming a staging point for evacuation and repositioning flights. Airline and private aircraft were using the airport to position for repatriation flights, as it sits just outside the most restricted Gulf airspace while still providing access to the southern bypass route via Saudi Arabia and Egypt.
+
+March 5 – Azerbaijan drone strike
+Iranian drones crossed the Iran-Azerbaijan border early on March 5 and one struck the terminal building at UBBN/Nakhchivan airport. Damage appeared limited to the terminal area with no confirmed runway impact. This was the first time the current Iran conflict spilled into the Caucasus, close to the Armenia-Azerbaijan overflight corridor used by traffic avoiding the Middle East airspace closures. No impact was reported to UBBB/Baku airport or the main overflight flows.
+
+
+
+March 4 – Missile interception over Turkey
+On March 4, a ballistic missile launched from Iran travelled west and was intercepted over southern Turkey by NATO air defence systems. Debris was reported to have fallen in the Hatay region near the Syrian border. Turkish airspace remained open and there was no operational impact reported, but the incident highlighted how far west some of the missile activity associated with the conflict was extending.
+
+
+
+March 3 – Riyadh, Saudi Arabia
+Iranian drones struck the US Embassy area during overnight attacks on Saudi Arabia. Damage was reported in the area, though Saudi air defences intercepted several other drones targeting the city.
+
+March 1-2 – Cyprus
+A drone strike caused minor damage at RAF Akrotiri, a major UK airbase used for regional military operations. Nearby LCPH/Paphos airport was briefly evacuated after radar detected a potential aerial threat approaching the island.
+
+Since Feb 28 – Israel and Iran
+US and Israeli strikes on Iranian military targets triggered ongoing Iranian missile and drone retaliation across Israel and several Gulf states. Multiple waves of attacks targeted military bases and infrastructure across the region, leading to widespread airspace closures and disruption to normal Middle East flight routes.
+
+If you have operated in the region recently and could share your experience, send us an anonymous Airport Spy report or email us at team@ops.group.
+
+
+
+
+More on the topic:
+More: Crisis in Iran: Elevated Airspace Risk
+More: EASA Removes CZIBs: Middle East Risk Gets Harder to Read
+More: 2025 Update: BizAv Ops to Israel
+More: Why EASA has Withdrawn Airspace Warnings for Iran and Israel
+More: Dodging Danger: The Three Routes Through the Middle East
+More reading:

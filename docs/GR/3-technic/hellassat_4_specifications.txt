@@ -1,0 +1,23 @@
+
+HellasSat 4
+Back to the list
+Satellite Name: HellasSat 4 (HS 4, SaudiGeoSat 1)
+Status: active
+Position: 39° E (39° E)
+NORAD: 44034
+Cospar number: 2019-007A
+Operator: Hellas-Sat (Arabsat subsidiary)
+Launch date: 5-Feb-2019
+Launch site: Guiana Space Center
+Launch vehicle: Ariane 5 ECA
+Launch mass (kg): 6495
+Dry mass (kg): 3950
+Manufacturer: Lockheed Martin
+Model (bus): A2100A
+Orbit: GEO
+Expected lifetime: 15+ yrs.
+Call sign:  
+Beacon(s): 3704.25, 4199
+Details:
+Hellas Sat 4 will be launched in H2 2018 to provide in-orbit backup, redundancy services for Hellas Sat 3 and further expansion over Europe and Southern Africa, through Ku capacity
+Charts: list

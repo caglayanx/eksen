@@ -1,0 +1,59 @@
+What’s Happening? A Detailed Report by INSM Summarizes the Iraqi Government’s Official Requests to Restrict Digital Content
+INSM for Digital Rights INSM for Digital Rights  7 months ago
+A A
+
+In Meta’s latest transparency report for October 2025, Iraq appeared among the countries that officially requested the company to restrict content on its platforms.
+
+The report, published under the section “Content Restrictions Based on Local Law”, reveals two formal requests from Iraq’s Communications and Media Commission (CMC) to restrict access to two Facebook posts within Iraq—without globally deleting them.
+
+Meta stated that the two posts contained allegations of corruption and bias against high-ranking judicial officials. The CMC based its request on rulings from the Federal Supreme Court (decisions 325 and 331 of 2023), in addition to Article 229 of the Iraqi Penal Code, which is often used in cases involving insults to public employees during the performance of their duties.
+
+Meta added that the CMC threatened it with economic and administrative penalties if the request wasn’t fulfilled. These threats included banning commercial advertisements on Meta’s platforms in Iraq and prohibiting financial transfers to the company by the Central Bank of Iraq.
+
+According to CPA Order 65 of 2004, which established the CMC, and according to the Iraqi constitution, the CMC is required to operate independently and is tasked with regulation and oversight. The same order mandates that the commission follow the International Covenant on Civil and Political Rights (ICCPR), which Iraq ratified under Law No. 46 of 1971. Article 19 of the ICCPR protects the right to freedom of expression—reinforced by Article 38 of the Iraqi constitution. Therefore, the CMC has no authority to block posts or digital pages unless there’s a final judicial ruling.
+
+Although Meta clarified that the two posts did not violate its global Community Standards, it was forced to restrict access to them only within Iraq, complying with what was described as a “potential violation of local law.” Meta also notified the affected users of the restriction.
+
+This incident coincides with the blocking of Iraqi influencers’ accounts on TikTok within Iraq—highlighting the increasing influence of Iraqi authorities in the digital sphere. Regulatory bodies like the CMC are being used as pressure tools on global tech companies to enforce internal content censorship within the country.
+
+Meta did not indicate that the content contained hate speech, security threats, or digital safety violations. Instead, the restriction stemmed from internal legal and political considerations related to posts criticizing judicial institutions. This raises concern about the growing suppression of digital voices in Iraq through legal and economic tools.
+
+Using financial threats as leverage against a private company—affecting citizen money spent on sponsored content and impacting the growing e-commerce sector—is a violation of the principle of neutrality that regulatory bodies are expected to uphold.
+
+This case illustrates how social media platforms are turning into battlegrounds between governments and tech companies—between the right to free expression and local legal constraints. In Iraq’s case, Meta’s official documents show that government pressure was neither technical nor security-related—it was political and economic. This signals a shift in censorship tactics: from direct deletion to “geo-blocking”, where content is only hidden within the country.
+
+Meta’s report reveals that censorship is no longer confined by national borders—it is now being carried out directly through digital channels. Global companies are facing increasing pressure in Iraq to comply with content restriction requests targeting critical or rights-based material.
+
+INSM has tracked a growing trend of content restrictions imposed on Iraqi content across Meta platforms (Facebook and Instagram), based on official requests from the Iraqi government through the CMC.
+
+According to the company’s transparency reports:
+
+From January to June 2024, over 200 digital items were restricted inside Iraq, reportedly for violating “local laws” as per the CMC’s claims.
+
+In the following period, July to December 2024, the number rose to over 250 restricted items, based on requests citing Articles 229 and 433 of the Iraqi Penal Code, as well as the Baath Party Ban Law.
+
+It is noteworthy that the last recorded content restriction by Meta in Iraq prior to this wave was in 2019. The increase in restrictions beginning in 2024 and continuing through October 2025 signals a growing trend of suppression, positioning Iraq among the top countries in terms of official government requests to social media platforms. This undermines digital freedom and users’ rights to access information.
+
+Censorship has not been limited to Meta platforms. INSM also documented a significant rise in geo-blocking (restricting accounts from being seen in a specific region) on TikTok, based on official Iraqi government requests under local laws.
+
+According to TikTok’s transparency report:
+
+Between June and December 2024, 454 accounts and content items were targeted for deletion.
+
+This compares with 140 in the January to May 2024 period.
+
+TikTok complied with:
+
+200 requests based on violations of its Community Guidelines.
+
+210 requests based on alleged violations of Iraqi local laws.
+
+The platform rejected the remaining 44 requests.
+
+The compliance rate (89.6%) makes Iraq the 15th highest country globally in terms of official content deletion requests on TikTok during that period.
+
+INSM stresses that protecting the digital space is essential for safeguarding public freedoms and human rights. Digital censorship—regardless of the justification—weakens public trust in the internet as a safe space for expression and accountability.
+
+The organization emphasizes the need for transparent procedures around any official requests directed at tech companies, ensuring that laws are not misused to silence criticism or restrict journalistic and civic voices. It also warns against adopting a “comply to survive” policy with tech companies whose platforms have become vital public arenas for Iraqi citizens’ expression and dialogue.
+
+Tags: Censorshipgeo-blockingINSMIraqMETASocial MediaTiktok

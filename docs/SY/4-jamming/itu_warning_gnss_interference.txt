@@ -1,0 +1,68 @@
+ITU issues warning on interference with radio navigation satellite service
+News 23 Aug 2022
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share via URL
+By ITU News
+
+The blocking, jamming or serious degradation of services that rely on radio waves — known in the telecommunication world as harmful interference — can be either accidental or intentional.
+
+Either way, harmful interference poses a significant and growing threat to critical infrastructure and safety services used every day, from commercial aviation to energy distribution to satellite navigation systems.
+
+Protecting this ecosystem is essential for the safe and satisfactory operation of the growing number of devices, applications and autonomous vehicles that rely every day on positioning and navigation systems on air, sea, and land.
+
+One of the principal objectives of the International Telecommunication Union (ITU) and its 193 Member States is to ensure interference-free operations of radiocommunication systems.
+
+Article 45 of the ITU Constitution requires Member States “to take the steps required to prevent the transmission or circulation of false or deceptive distress, urgency, safety or identification signals, and to collaborate in locating and identifying stations under their jurisdiction transmitting such signals.”
+
+Cases reported in growing numbers
+Following several incidences of harmful frequency interference brought to the attention of the ITU Radio Regulations Board, a recent Circular Letter urged ITU Member States to take measures to prevent interference with radio navigation satellite service (RNSS) signals and receivers.
+
+The RNSS is an essential component of global critical infrastructure, providing a “safety-of-life” service that must be protected from interference. It is used in GPS (the US-based Global Positioning System) and other global navigation satellite systems (GNSS) platforms, such as Europe’s GALILEO, Russia’s GLONASS and China’s BeiDou system.
+
+Between 1 February 2021 and 31 January 2022, ITU received 329 reports of harmful interference or infringements of the Radio Regulations – the international treaty safeguarding the equitable and efficient use of the radio frequency spectrum.
+
+Data collected by a major aircraft manufacturer shows that 10,843 radio-frequency interference events were detected globally over the same 12-month period, the circular notes. These figures were based on in-flight monitoring of GNSS receivers, which are standard onboard equipment for passenger or transport aircraft.
+
+While most of the interference events occurred in the Middle East, several were also detected in the European, North American, African, and Asian regions.
+
+The ITU Radiocommunication Bureau initially raised the issue of increasing interference to Member States at the 2019 World Radiocommunication Conference (WRC-19) in Sharm-El-Sheik, Egypt.
+
+Since then, ITU has received reports about significant numbers of cases of harmful interference to the RNSS in the 1,559–1,610-megahertz (MHz) frequency band, also known as the “L1 band”.
+
+What makes interference harmful
+Virtually all radio systems experience some interference. At very low levels, this can be considered acceptable or tolerable.
+
+Harmful interference occurs when a radio system receives unwanted energy to an extent that inhibits the functioning of a radio-navigation service – such as those used onboard ships or aircraft – or seriously degrades, obstructs, or repeatedly interrupts any radiocommunication service that is operating in accordance with the Radio Regulations.
+
+For example, harmful interference in the L1 band can disrupt the onboard receivers of aircraft, causing the degradation or total loss of communication for passenger, cargo, and humanitarian flights. In some cases, harmful interference in this frequency band can even cause RNSS receivers to provide misleading information to pilots, presenting a major safety risk.
+
+Harmful interference with RNSS or GNSS signals – whether it is deliberate or inadvertent – constitutes a violation of the Radio Regulations, which state that “frequencies used for the safety and regularity of flight require absolute international protection from harmful interference and that administrations undertake to act immediately when their attention is drawn to any such harmful interference.”
+
+One major source of such disruptions is unnecessary radio transmissions. But the interference prohibition also applies to the use of jamming devices, commonly referred to as “GNSS jammers”, “signal blockers” or “privacy jammers”.
+
+Provision No. 15.1 of the Radio Regulations states that “all stations are forbidden to carry out unnecessary transmissions, or the transmission of superfluous signals, or the transmission of false or misleading signals”.
+
+Handling harmful interference
+ITU’s Radiocommunication Bureau receives hundreds of interference reports each year. But ITU – the United Nations specialized agency for information and communication technologies – is not alone in the battle to identify the sources of these potential cases and avert or eliminate resulting problems.
+
+ITU collaborates with affected administrations and industry sectors, as well as with other UN agencies like the International Civil Aviation Organization (ICAO) and the International Maritime Organisation (IMO).
+
+While the Radiocommunication Bureau strives to deal with each report within 48 hours, the vital role of preventing harmful interference falls to governments around the world.
+
+To mitigate this critical international issue, ITU asks its 193 Member States to take the following steps:
+
+Reinforce the resilience of navigation systems to interference by using technologies with multi-frequency/multi-system receivers and anti-jamming capabilities;
+Increase collaboration between radio regulatory, military, aviation, and law enforcement authorities;
+Reinforce civil-military coordination to address interference risks associated with RNSS testing and conflict zones;
+Retain essential conventional navigation infrastructure for contingency support in case of RNSS outages; and
+Develop mitigation techniques for loss of services.
+What to expect at WRC-23
+ITU’s Member States are now preparing for the 2023 World Radiocommunication Conference (WRC-23), to be held in Dubai, United Arab Emirates, towards the end of next year.
+
+As at past WRCs, the Radiocommunications Bureau will inform delegates of the severity of the situation and report on progress to date in addressing and mitigating harmful interference.
+
+While technology use evolves and ITU’s Member States consider the way forward, ITU and the Radio Regulations Board will continue to follow up closely on every potential case.
+
+Learn more about how ITU handles radio interference.

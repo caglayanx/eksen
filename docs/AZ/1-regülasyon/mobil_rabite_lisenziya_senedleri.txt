@@ -1,0 +1,27 @@
+Fərdi sahibkarlar üçün
+Sellülar (mobil) rabitə xidmətlərinə (texnoloji standartın adı göstərilməklə) lisenziya verilməsi üçün tələb olunan sənədlər
+1. Şəxsiyyət vəsiqəsinin surəti;
+
+2. Ərizəçinin vergi ödəyicisi kimi uçota alınması haqqında şəhadətnamənin surəti;
+
+3. Ərizədə qeyd olunan obyektlərdən hər biri üzərində ərizəçinin mülkiyyət, istifadə və ya icarə hüququnu təsdiq edən sənədin surəti (əgər lisenziya tələb olunan fəaliyyətin həyata keçirilməsi və icazə tələb olunan hərəkətin yerinə yetirilməsi obyektlə bağlıdırsa);
+
+4. Lisenziya predmeti üzrə istifadə olunacaq telekommunikasiya vasitələri və qurğularına Azərbaycan Respublikasının mövcud qanunvericiliyinə uyğun verilmiş sertifikatların surəti;
+
+5. Milli təhlükəsizlik təminatı baxımından telekommunikasiya və digər rabitə şəbəkələrindən məlumatların əldə edilməsi üçün nəzərdə tutulan xüsusi avadanlıqların Dövlət Təhlükəsizliyi Xidməti, Azərbaycan Respublikası Daxili İşlər Nazirliyinin səlahiyyətlərinə aid olan hissədə isə Azərbaycan Respublikasının Daxili İşlər Nazirliyi ilə razılaşdırmaqla, Azərbaycan Respublikasının Xüsusi Dövlət Mühafizə Xidməti ilə razılaşdırılmış texniki şərtləri və bu şərtlərə uyğun olaraq ümumi rabitə şəbəkələri daxilində yaradılan və istismar edilən bütün növ telekommunikasiya şəbəkələrindən (idarə və müəssisələrə məxsus olan və ümumi rabitə şəbəkəsinə çıxışı olmayan şəbəkələr istisna olmaqla) informasiya əldə edilməsini təmin edən xüsusi təyinatlı avadanlıqlarla təchizat barədə zəmanət;
+
+6. Fəaliyyət növünün həyata keçirilməsi üçün istifadə olunacaq radiorabitə vasitələrinə müvafiq radiotezliklərin ayrılması barədə Radiotezliklər üzrə Dövlət Komissiyasının rəyi;
+
+7. Xidmətin təşkili üzrə qurulacaq şəbəkənin strukturu və rabitənin təşkili barədə məlumat;
+
+8. Xidmətin təşkili üçün tələb olunan telekommunikasiya vasitələri və qurğularından ərizəçinin istifadə hüququnu (mülkiyyət hüququ, icarə, istifadə və s.) təsdiq edən sənədlərin surəti;
+
+9. Tətbiq ediləcək texnoloji standart üzrə  şəbəkənin istismara verilməsi mərhələləri barədə məlumat və qeyd olunan mərhələlər üzrə işlərin başa çatdırılması barədə zəmanət;
+
+10. Şəbəkədə istifadə olunacaq avadanlıqların texniki xarakteristikası barədə məlumat;
+
+11. Təşkil olunacaq xidmətlərin növləri və əhatə dairəsi barədə məlumat;
+
+12. “Telekommunikasiya haqqında” Azərbaycan Respublikası Qanununun 13-cü maddəsinə əsasən hazırlanmış Radiotezliklər üzrə Dövlət Komissiyası tərəfindən təsdiq edilmiş ”Azərbaycan Respublikasının radiotezliklər spektrindən perspektiv istifadə planı”na uyğun olaraq radiotezliklərdən istifadənin mümkünlüyü barədə Radiotezliklər üzrə Dövlət Komissiyasının rəyi;
+
+13. Lisenziyanın verilməsindən imtina edilmədikdə, lisenziya verilməsinə görə dövlət rüsumunun ödənildiyini təsdiq edən sənəd.

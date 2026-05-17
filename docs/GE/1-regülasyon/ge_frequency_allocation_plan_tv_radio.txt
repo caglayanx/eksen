@@ -1,0 +1,60 @@
+Frequency Allocation Plan for TV and Radio Broadcasting (Explanation Letter)
+Frequency Allocation Plan for TV and Radio Broadcasting (Explanation Letter)
+The frequency allocation plan for TV and radio broadcasting contains a list of frequencies allocated to the Georgian cities and populated areas, information on the location of transmission antennas, middle radius of their activity, information on the effective radiated power (ERP) of the antennas, and the radiation diagram type. The plan is based on the planned network of broadcasting frequencies, which was devised by the Georgian National Communications Commission by participating in open tender (Decision Nr. 487, 26.09.03) and consists of 19 pages.
+
+The frequency allocation plan includes both radio and TV broadcasting frequencies:
+
+-         FM (100-108 MHz) radio frequency band.
+-         Decimetric television frequency band.
+
+In the process of devising the FM (100-108 MHz) radio frequency band, we took the following into account:
+
+1. In order to cover the whole territory of Georgia with electromagnetic fields (achieving continuous, stable radio connection), the broadcasting companies carrying out broadcasting in one or several areas shall be able to carry out broadcasting according to their preference and economic situation;
+2. The areas for the location of radio broadcasting transmission systems are selected in a manner which allows the inclusion of highways in the radio coverage area;
+3. In case of demand, synchronic broadcasting must be made possible;
+4. The FM (100-108 MHz) radio frequency band has been devised in accordance with the Radio Regulations of Georgia, the standards and recommendations of the International Telecommunication Union (ITU), the geographic landscape of the country, as well as the existing network of frequencies that have already been assigned, or will be assigned in the near future;
+5. To the best of ability, safety ratios have been considered for the selected frequencies, both for analogue and digital broadcasting systems.
+
+The planned decimetric television frequency band, which has been devised based on international norms and standards, allows the following:
+
+1. Existing or planned TV companies to satisfy information demand of the Georgian population;
+2. A frequency band planned for the country’s main television broadcast network, which can connect to a secondary network of low-power re-transmitters. The operating frequencies of the secondary network shall be determined based on the analysis of materials obtained from the main network’s activities and relevant monitoring;
+3. The planned frequency band includes the possibility of carrying out local or regional television broadcasting within a broad network or in a particular populated area;
+4. The maximum number of operating frequencies have been identified by using the safety criteria determined by the existing norms, by excluding interferences, and by considering the TV frequencies that have already been assigned, or will be assigned in the near future.
+
+Based on the planned frequency network, the following circumstances shall be taken into consideration in the process of designing the technical project and launching the transmission stations:
+
+1. Geographic coordinates are given for the existing masts. It is possible to use a new mast within a 1000 m radius from the point determined by the given coordinates, provided that the indicated height of the location of the antenna above sea level is maintained;
+2. Based on the recommended ITU standards (ITU-R, BS, 412-7, 417-4, issue 43/11), in order to receive stable signal, it is necessary to determine the middle radius of the broadcasting area on the basis of the minimal allowable figure for the field tension;
+3. Development of the technical project of the transmission station shall be carried out in accordance with the technical parameters indicated in the planned frequency network;
+4. Under the actual conditions, when the impact of the complicated landscape of the coverage area on the diffusion of the electromagnetic field and the international coordination requirements are to be taken into consideration, it is possible to change the radiation parameters within the recognised norms.
+
+The planned frequency network presented herein has been devised for the independent, simultaneous operation of the separate transmitters. Thus, within the given number of transmission stations, it is possible to implement a broadcasting network with various configurations on the territory of Georgia both for radio and TV broadcasting. The frequency network presented herein has been designed with maximum capacity, which means that the full spectrum is being used effectively. As far as possible, the impact of TV and radio transmitters from neighbouring countries in border regions has been taken into consideration, and the operating frequencies have been selected in a manner which ensures minimum interference.
+
+Digital TV broadcasting will be implemented in Georgia through gradual replacement of the existing frequency bands in the analogue system. European standards (DVB-T for TV broadcasting and T-DAB for radio broadcasting) are suitable for terrestrial digital broadcasting in Georgia based on the following considerations:
+
+-         Georgia borders European countries, and the interference-related requirements of border regions will be fulfilled;
+-         The broadest choice of reception, transmission and formation equipment is expected from Western European manufacturing companies, considering that these companies constantly tend to decrease the prices;
+-         By taking into account the latest scientific and technical achievements in European countries, the manufactured equipment ensures unique possibilities for receiving a stable signal even in difficult landscape conditions, which is very important for Georgia;
+-         The concept of European standards provides for significant increase in the number of programmes, and an opportunity to switch to digital broadcasting with minimal expenses;           
+-         Digital TV broadcasting will be implemented in Georgia through gradual replacement of the existing frequency bands in the analogue system.
+
+Boris Adamia – Technical Director of Georgian Radio Center Ltd.
+
+Nodar Aspanidze – Technical Director of the Department for Observation of Electromagnetic Compatibility and Interference Ltd.
+
+Tamaz Svanidze – Head Engineer of the Department for Observation of Electromagnetic Compatibility and Interference Ltd.
+
+Levan Ramishvili – Director of the Liberty Institute                                       
+
+Levan Tarkhnishvili – Eurasia Fund, Director of the Caucasus Studies Resource Centre
+Other platforms
+Medialiteracy Platform
+
+ComCom Analytics
+
+Media Academy
+
+SHEAMOTSME.GE
+
+

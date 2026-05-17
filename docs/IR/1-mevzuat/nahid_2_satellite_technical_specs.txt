@@ -1,0 +1,249 @@
+Nahid 2 Satellite Awaiting Launch
+The head of the Iranian Space Research Institute recently announced that the Nahid 2 satellite is awaiting launch, adding that the Pars 2 satellite will also be placed in the launch queue soon, and the construction of the "Pazhoohesh" satellite series has begun.
+News ID: 86283Publish Date: 08 June 2025 - 14:07 - 30August 2646
+TEHRAN (Defapress) - The Nahid 2 satellite is a telecommunications microsatellite designed for telecommunication missions in LEO orbit and for developing sensitive subsystem technology for GEO telecommunication satellites. This satellite is capable of performing multiple missions, which are defined in two categories: primary and secondary.
+
+ 
+
+Nahid 2 Satellite Awaiting Launch
+
+ 
+
+Primary missions focus on the development and testing of essential technologies, including orbital transfer testing using mono-propellant propulsion and achieving an operational life of 2 years. Independent GPS-free radio positioning testing, attitude torque application testing using S&F telecommunication propulsion, radiation measurement (dosimetry), and simultaneous telephone communication testing are considered secondary missions.
+
+ 
+
+The Nahid 2 satellite is cube-shaped and powers itself using solar arrays on its body. This satellite utilizes a three-axis attitude control subsystem with a pointing accuracy of 3 degrees RMS in each direction, based on its defined mission requirements. Telecommunication links for Nahid 2 operate in S, KU, UHF, and VHF frequency bands, and a combination of active and passive thermal control is used to manage the temperature of critical subsystems like propulsion.
+
+ 
+
+Telecommunication Missions of Nahid 2 Satellite:
+
+ 
+
+Primary Strategic Goals:
+
+ 
+
+Orbital transfer using chemical propulsion for the first time in Iran
+Application of attitude torque using warm gas propulsion for the first time in Iran
+Achieving an operational life of 2 years in space and testing satellite platform subsystems for proper functioning
+GPS-independent radio positioning with the ability to extract TLE
+Tracking and controlling the positioning of a maneuvering space mission
+Improving pointing accuracy to 1 to 3 degrees
+ 
+
+Secondary Strategic Goals:
+
+ 
+
+Store & Forward telecommunication with support for 254 users with a complex and novel protocol
+Simultaneous telephone communication testing by satellite in the KU link
+Radiation measurement (dosimetry)
+Establishing secure communication between tracking devices and the mission control center
+ 
+
+Technical Specifications of Nahid 2 Telecommunication Satellite: 
+
+ 
+
+No.
+
+Title
+
+Specification
+
+1
+
+Satellite Lifespan
+
+2 years
+
+2
+
+Total Satellite Mass
+
+120 kg
+
+3
+
+Satellite Dimensions
+
+646464 cm
+
+4
+
+Injection Orbit Altitude
+
+500 km
+
+5
+
+Orbit Altitude after Orbital Transfer
+
+550 km
+
+6
+
+Injection Orbit Inclination
+
+56 Deg
+
+7
+
+Propulsion Type
+
+Chemical
+
+8
+
+Thrust Level
+
+1 N
+
+9
+
+Number of Thrusters
+
+4 and 4 spare
+
+10
+
+Telemetry and Telecommand Frequency
+
+UHF, VHF, S
+
+11
+
+TM/TC Transmission Rate
+
+32 kbps
+
+12
+
+Radiation Payload
+
+With cumulative measurement capability
+
+13
+
+Power Supply
+
+Combination of solar cells and battery
+
+14
+
+Average Power Consumption (Power)
+
+49 Watts
+
+15
+
+Solar Cell Type
+
+Multi-junction Gallium Arsenide
+
+16
+
+Panel Type
+
+Body-mounted
+
+17
+
+Battery Type
+
+Lithium-ion
+
+18
+
+Thermal Control
+
+Semi-active using water heaters
+
+19
+
+Positioning Accuracy with TLE
+
+One kilometer in 24 hours
+
+20
+
+Stability Type
+
+Three-axis
+
+21
+
+Pointing Error
+
+1 to 3 degrees RMS in each direction
+
+22
+
+Payload Operating Frequency
+
+X, KU, UHF
+
+23
+
+Complex encryption and authentication in telecommand, telemetry, and some payload links
+
+ 
+ 
+
+Nahid 2 Subsystems: 
+
+ 
+
+Structure and Trolley:
+
+The cross-shaped structure with a high strength-to-weight ratio has been designed using an isolator to reduce vibrational loads. This design has resulted in a reduction in the satellite's structural weight despite the high density of its constituent elements. Additionally, a special trolley with unique capabilities, such as rotation around coordinate axes and the presence of an isolator to reduce loads from transportation, has been built for this satellite.
+
+Propulsion:
+
+One of the satellite's missions is to achieve chemical propulsion technology and orbital maneuvers. To achieve this mission, a propulsion subsystem has been designed for Nahid 2, which performs orbital transfer from an altitude of 500 km to 550 km using chemical propulsion with a thrust level of 1 Newton, with 4 thrusters and 4 reserve thrusters. The implementation of the single-component chemical propulsion system and its integration with the structure is a new experience in satellite manufacturing within the country.
+
+Thermal Control:
+
+Multi-layer insulation, colored coatings, heaters, sensors, washers, and liners, along with the thermal control board, form the thermal control subsystem in the Nahid 2 satellite. Given the dangers associated with freezing and temperature increases in chemical propellants, the thermal control of Nahid 2 is of special importance for maintaining satellite safety. Multiple heaters are used to maintain acceptable temperatures for propellant and pressurant tanks. Also, a significant temperature increase occurs at the thruster locations, which are controlled using heat shields.
+
+ 
+
+Nahid 2 Satellite Awaiting Launch
+
+Power:
+
+The power subsystem, combining gallium arsenide solar cells and a lithium-ion battery, provides approximately 35 watts of average power consumption for the satellite. The satellite's solar arrays are designed in 4 body-mounted panels, placed on honeycomb substrates. Charger boards, power switch boards, power relay boards, main and auxiliary converters, and power distribution boards are housed in the power electronics box, providing a successful combination for powering this satellite.
+
+Payload Communications:
+
+Nahid 2 satellite's communication links include the main and auxiliary telemetry and telecommand communication links in the S frequency band, and the positioning data transmission link in the VHF frequency band. This VHF link is also used as a second auxiliary downlink for telemetry communication. Furthermore, this satellite has a ranging signal transmission link for radio positioning in the S frequency band. The uplink in the store-and-forward payload in the UHF frequency band is also used as a second auxiliary telecommand link.
+
+Attitude and Orbit Determination and Control:
+
+The attitude and orbit determination and control subsystem, with three-axis stability and a pointing accuracy of 1 to 3 degrees RMS in each direction, is one of the most important subsystems of the Nahid 2 satellite. Attitude determination sensors include sun sensors, magnetometers, and rate gyros, and attitude control actuators include magnetic torquers and reaction wheels. These are guided by algorithms specific to this satellite to provide the best possible accuracy for Nahid 2. SIL, PIL, and HIL tests have been fully performed on this satellite's attitude determination and control subsystem, confirming its proper performance in Nahid 2.
+
+Command and Data Management:
+
+The Nahid 2 satellite's C&DH subsystem includes two main and auxiliary OBC boards and a supervisor board, located in the satellite's electrical box. The design and construction of this satellite's C&DH subsystem are based on Microsemi's SmartFusion2 chip. This chip is an FPGA with a Flash-based fabric structure that is inherently resistant to SEU errors. In addition to this, memory hardening in this chip has been achieved using various methods such as EDAC or TMR. The supervisor board is designed for redundancy management. The design of this board is based on Microsemi's ProASIC3 chip. Very low power consumption along with high reliability are the main features of this chip.
+
+Telephone Service Telecommunication Payload:
+
+The mission of the telephone signal relay telecommunication payload is to establish communication between two ground stations when they are on a common horizon in the Ku frequency band. This mission lays the initial strategic foundations for Iran's achievement of geostationary telecommunication satellites.
+
+Store and Forward Telecommunication Payload:
+
+The mission of the store-and-forward payload is to establish satellite-based communication between 254 ground users in the UHF frequency band. The store-and-forward communication protocol in this payload is unique and novel in the world.
+
+Space Radiation Measurement Payload:
+
+Given the importance of understanding the space environment in terms of the type and amount of radiation, a radiation measurement (dosimeter) payload has been included in this project. The environment for which the dosimeter is designed is the LEO orbit. This payload can measure the amount of radiation reaching a unit area at an altitude of approximately 500 km over three years and provide this data to engineers in the country for use in designing future satellites.
+
+Ground Station:
+
+Due to the multiplicity of communication links in the Nahid 2 satellite, the ground stations are also numerous and dispersed, requiring a reliable ground network to maintain communication between these stations and ensure successful satellite operations. This system utilizes both fixed and mobile stations, as well as portable stations. These stations are capable of operations in KU, S, X, VHF, and UHF frequency bands and are collectively built in 6 fixed locations and one mobile station.
+
+Nahid 2 Satellite Awaiting Launch
+
+Recently, the head of the Iranian Space Research Institute stated that the Nahid 2 satellite is in the launch queue, and said: "Soon the Pars 2 satellite will also be in the launch queue, and the construction of the 'Pazhoohesh' satellite complex has begun."

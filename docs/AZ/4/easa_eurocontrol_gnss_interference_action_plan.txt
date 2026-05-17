@@ -1,0 +1,30 @@
+EASA and EUROCONTROL publish joint Action Plan to ensure safe operations during GNSS interference events
+25 Mar 2026
+Suggested 
+Login or register to stay informed
+Extra
+Related Content
+Get notified via email alerts
+GNSS report coverCOLOGNE/BRUSSELS, March 26, 2026 — The European Union Aviation Safety Agency (EASA) and EUROCONTROL published a joint Action Plan designed to strengthen the safety and resilience of European aviation operations amid the growing challenge of Global Navigation Satellite System (GNSS) interference.
+
+GNSS provides aircraft with precise positioning, navigation and timing information that is essential for a wide range of functions. Interference with the signals has become a regular occurrence, in particular on the edge of conflict zones, and poses a threat to safety. The Action Plan focuses on maintaining safety in the near term while limiting impacts on airspace capacity and containing the threat of GNSS interference. It sets out short, mid and longer-term measures to mitigate the threat with harmonised operational procedures and phraseologies and to strengthen the robustness of GNSS‑based operations by clearly defining who needs to act, and by when.
+
+“While the potential threat to aviation safety from GNSS interference has so far been mitigated by short-term actions such as raising pilot awareness, it is clear that more needs to be done,” said Florian Guillermet, EASA Executive Director. “This Action Plan lays out and prioritises short, mid and longer-term actions and, importantly, also assigns roles to the various aviation actors. By working together with EUROCONTROL and pooling our expertise, we have been able to create a strong plan that will enable the wider sector to come together to counter this threat.” 
+
+“GNSS interference remains a significant and evolving challenge for European aviation, making today’s Action Plan an important step forward in our collective response,” said Raúl Medina, Director-General, EUROCONTROL. “The Action Plan concretely supports our Member States and aviation partners as we work together to ensure the evolution and resilience of aviation’s critical infrastructure – one of the core goals of EUROCONTROL’s Trajectory 2030 strategy. I welcome the strong cooperation and close coordination with EASA and all our partners across the aviation sector on this Plan, which demonstrates our shared commitment to safety, and aims at delivering tangible benefits for the network, operators and passengers by making GNSS‑based operations more robust.”
+
+
+Key Elements of the Joint Action Plan
+The Action Plan is built on several core pillars designed to strengthen Europe’s ability to detect, manage and mitigate GNSS interference.
+
+Through joint monitoring and data-sharing, EASA and EUROCONTROL aim to establish a common, validated operational picture of GNSS interference events across Europe, enabling more accurate detection, reporting and situational awareness. By pooling expertise and operational data, the two organisations will deepen their understanding of interference patterns, operational impacts and associated safety risks, with the aim of delivering consistent and harmonised guidance to air navigation service providers (ANSPs), airlines, and national authorities to ensure rapid and aligned responses to interference incidents.
+
+In close partnership, EASA and EUROCONTROL will develop updated operational guidance for flight crews and air traffic controllers to help them manage disruptions effectively and maintain safe operations in degraded navigation environments and join forces and expertise for investigations into ongoing GNSS interference.
+The two organisations will also promote improved mechanisms for timely information exchange through Member States, ensuring that events with both civil and military dimensions are addressed in a coordinated and transparent manner to minimise disruption and preserve airspace capacity.
+
+The Action Plan envisages close collaboration with A/C manufacturer and avionics industry to support the development of more robust, interference‑resilient avionics solutions over the longer term. 
+It addresses the concerns expressed in a letter sent on June 6, 2025 by 13 EU Member States to the European Commission that called for immediate and coordinated European action to address the growing number of Radio Frequency Interference (RFI) events affecting GNSS‑based systems. The Action Plan also integrates proposals and guidance from international partners including the International Civil Aviation Organization (ICAO), and the International Air Transport Association (IATA).
+
+
+Background
+GNSS enables more efficient flight paths, reduces fuel consumption, and supports the implementation of Performance-Based Navigation (PBN), which allows aircraft to fly more direct routes and operate safely in areas with limited ground-based infrastructure. However, the growing challenge of RFI – whether intentional (jamming or spoofing) or unintentional – poses a threat to the resilience of these systems. The most severe interference typically occurs near conflict zones, but GNSS performance may be affected well beyond these areas. Although aircraft can operate safely without GNSS, disruptions can reduce resilience and the continuity of operations.

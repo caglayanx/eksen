@@ -1,0 +1,12 @@
+**/node_modules/
+**/.next/
+**/.venv/
+**/venv/
+**/__pycache__/
+*.pyc
+.env*
+chroma_db/
+global_connectivity_regulation_docs/
+*.pdf
+*.sst
+*.node

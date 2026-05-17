@@ -1,0 +1,72 @@
+Fees
+For the provision of services under General Authorization, you must pay fees as follows.
+
+Administrative fee for submitting a registration declaration
+You are required to pay a fee in the following cases: 
+
+Upon submitting the initial registration declaration: 300 Euro.
+Upon submitting a modifying declaration, if it pertains exclusively to the registration of new services: 100 Euro.
+A fee is not due when submitting a declaration for changes in information or ceasing the provision of electronic communication activities. 
+
+Annual administrative fee: Calculation - Process
+Fee calculation method – Payment deadline
+
+By July 1 of each year, at the latest, you must pay the annual administrative fee concerning the previous year. The fee statement shall be created automatically through the eRegistry on April 1 of each year and you shall receive a relevant notice via e-mail, at the electronic address of the administrator of eRegistry.
+
+Τhe fee is calculated based on the table below.
+
+Zone of total annual gross revenue (R) subject to fees (in euro)
+Rate of administrative fees per zone
+Obligation to submit a statement of revenue or a statement of payment of fees
+R ≤ 150.000
+0
+A statement of payment of fees to be submitted by 01/07 of each year
+150.000 < R ≤ 250.000.000
+0,0025
+250.000.000 < R ≤ 750.000.000
+0,004
+750.000.000 < R
+0,0005
+In detail, annual administrative fees (Regulation on General Authorizations, Article 10, paragraph 3 – available in Greek) shall be based on the total gross annual revenue generated from the provision of public communications networks or publicly available electronic communications services under a General Authorization, certified by the statutory auditor/accountant signing the annual financial statements of the undertaking. Where it is not required to publish financial statements signed by a certified auditor/accountant, the statement about the provider’s total gross revenues shall be certified by the provider’s Head of Finance (or another person entrusted with similar tasks) and the legal representative.  
+
+From the total gross annual revenue, subsidies received by providers in respect of their participation in European or national programs shall be deducted, as well as any expenditures for call termination fees to the extent that those are attributed to third parties.
+
+Payment of fees
+
+Payment of the annual administrative fees shall be made by deposit in one of the following bank accounts held by EETT.
+
+In the “Reason of Payment” field of the deposit slip, you must enter the undertaking’s Tax Identification Number (TIN) and indicate that payment has been made on account of “E/C General Authorization Fees”.
+
+ALPHABANK
+IBAN: GR 68 0140 3420 3420 0200 2002 535
+EFG Eurobank Ergasias
+IBAN: GR 8002 6002 70000 310 200 1131 44
+NBG National Bank of Greece
+IBAN: GR 6101 1071 000000 710 50 7000 70
+PIRAEUS BANK
+IBAN: GR 1001 720 13000 501 3033 720 885
+Statement of payment of fees
+
+The payment of fees must be accompanied by the relevant fee statement, submitted exclusively through eRegistry, and the necessary accompanying documents referred to in Annex A (available in Greek) of the Regulation on General Authorizations (available in Greek), without prior written notice by EETT.
+
+Important note:
+The date specified for the payment of annual administrative fees shall be the payment due date.
+A fee statement must also be submitted in case that the first year of the General Authorization term does not coincide with the calendar year.
+Submit a fee statement, along with necessary documents, even in case you are not required to pay fees.
+Payment of fees in installments
+
+It is possible to pay the annual administrative fees in installments, as follows:
+
+Payment of at least 30% of the administrative fees:  By July 1 of each year,
+The remaining amount is paid:
+In 6 equal monthly installments. 
+On the last day of each month. The first payment shall take place on the last day of July of each year.
+Taking into account the specific circumstances of each case and following a reasoned request by the person concerned, EETT may, in exceptional circumstances, decide to determine otherwise the amount and number of installments. Upon payment of the annual administrative fees in installments, default interest shall also be levied on the debtor, which shall be calculated on the basis of amounts paid after July 1. In case of non-compliance with the above deadlines, the provider must pay the total amount due, including default interest, by December 31. In addition, in the event of failure to meet the above deadlines, EETT may apply the provisions of Articles 137 and 138 of Law 4727/2020.
+
+Important note:
+In the event of failure to submit a fee statement for more than 2 financial years, EETT shall, without further notice, consider de-registration. If the provider fails to comply by September 30, EETT shall proceed without notice to the deletion of the person from the registry of electronic communication network and service providers.
+
+Surcharge
+
+Interest shall be levied on the surcharge, as determined by an Act issued by the Governor of the Bank of Greece, and published in the Official Government Gazette. This surcharge shall be calculated on the unpaid amount for each day of delay in payment and until the date of redemption. In the event of failure to meet the deadline of July 1, EETT may apply the provisions of Articles 137 and 138 of Law 4727/2020. 
+

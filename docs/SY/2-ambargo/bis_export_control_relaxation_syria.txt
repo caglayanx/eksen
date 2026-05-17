@@ -1,0 +1,65 @@
+At Long Last, BIS Relaxes Export Controls for Syria
+September 4, 2025 Kay C. Georgi , Megan Barnhill Share This Page Email LinkedInXFacebook
+After a three month wait, the US Department of Commerce’s Bureau of Industry and Security (BIS) has finally caught up with the US Department of the Treasury’s Office of Foreign Assets Control (OFAC) in relaxing restrictions on trade with Syria, but this time in the export control world.
+
+
+Read our alert on Syria sanctions here.
+
+BIS’ regulation, which was published in the September 2 Federal Register and became effective on the same date, achieves the relaxation by:
+
+Creating a new license exception, Syria Peace and Prosperity (SPP), for exports and reexports of EAR99 items to Syria.
+Expanding other license exceptions available for Syria, most notably, by adding Syria as an eligible destination for license exception Consumer Communications Devices (CCD).
+Liberalizing the licensing policy to presumption of approval for commercial end uses that support economic and business development in Syria or that support the Syrian people and providing for a case-by-case review for other license applications.
+Bonus points to the regulation writers: the regulation is short and to the point, occupying only seven (count them!) pages in the Federal Register. If only the forthcoming rewrite of BIS’s AI Diffusion rule can be similarly succinct and easy to read!
+
+Below, we look at each of the three points and what to watch out for.
+
+New License Exception SPP
+Under the rule, “License Exception SPP authorizes the export or reexport of all items subject to the EAR designated EAR99 to Syria.” Now that is a license exception that is hard to summarize not because it is too complicated, but because it is too short. The regulation states that SPP does not authorize exports and reexports that “otherwise require a license under any part 744 end-use or end-user control, including under § 744.8 for transactions involving persons designated on OFAC’s Specially Designated Nationals and Blocked Persons {“SDN”} List with certain identifiers specified under § 744.8(a)(1), unless authorized by OFAC or exempt.” In other words, you still have to screen for restricted end-uses and restricted end-users, which would include OFAC’s SDNs and Entity List entities under Part 744 as well as denied parties. You should make sure that your items are in fact EAR99 before exporting them to Syria. Reviewing your prior self-classifications or submitting a classification request to BIS (or a refresher if your CCATs are old) is a good idea, and happily BIS is still in the business of issuing CCATs!
+
+Expanded License Exceptions
+License Exception CCD
+This license exception was not previously available for Syria, but it is now. It notably does not contain the problematic restriction that is present for Cuba, Belarus, and Russia that states the items must be “to or for the use of independent non-governmental organizations.” Since EAR99 items can already go to Syria under license exception SSP discussed above, license exception CCD adds consumer items like our smart phones and laptops that are controlled for anti-terrorism (AT) reasons. As with license exception SPP, you must still screen the transaction against the end-use and end-user controls in Part 744, which are not eligible for license exception CCD.
+
+Items that can now be exported to Syria under CCD are as follows:
+
+Consumer computers, tablets, and peripherals including microphones, speakers, and headphones designated EAR99 or classified under Export Control Classification Numbers (ECCN) 5A992.c or 4A994.b.
+Mobile phones, including cellular and satellite telephones, personal digital assistants, and subscriber information module (SIM) cards, accessories for such devices and similar devices classified under ECCNs 5A992.c or 5A991 or designated EAR99; drivers and connectivity software for such hardware designated EAR99 or classified under ECCN 5D992.c.
+Monitors classified under ECCN 5A992.c or designated EAR99.
+Printers, including multifunctional printers, classified under ECCN 5A992.c or designated EAR99.
+Keyboards, mice, and similar devices designated EAR99.
+Batteries, chargers, carrying cases, and accessories for the equipment described in paragraphs (b)(1) through (5) of this section that are designated EAR99.
+Consumer “information security” equipment, “software” (except “encryption source code”), such as firewalls, virtual private network clients, antivirus, user authentication, password managers, identification verification, and peripherals classified under ECCNs 5A992.c or 5D992.c or designated EAR99.
+Consumer “software” (except “encryption source code”) classified under ECCNs 4D994, 5D991, or 5D992.c or designated EAR99 to be used for equipment described in paragraphs (b)(1) through (16) of this section.
+Consumer disk drives and solid-state storage equipment classified under ECCN 5A992 or designated EAR99.
+Graphics accelerators and graphics coprocessors designated EAR99.
+Modems, network interface cards, routers, switches, and WiFi access points, designated EAR99 or classified under ECCNs 5A992.c or 5A991; drivers, communications, and connectivity software for such hardware designated EAR99 or classified under ECCN 5D992.c.
+Network access controllers and communications channel controllers classified under ECCN 5A991.b.4, 5A992.c, or designated EAR99.
+Memory devices classified under ECCN 5A992.c or designated EAR99.
+Digital cameras (including webcams) and memory cards classified under ECCN 5A992 or designated EAR99.
+Television and radio receivers, set top boxes, video decoders, and antennas, classified under ECCNs 5A991, 5A992, or designated EAR99.
+Recording devices classified under ECCN 5A992 or designated EAR99.
+Commodities described under 3A991.p or 4A994.l.
+Batteries, chargers, carrying cases, and accessories for the equipment described in paragraphs (b)(8) through (17) of this section that are designated EAR99.
+License exception RPL can now be used to authorize the export and reexport of one-for-one replacement parts, components, accessories, and attachments for previously exported equipment or other end items in accordance with §740.10(a). Notably, however, 740.10(b), which is for servicing and replacement, continues to remain unavailable for Syria. Exporters need to proceed with caution using RPL because:
+
+The exports must “not support the Syrian police, military, or intelligence sensitive end users or uses pursuant to supplement no. 2 to 742.”
+RPL itself contains tricky restrictions. For example, since Syria is still in Country Group E:1, no replacement parts, components, accessories, or attachments may be exported to Syria if the commodity to be repaired is an “aircraft” (as defined in § 772.1 of the EAR) or is controlled for national security (NS) reasons. One wonders whether this restriction (and a couple more hidden in 740.10(a)) were intended to continue to apply to Syria.
+If the part you are replacing got to Syria illegally, you will need a special permission called a General Prohibition 10 waiver from BIS to proceed.
+License exception TMP has been expanded for Syria. In addition to items for use by the news media in § 740.9(a)(9), it now includes technology pursuant to the provisions in § 740.9(a)(3); containers pursuant to the provisions in § 740.9(a)(7); exports to a US person’s foreign subsidiary, affiliate, or facility abroad pursuant to § 740.9(a)(10); and personal protective ‘‘equipment” pursuant to the provisions of § 740.9 (a)(11)(ii).
+
+License exception GOV is expanded beyond items for personal or official use by personnel and agencies of the US government to also include exports, reexports and transfers (in country) to ‘‘Cooperating Governments and the North Atlantic Treaty Organization’’ pursuant to the provisions of § 740.11(c), and for items for international inspections under the Chemical Weapons Convention pursuant to § 740.11(d) of the EAR.
+
+License exception TSU continues to authorize operation technology and software, sales technology, and software updates pursuant to the terms of § 740.13(a), (b), or (c) of the EAR, with the amendment adding only § 740.13(g) — copies of technology previously authorized for export to the same recipient.
+
+License exception AVS is substantially expanded from only authorizing foreign flagged, owed, or operated civil aircraft to be reexported to Syria on temporary sojourn. AVS now authorizes the temporary export of US-registered civil aircraft and vessels, as well as the temporary reexport of US and foreign-registered civil aircraft and vessels, to Syria on temporary sojourn, pursuant to the terms of § 740.15(a) through (d) of the EAR. This authorization is not available where the export, reexport, or transfer (in-country) will support the Syrian police, military, or intelligence end-users or end uses pursuant to Supp 2 to 742. In other words, we may be seeing US airlines make the leap to fly to Damascus if they can overcome security and other concerns.
+
+Spare parts (EAR99 and AT only) too: Interestingly, spare parts can also be exported to aircraft in Syria, subject to the AVS restrictions, provided they are designated as EAR99 or controlled solely for AT reasons. Helpfully, BIS added a note to paragraph (b)(4) of AVS to clarify that “ECCNs 2B999, 3A991, 4A994, 5A992 (except for .z), and 9A991 are treated as ECCNs controlled exclusively for AT reasons” for purposes of license exception AVS.
+
+License exception BAG is unchanged, so individuals leaving the United States can still take personally owned items as personal baggage, as long as the requirements contained in § 740.14(a) through (d) are met.
+
+Liberalization of Licensing Policy
+If BIS decides to start issuing export licenses again in the normal course of business, a day we hope will be coming soon, then BIS will presumably issue licenses for exports to Syria because there is a “presumption of approval review policy for commercial end uses that support economic and business development in Syria or that support the Syrian people, including through the improvement or maintenance of telecommunications, water supply and sanitation, power generation, aviation, or other civil services that support peace and prosperity in Syria without making a significant contribution to the military potential of Syria or the ability of Syria to support acts of international terrorism.” All other license applications will be reviewed on a case-by-case basis taking into account the license policies applicable for the reasons of control, but also “to determine whether the items will be used in a manner consistent with US national security and foreign policy purposes, including to promote peace and prosperity in Syria.” It is recommended that any license applications include a well thought out letter of explanation describing how the exports will support economic and business development in Syria or the Syrian people.
+
+Conclusion
+In summary, for EAR99 items, the coast is mostly clear. Be sure your items are actually EAR99, of course, and screen end uses and end-users (and their owners) carefully. License exception CCD is also broadly available for items enumerated in that license exception. However, it is critical to ensure that your items actually fall into those descriptions and ECCNs, and screen end-uses, end-users, and their owners carefully. For other license exceptions, a more careful analysis may be required. If your item still needs a license, all hope is not lost. You might actually get one if BIS starts issuing licenses and you can make a good case that the items you want to export or reexport will support economic and business development in Syria or the Syrian people. So long Syrian sanctions (and some export controls)!

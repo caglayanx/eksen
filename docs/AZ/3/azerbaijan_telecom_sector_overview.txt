@@ -1,0 +1,61 @@
+Resilient Networks and Future Ambitions in Azerbaijan’s Telecom Sector
+
+Azerbaijan, located at the crossroads of Eastern Europe and Western Asia, is known not only for its rich oil reserves and cultural heritage but also for its evolving mobile telecommunications sector. While the telecom industry plays a significant role in the country’s non-oil GDP, its overall progress has been slowed by years of political instability, civil unrest, and systemic corruption.
+
+
+Despite these challenges, Azerbaijan has made meaningful strides in expanding mobile connectivity and strengthening its 4G infrastructure. Mobile penetration reached 100% as early as 2011, though growth has largely stagnated since. However, mobile operators are steadily extending their LTE networks across the country. This expanded coverage, along with increased access to faster data services, is expected to fuel modest growth in both mobile usage and mobile broadband adoption in the coming years, particularly as users shift from 3G to 4G. While 5G deployment is still in its early stages, the current LTE infrastructure remains sufficient to meet most of the population’s demand for high-speed data and broadband.
+
+According to the latest data from GSMA Intelligence, Azerbaijan had approximately 12.2 million cellular mobile connections at the start of 2025. It's important to note that this number exceeds the country’s total population, a common occurrence in mobile markets globally. Many individuals maintain multiple mobile connections, often separating personal and professional use. The growing availability of eSIM technology has further simplified managing multiple lines on a single device.
+
+In fact, mobile connections in Azerbaijan were equivalent to 118% of the country’s population as of January 2025. This ratio highlights the widespread reliance on mobile services and suggests a mature market in terms of connectivity access.
+
+Looking at year-on-year trends, the number of mobile connections grew by 370,000 (or 3.1%) between early 2024 and the beginning of 2025. This moderate but consistent growth reflects a combination of factors, including population mobility, the rise of connected devices (like smartwatches and tablets), and continued expansion into underserved regions.
+
+
+Notably, 96.5% of all mobile connections in Azerbaijan are now classified as “broadband connections,” meaning they operate over 3G, 4G, or 5G networks. However, it's worth clarifying that a broadband-capable connection doesn’t automatically equate to active mobile internet usage. Some plans, particularly lower-cost or enterprise bundles, may provide only voice and SMS services without significant data allowances. Therefore, while broadband-capable connections indicate the potential for mobile internet access, they don't necessarily reflect actual usage patterns.
+
+Therefore the mobile network coverage is generally good, with 4G and 3G networks estimated to have 100% coverage in 2025, according to Statista.  Opensignal's Global Network Excellence Index ranks Azerbaijan 65th overall, with an 81% 4G/5G availability.
+
+The country has three major GSM operators: Azercell, Bakcell, and Nar Mobile.
+
+
+
+Established in 1996 as a joint venture between the Azerbaijani government and Turkcell, Azercell is today the country’s foremost mobile provider, commanding around 48–51% market share with over 5 million subscribers.
+
+As of early 2024–2025, its 4G network spans roughly 94–98% of both population and territory. In 2023 alone, Azercell installed 300+ new LTE base stations and modernized 1,600+ existing sites, boosting 4G coverage by ~10% and doubling average internet speeds. This ambitious project extended connectivity into reclaimed Karabakh areas, with over 150 base stations deployed in key cities such as Shusha, Agdam, Khojaly, and more.
+
+From 2017 onward, Azercell has actively incorporated solar-powered base stations, notably in Karabakh, where 35 stations derive ~60% of their energy from renewables. In 2024, it joined the GSMA Climate Action Taskforce and became the official telecom partner for COP29 in Baku—underlining its commitment to sustainability efforts.
+
+In 2022, Azercell launched Azerbaijan's first 5G test zone at Baku’s Fountain Square and in select locations. They are also actively collaborating with GSMA Advanced programs, focusing on AI, IoT, and network security training for staff. Currently the 5G network remains in test/trial mode, focused on public hotspots like Fountain Square.
+
+
+
+Bakcell serves over 3 million subscribers, positioning it as Azerbaijan's second-largest mobile operator. The operator has been named “Azerbaijan’s Fastest Mobile Network” by Ookla multiple times, three consecutive years from 2018–2019, again in 2021, and most recently for Q1–Q2 2022 . Their extensive network of ~9,000 base stations ensures coverage for 99.9% of the population and ~92.6% of the country's area.
+
+Bakcell was among the first in Azerbaijan to introduce eSIM and VoLTE, often bundled with high-speed 4G infrastructure .Their LTE network rollout has been rapid: by mid‑2019, they had installed nearly 3,000+ 4G base stations, covering 78% of the population and 52% of the land area.
+
+In February 2023, Bakcell officially launched its 5G test network in several central Baku locations: Fountain Square, Khagani Garden, and Deniz Mall. The pilot supports Huawei, Xiaomi, OnePlus, Poco, and Vivo devices, offering 5 GB of free trial data per hour. The trial is fully embedded within existing data packages, no added charges for users testing 5G.
+
+Through its affiliate, AzerTelecom, Bakcell is contributing to the “Digital Silk Way” fiber-optic corridor: improving regional connectivity across the Caucasus and Central Asia, this aims to build a high-capacity fiber-optic corridor bridging Europe and Asia. The infrastructure includes both terrestrial and subsea routes through key countries like Azerbaijan, Kazakhstan, Turkmenistan, Georgia, and Türkiye. 
+
+
+
+Nar (Azerfon) is the third-largest mobile operator in Azerbaijan with around 2.2 million subscribers.
+It offers approximately 97–98.5% territory coverage and serves 99.7–99.8% of the population.
+
+As of early 2025, Nar operates over 7,300–8,500 base stations, including more than 1,620–1,800 LTE sites, up from just 1,000 LTE bases in 2019. In the last year alone, 685 new 4G stations and 150+ 3G stations were added. As of recent reports, 91.5% of the population is within 4G network reach, and active 4G users total around 850,000 (about one in three Nar users).
+
+Although Nar has not launched public 5G trials, it’s building out LTE infrastructure aggressively, strengthening its capacity ahead of future 5G deployment. Infrastructure expansion, especially in liberated regions and transport corridors, provides a solid foundation for next-gen services. With its strong customer satisfaction, regional reach, and ongoing network upgrades, Nar is well-positioned to enter the 5G space once spectrum becomes available and demand accelerates.
+
+Azerbaijan’s mobile market reflects a blend of resilience, innovation, and regional ambition. With three strong national operators, increasing investments in LTE and 5G, and efforts to bridge the digital divide, the country is well on its way to a more connected future.
+
+
+As demand for faster, more reliable mobile services continues to grow, Azerbaijan’s telecom sector will likely play a central role in shaping its broader digital transformation.
+
+By Zaffareen Khan at July 22, 2025 
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+Labels: 4G, 5G, Company Ookla, Company OpenSignal, Country Azerbaijan, Operator Azercell, Operator Bakcell, Operator Nar, Region CIS, Technology eSIM

@@ -1,0 +1,62 @@
+Regulation of satellite systems
+You are here Skip Navigation LinksITU > Homepage > mediacentre > Backgrounders > Regulation of satellite systems
+
+Share
+Share on FacebookShare on twitterShare on LinkedInShare via email
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​NON Geostationary satellite systems BCKGROUNDER
+
+ 
+عربي
+简体中文
+English
+Français
+Русский
+Español
+ Save language (?)
+Disclaimer & Feedback
+ 
+Overview
+Among the numerous applications of satellite systems, a large and growing one is the provision of Internet services. Technological advances mean that satellites can provide broadband communications to large areas (including entire regions or even continents) at minimal extra marginal cost. Satellites also support communication services in remote and rural areas and are generally resilient to terrestrial natural disasters, such as earthquakes or tsunamis. Satellite systems can provide continuous and consistent service with very wide geographic coverage, including to ships and aircraft (Earth stations in motion or ESIM).
+While satellites are shrinking in size, their typical data rates are increasing, enabling satellite systems to offer and transmit increasingly advanced services across more locations, including telemedicine for hospitals and educational services for schools. Growing numbers of smaller and lower cost satellites are used to transmit services in constellations, rather than from larger, higher cost single satellites.
+These trends help explain the rising uptake of satellite-based communication systems. However, geostationary orbital (GSO) slots, as well as space in general, are becoming increasingly crowded. With GSO demand still heating up, radio-interference between services becomes a growing risk, while concerns also arise over space debris.
+ITU oversees the allocation of the radio frequencies required to meet the continuously evolving needs of the satellite industry. For example, the previous World Radiocommunication Conference (WRC-19) adopted regulatory and technical conditions under which the frequency bands for space-to-Earth (17.7‑19.7 gigahertz; GHz) and Earth-to-space (27.5-29.5 GHz) can be used by earth stations in motion (ESIM) communicating with geostationary space stations in the fixed-satellite service.
+ITU also manages a cooperative satellite frequency registration process. ​
+Opportunities
+
+Technological advances mean that satellites can provide broadband communications to large areas (including entire regions or even continents) at minimal extra marginal cost. Satellites are also very useful for providing communication services to remote and rural areas and are often resilient to terrestrial natural disasters on land, such as earthquakes or tsunamis. Satellite systems provide continuous and consistent service with very wide geographic coverage, including to earth stations affixed to ships and aircraft, which are hence referred to as Earth stations in motion (ESIMs). 
+
+There has been a recent explosion in popularity of satellite-based communication systems. Satellite systems are being used more and more for Earth observation and collection of geospatial data. Measurements and images taken by satellite systems can be used for: climate change modelling, weather monitoring and prediction, and tracking of human and animal population distributions. Satellite imagery and data can be used to monitor the retreat of the polar ice caps, the movement of glaciers, rises in sea level, movement of wildlife and many other applications as well. Satellite data are used to predict, manage, and learn about many different phenomena affecting the Earth and its systems and inhabitants. 
+
+Thanks to reductions in the costs of single satellites, satellite 'constellations' are now used to provide services, rather than higher-cost single satellites, increasing overall system resilience.
+
+Challenges
+ 
+The ITU Radio Regulations and ITU Constitution (No. 197 of Article 45) provide that “all stations, whatever their purpose, must be established and operated in such a manner as not to cause harmful interference to the radio services or communications of other Members, recognized operating agencies, or other authorized operating agencies which carry on a radio service, and which operate in accordance with the Radio Regulations".  
+
+In part due to the growth of satellite constellations, space generally, and GSO slots more specifically, are becoming increasingly crowded. There is therefore greater potential for radio-interference between services, as well as space junk or space debris, and the issue of what to do with all the satellites, as they reach the end of their working life – retrieving obsolete satellites and launchers is becoming a bigger issue.
+
+ITU‘s contribution: Coordination and harmonization
+
+International allocation of radio frequencies 
+
+In order to meet the ever-growing radio spectrum needs of the satellite sector (and of all other sectors using radio frequencies), ITU oversees regular updates of the Radio Regulations, the international treaty governing the use of radio frequencies worldwide, including outer space. 
+
+These regular updates are performed through the convening of World Radiocommunication Conferences every four years. 
+
+Managing cooperative access 
+
+ITU manages a cooperative system of international coordination on the radio frequencies used by satellites, aimed at preventing such systems from interfering with each other or with other radio systems. It oversees a satellite frequency registration process whereby an ITU Member State sends a description of the radio frequencies planned to be used in a project of its satellite operators. 
+
+The ITU Radiocommunication Bureau examines the conformity of such descriptions with the Radio Regulations and publishes descriptions and results of ITU's examinations to all other ITU Member States. 
+
+Member States concerned that a project might affect their existing systems, including those submitted to ITU as plans, can then contact the initiating ITU Member State to bilaterally discuss technical solutions to ensure that both systems can coexist without interfering with each other. During these bilateral discussions, both parties should make every possible mutual effort to overcome the difficulties, in a manner acceptable to the parties concerned. 
+
+The result is a cooperative system managed and overseen by ITU as the UN specialized agency for information and communication technologies (ICTs), and by the ITU Radiocommunication Bureau in particular, whereby ITU Member States collaborate to allow satellite systems to operate harmoniously in outer space, free from radio interference. 
+
+Jurisdiction, frequency assignments, and milestones 
+
+Licensing is a matter under the jurisdiction of ITU's Member States. They license satellite systems, with each state ensuring that its own satellite operators follow the rules and conditions contained in the Radio Regulations, in the outcomes of relevant bilateral discussions, and in any specific domestic rules. Each Member State is free to enact such domestic rules, as long as those do not contradict the international commitments it has undertaken by signing the Radio Regulations. 
+
+'Radio-frequency spectrum warehousing' refers to the practice of 'reserving' radio frequencies and associated orbital resources without putting them into use, thereby preventing other parties from using those resources. To avoid the warehousing of radio frequencies, the frequencies assigned in response to a satellite filing must be brought into use within a specified timeframe (currently seven years from the date of receipt of the request) or else their validity expires. 
+
+As a further measure to discourage 'radio-frequency spectrum warehousing', ITU Member States at the last World Radiocommunication Conference (WRC-19) – held in Sharm el-Sheikh, Egypt, between 28 October and 22 November 2019 – approved a milestone-based process for non-GSO satellite constellations. Accordingly, such systems are now required to achieve 10% deployment within two years (after the end of the current regulatory period for bringing them into use), 50% within five years, and complete constellation deployment within seven years.

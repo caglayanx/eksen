@@ -1,0 +1,126 @@
+Mitigating the Effects of GNSS Jamming and Spoofing
+Compromised navigation information is an ongoing problem
+GPS spoofing
+© AIN
+Share
+Post
+Share
+Print
+Copy
+Email
+By Matt Thurber • Editor-in-Chief
+February 3, 2025
+In what may be the first civil aviation accident involving GPS jamming, an Azerbaijan Airlines Embraer 190 crashed in December after reportedly being hit by debris from an exploding anti-aircraft missile near its destination in Grozny. While it appears that local GPS jamming against drones was occurring, it is not known whether this contributed to the accident. However, blockage of navigation signals likely was not helpful during an extremely stressful situation for the unfortunate pilots, both of whom died, along with a flight attendant and 35 passengers.
+
+Jamming and spoofing of global navigation satellite system (GNSS) signals continues to be a serious issue, and while it seems to be confined to conflict zones, it can happen anywhere to any aircraft that uses GNSS for navigation. GPS is a type of GNSS, as are other systems such as Russia’s Glonass, China’s Beidou, and Europe’s Galileo. 
+
+Spoofing occurs when a GNSS receiver is tricked into calculating a false position by equipment transmitting from the ground, which can show the aircraft in a different location than its actual position and prompt the navigation system to send the aircraft off the desired course. Jamming blocks the GNSS signals from being received and essentially renders the receiver useless until the jamming is switched off or the aircraft exits the area.
+
+The problem with spoofing and jamming isn’t just the effect on the navigation capability of the aircraft but on equipment that is dependent on accurate GNSS signals, according to an FAA presentation from early last year. Spoofing and jamming can also harm communications systems including satcom and controller-pilot data link communications (CPDLC); ADS-B and -C surveillance; terrain awareness and warning systems (TAWS) and enhanced ground proximity warning systems (EGPWS); autoflight systems; and support equipment such as electronic flight bags or tablet apps. Pilots have reported autopilot failures, spurious EGPWS and TAWS warnings, and other anomalous avionics behavior such as clock changes due to jamming and spoofing.
+
+L3Harris Flight Data Analytics has been studying jamming and spoofing activity after airline and business aviation customers brought up issues they saw with spurious changes in flight information captured by flight operations quality assurance (FOQA) data from onboard flight data recorders.
+
+“We started helping them understand what the potential causes could be at that time, based on their flight plan,” explained Mitesh Patel, general manager of L3Harris Flight Data Analytics. “Our role is to analyze flight data coming off the aircraft, correlate that with pilot reports, and then try and make sense of any unusual events, anything that would have compromised flight safety, to help the airlines with their safety management processes.”
+
+L3Harris customers include airlines and business aviation operators such as Luxaviation. Data from airlines flows in at a much faster rate, with airline customers logging 28,000 to 30,000 flights a day, far more than L3Harris’ business aviation clients. However, data from business aviation operators tends to be more “eventful,” according to Patel, because they fly to many more airports that airlines don’t use.
+
+Before the influx of jamming and spoofing events began about 18 months ago, there were sporadic reports, but then they became more prevalent, he said, “especially in conflict zones. [Customers] wanted us to analyze the data in more detail to understand what was causing those issues. Could we detect GPS spoofing based on the data that was captured within the flight data recorders?”
+
+The L3Harris team wrote algorithms to analyze the data so analysts could see where spoofing was occurring. Older aircraft have limited data sets, so a combination of extrapolation of data and tapping other data sources was needed, Patel explained, “to try and correlate those data items to see if there's any deviation from one to the other, which could then potentially indicate a spoofing or a jamming situation.”
+
+Ultimately, having this information allows operators to develop standard operating procedures (SOPs) for dealing with jamming and spoofing and to update pilot training. “So when it actually happens in real life, pilots are more prepared,” he said. “They can identify something that's happening and then correlate that with their training to take the right actions.”
+
+L3Harris has a pilot training division, and it has developed spoofing scenarios for flight simulator programs. “We set them up as malfunctions on non-normal-condition situations. Then those would be introduced during a flight profile from one airport to another, introducing the startle factor. The pilots deal with it, and effectively it trains them so that they’re more confident when it does happen in real life. They know exactly how to deal with the situation and they’re familiar with the SOPs and the non-normal procedures as well.”
+
+The data that L3Harris captures also supports its efforts to inform customers about where jamming and spoofing are likely to occur, so they can share this information with their pilots. One airline customer uses that information to brief pilots on jamming and spoofing risks and also to develop alternate routes to avoid high-risk areas, Patel explained.
+
+“Avionics companies and OEMs are working towards finding solutions,” he said, “looking at encrypting GPS signals, providing more directional antennas, multiple ways of ensuring that the GPS signal itself doesn’t get compromised. There’s a lot of work already in progress around mitigating GPS jamming and spoofing. We’re continuously working with our airline partners and customers to support them along that route.
+
+“One of the areas that I was surprised at that gets affected is CPDLC and FANS, because they have date and time stamps. Once the GPS time stamps are compromised, then systems that use that information can be compromised as well. If applications that have a license key that expires at a certain date, if a GPS date is shifted to a point where a license becomes invalid, then those applications potentially could not be available to the pilots.”
+
+A problem that also could occur with a date shift is that the recorded data might show up as a flight done in the past or future, and analysts then need to find other data to recalibrate the flight to its proper parameters.
+
+“It’s amazing how modern aircraft are so complex and use GPS signals for things that you never have thought about previously,” Patel said.
+
+Mitigating Jamming and Spoofing
+The FAA issued a Safety Alert for Operators (SAFO 24002) on Jan. 24, 2024, giving advice to pilots on operations in a GNSS-disrupted environment. In its recommendations, the FAA urges pilots to assess potential risk before departure, including checking notams, and determining if there are alternative arrival and approach procedures at the destination and alternate airports that use non-GNSS nav sources.
+
+Operators should also consult with manufacturers of their aircraft and avionics for specific advice on detecting and mitigating jamming and spoofing.
+
+While in flight, the FAA advises: “Be vigilant for any indication that the aircraft’s GPS/GNSS is being disrupted; verify the aircraft position by means of conventional navaids, when available; assess operational risks and limitations linked to the loss of GPS/GNSS capability, including any onboard systems requiring inputs from a GPS/GNSS signal; ensure navaids critical to the operation for the intended route/approach are available; remain prepared to revert to conventional instrument flight procedures; promptly report disruption to ATC, followed by a detailed written report post-flight at: https://www.faa.gov/air_traffic/nas/gps_reports.”
+
+OpsGroup Spoofing Report
+Last August, flight operations advisory provider OpsGroup convened a group of 950 people from airlines, business jet operators, air traffic control organizations, regulators, GPS specialists, and aviation organizations to study the spoofing problem and in September published the “GPS Spoofing Final Report.” In the report, OpsGroup extracted a crew guidance document that expands on the FAA’s advice and provides more detailed instructions on how to prepare for and handle spoofing encounters.
+
+While the advice came from “best practices collected from the flight crew participating in the GPS Spoofing Workgroup, as well as OEM and other expert input,” OpsGroup noted, “nothing here is intended to replace or override company procedures, OEM advice, or legal requirements.”
+
+OpsGroup GNSS jamming and spoofing
+
+OpsGroup split its advice into four key operational areas: preflight, pre-spoofing, within spoofing area, and recovery. 
+
+Preflight
+GPS spoofing should be treated as a full briefing, OpsGroup recommends. As such, operators should evaluate likely entry and exit points of spoofing areas, using online spoofing maps such as the SkAI Data Services Live GPS Spoofing and Jamming Tracker Map at spoofing.skai-data-services.com. L3Harris has also identified high-risk areas based on its captured data.
+
+SkAI Data Services Live GPS Spoofing and Jamming Tracker Map
+The SkAI Data Services Live GPS Spoofing and Jamming Tracker Map
+The briefing should include plans for dealing with spoofing, assessment of the availability of ground-based navaids, expected equipment effects and spoofing/jamming indications, and how spoofing might affect required navigation performance (RNP) requirements later in the flight, especially during arrivals and approaches.
+
+Pilots should review EGPWS impact and decide how to respond to alerts in cruise, whether to use terrain override, and how to handle alerts during an instrument approach. “Be fully prepared for unusual EGPWS behavior.” In addition to the FAA list above, synthetic vision may revert to an ordinary attitude direction indicator.
+
+A key consideration should be contingency planning—for example, if engine failure or depressurization occurs within a spoofing area. A diversion inside a spoofing area may require daylight VMC, and pilots need to be aware of minimum safe altitudes.
+
+While some avionics vulnerabilities can be generalized, pilots should to know how jamming/spoofing affects their aircraft, including the difference between conventional and hybrid inertial reference systems (IRS). A hybrid IRS uses GPS information to update the IRS position, and it should be possible to deselect IRS hybrid mode.
+
+OpsGroup suggests making sure pilots synchronize a mechanical watch with a known source before departure in case of clock failure in the avionics.
+
+Notams are not a reliable source of information, even though the FAA suggests checking them for jamming/spoofing information. “Don’t rely purely on notams to give comprehensive warnings of spoofing locations,” OpsGroup said.
+
+If departing from an airport inside a spoofing area, turning off the GPS receiver before aligning the IRS can help mitigate spoofing. “Carry out a manual alignment. Be vigilant for automatic capturing of the spoofed GPS position during alignment.”
+
+Arriving at a spoofed-area airport, pilots should avoid using GPS/RNP arrival or approach procedures. 
+
+Pre-spoofing
+Once aloft, preparations should commence 45 minutes or 300 nm before entering a spoofing area. It may be wise to decline direct routings and remain on airways that are based on ground navaids. 
+
+Pilots should go over the plan for spoofing encounters and be ready for avionics effects, especially an EGPWS alert while in cruise.
+
+Pilots should monitor estimated position uncertainty (EPU) and actual navigation performance (ANP). The GPS status can be viewed on the flight management system’s sensor/pos ref page. “Anticipate jamming to commence before spoofing: the typical spoofing encounter now commences with a period of GPS jamming, which makes the GPS receiver more vulnerable to spoofing.”
+
+OpsGroup recommends monitoring position with a separate external GPS, and this can be connected to a tablet running moving-map software. It may help to keep the external GPS’ antenna in sight of satellites but shielded from the horizon by the airframe structure, to prevent the jamming/spoofing equipment from affecting its receipt of satellite signals. “Any disagreement between aircraft GPS and external GPS will suggest spoofing.”
+
+There are alerting apps and systems that can warn pilots of spoofing activity, and OpsGroup recommends using products such as NaviGuard.
+
+Aircraft Performance Group’s (APG) NaviGuard is a free GPS anomaly detection app for Apple iOS devices. NaviGuard offers users a way to verify position data using traditional navaids such as VOR and NDB. Potential spoofing zones are updated with EASA data. The app is meant to be a tool for situational awareness and position verification, not navigation. Additionally, the app allows users to export data, whether saving it to their own devices or reporting anomalies to regulators.
+
+Send Solutions offers an add-on to its Airtext+ Iridium satcom that can not only identify and report GPS jamming or spoofing but also help pilots stay on the proper track when such incidents cause faulty navigation inputs, using Iridium information. In addition to the Airtext+ and Iridium antenna, Send’s Spoof Proof system requires an annunciator, either carried on board as temporary equipment or installed in the flight deck.
+
+By monitoring at least three GNSS constellations and Arinc 429 flight management system (FMS) labels, Airtext+ can compare the aircraft’s FMS position to a known good position and detect jamming and spoofing quickly, then notify the crew via the annunciator that there is a questionable navigation status.
+
+At the same time, Airtext+ sends a text or email message to air traffic control and designated entities such as a company’s dispatchers to notify about the corrupted position information. Finally, Airtext+ uses the last known qualified position to provide a high-resolution dead reckoning position that pilots can input into the FMS to facilitate continued navigation.
+
+OpsGroup also recommends that pilots listen for air traffic controllers or other pilots reporting jamming/spoofing, keep a current navlog in case of the need to navigate by dead reckoning, and watch the GPS date on the avionics sensors page. “A date change is a strong indicator of likely problems recovering the GPS receiver post-spoofing.”
+
+The last steps for pre-spoofing preparation include deselecting GPS input to the FMS; deselecting IRS hybrid mode to remove GPS input; setting the clock to “internal” or manual, “if possible, to protect CPDLC and other datalink functions”; inhibiting EGPWS look-ahead mode to “prevent false alerts at cruise altitude;” and stow the head-up display.
+
+Inside Spoofing Area
+Jamming usually occurs before spoofing, but once spoofing sets in, a variety of failures will occur, ranging from rapid increases in EPU or ANP, position-disagree cautions for GPS and IRS or FMS position, clock time changes, transponder failure with an “ATC FAIL” message, sudden autopilot turns, and ADS-B failure. Synthetic vision may revert, wind indications shift or show illogical data, sensor page GPS information shows unusual values, and EGPWS calls out an audible “PULL UP” warning while in cruise.
+
+Pilots might see a difference in a handheld GPS position compared to the avionics, a dramatic difference between GPS 1 and 2, and ACARS messages from operations centers that see unusual values in downlink messages.
+
+OpsGroup spoofing profile
+
+It’s important during a jamming/spoofing encounter to continue flying the airplane and then check that systems settings are set for spoofing protection, according to OpsGroup. Pilots might want to fly on heading mode while troubleshooting and should report the event to ATC and request vectors or confirmation of correct position and track.
+
+Using non-GNSS navigation is important, if available, and OpsGroup suggests inhibiting EGPWS terrain alerts, which “avoids false ‘PULL UP’ etc. warnings triggered by spoofed altitude data.”
+
+Recovery
+After exiting the spoofing area, the sensor page should show the time and date back to normal, groundspeed consistent with true airspeed and nav display, and consistent position and altitude, according to OpsGroup. GPS can be reselected for input to the FMS but, if allowed, the GPS receiver and GPWS computer should be reset.
+
+If some systems are still failed, let ATC know. CPDLC mandates can be disregarded and this won’t result in denial of airspace entry, OpsGroup explained. It’s still a good idea to use conventional navaids for arrivals and approach procedures, including at alternate airports.
+
+Note that there could be false EGPWS alerts because these are GPS-based, but radar-altimeter-based GPWS is not affected by spoofing. 
+
+“Brief intentions for different alert types.” The briefing should also include possible alerts that might occur on final approach. 
+
+Post-flight
+The final steps for a jamming/spoofing encounter should be to report what happened to the applicable authority, note the anomalies in the tech log, and send a report about any unusual system impacts to the avionics manufacturer.

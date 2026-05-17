@@ -1,0 +1,58 @@
+13 EU member states demand action on GNSS interference
+By Tracy Cozzens
+Published June 11, 2025
+Save Article
+Share
+Image: Tryaging/iStock/Getty Images Plus/Getty Images
+Image: Tryaging/iStock/Getty Images Plus/Getty Images
+Listen to this content
+Failed to load audio. Please try again.
+
+
+0:00
+0:00
+
+15
+
+15
+
+1x
+13 member states of the European Union have called on the European Commission to respond to interference with GNSS in EU countries.
+
+The interference originates in Russia and Belarus, as a result of the ongoing war with Ukraine.
+
+The ministers for transport from 13 countries urged immediate and coordinated action in response, reports the Baltic Times. The joint letter was signed by the ministers of Lithuania, Latvia, Estonia, Germany, Slovakia, Finland, Slovenia, the Czech Republic, Italy, the Netherlands, Spain, Denmark and Romania.
+
+In the joint letter, the ministers emphasize that since 2022, two types of interference to GNSS — jamming and spoofing — have been observed in the airspace of the Baltic Sea Region, posing a threat to various modes of transport, particularly civil aviation and maritime navigation.
+
+The General Secretariat of the Council of the EU responded to the joint letter with an outline of potential actions.
+
+Evaluate and coordinate the possibility to suspend the right to Russia and Belarus in the ITU to register the use of radio resources while GNSS interference is in progress. The lack of procedural legislation cannot be an excuse for deliberately contravening the spirit of the ITU Constitution and its general principles, endangering public health and life, without suffering any consequences.
+Based on good practice of EU and NATO cooperation on critical undersea infrastructure, enhance civil-military coordination mechanisms among Member States for shared monitoring, data exchange, and possible response to GNSS interference. Explore the benefits of dual use of various equipment and measures to combat the risks caused by GNSS interference.
+Intensify RFI monitoring by eligible national organizations and bodies, e. g. national regulator, police and military, and aggregate non-classified information on observed RFI to a publicly available near real-time monitoring and alert service on European level.
+Accelerate the deployment of interference resistant GNSS services, especially the antispoofing features that are part of the Galileo program, e. g. authentication and/or encryption of signals exchanged between stations and user equipment.
+Reassess the current reliance on GNSS-based navigation and develop resilient Positioning, Navigation and Timing (PST) services by deploying alternative or complementary systems, including ground-based legacy solutions. Simultaneously, upgrade and modernize conventional navigation infrastructures to serve as robust backups.
+Promote industry-manufacturer collaboration for mitigation tools and updates. Support operator-level reviews of backup system readiness, ensuring non-GNSS alternatives are usable and practiced. 2 TREE2B 9198/25 EN
+Draw the attention of critical infrastructure operators and unmanned system manufacturers to the risks that may arise from interference with GNSS.
+Develop action plans for different domains (space, aviation, maritime, telecommunications) to avoid potential duplication of efforts and coordinate short-term and long-term measures at EU and national level.
+Continue cooperation with all relevant stakeholders (ITU, ICAO, IMO, EASA, EMSA, IATA, EUROCONTROL). These actions, among others, could contribute to building the overall resilience of the critical infrastructure and strengthening safety and security in Europe.
+The letter highlights the urgent need to accelerate the deployment of interference-resistant GNSS services, enhance the overall resilience of critical infrastructure, and strengthen safety and security across Europe.
+
+“The current security environment demands a unified response to hybrid threats posed by hostile regimes, as well as close cooperation to strengthen Europe’s preparedness and resilience,” said Lithuanian Transport and Communications Minister Eugenijus Sabutis.
+
+“Disruptions to GNSS signals have a direct impact on strategic sectors such as transport, energy, and telecommunications. To prevent potential incidents, we must act swiftly and decisively at the European Union level — not individually, but in a coordinated manner,” Sabutis said.
+
+The interference is not random incidents but a systematic, deliberate action by Russia and Belarus, which can be used as a hybrid attack on strategic radio spectrum, essential for modern technology, regional safety and security, particularly in transportation.
+
+Furthermore, the ministers call on the EU to increase diplomatic efforts to address the interference and apply pressure on the responsible parties, including legal action against responsible individuals and entities involved in the deliberate interference with GNSS signals, to enhance European safety and security.
+
+“So far, the attempts by several Member States to address the problem have not brought any more tangible results,” the EU General Secretariats said. “Therefore, it is necessary to increase diplomatic efforts to address the interference and put the pressure on the responsible parties.”
+
+The ministers propose intensifying radio frequency monitoring and enhance civil-military coordination mechanisms among Member States for shared monitoring, data exchange and possible response to GNSS interference. They also advocate for accelerating the deployment of interference-resistant GNSS services, particularly the anti-spoofing features of the Galileo program, and for upgrading and modernizing conventional navigation infrastructure.
+
+Reports of increased interference include:
+
+Lithuania: starting from 556 cases in March 2024 to 890 in October 2024 and 1185 in January 2025
+Latvia: 790 cases in October 2024 to 1288 cases in January 2025
+Estonia: 1150 cases in October 2024 and 1085 cases in January 2025
+Poland: 1908 cases in October 2024 to 2732 cases in January 2025.

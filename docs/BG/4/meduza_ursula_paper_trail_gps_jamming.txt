@@ -1,0 +1,55 @@
+Ursula’s paper trail Reports of GPS jamming and analog navigation during a landing in Bulgaria raise questions about what actually happened aboard the E.U. chief’s plane
+September 3, 2025, 12:50 amSource: Meduza
+
+
+
+
+
+
+A business jet carrying Ursula von der Leyen at an air base in Romania, September 1, 2025  
+A business jet carrying Ursula von der Leyen at an air base in Romania, September 1, 2025  
+George Calin / Inquam Photos / Reuters / Scanpix / LETA
+On August 31, a plane carrying European Commission President Ursula von der Leyen lost its GPS signal outside the Bulgarian city of Plovdiv and the pilot was forced to use paper charts to land, according to reports published on September 1 by The Financial Times and CNN, both citing an anonymous source. However, aviation experts and flight data contradict key details of that account, particularly the claim that crews resorted to paper navigation charts.
+
+Von der Leyen was flying from Warsaw to Plovdiv to meet with Bulgarian Prime Minister Rosen Zhelyazkov and visit a munitions factory. Before her plane landed, “the whole airport area GPS went dark,” and the pilot circled in the air for about an hour before deciding to land using analog charts, one official told the FT. An anonymous source who spoke to CNN also described the crew’s need for paper maps when landing.
+
+“We can confirm there was GPS jamming, but the plane landed safe,” European Commission Deputy Spokesperson Arianna Podesta told POLITICO. She added that the Bulgarian authorities informed the European Commission that they suspect Russia’s involvement in the incident. While the Kremlin denies any involvement, Bulgaria’s interior minister told reporters that Europe has long ceased to believe Moscow’s statements.
+
+Bulgaria’s government said the crew was “offered an alternative landing procedure using ground-based navigation systems” after the GPS failure — referring to the instrument landing system (ILS), which relies on radio beacons along the runway. Bulgarian authorities did not mention landing “using paper maps.”
+
+Bulgaria’s aviation authority likewise made no reference to paper charts. The agency noted only that it has observed an uptick in GPS jamming and spoofing since February 2022, when Russia launched its full-scale invasion of Ukraine. “These disruptions interfere with signal reception, causing operational problems for aircraft and ground systems,” the agency explained.
+
+Although officially confirmed, the incident with von der Leyen’s plane — and more specifically the media coverage surrounding it — has elicited skepticism among specialists.
+
+First, GPSJAM — a platform that monitors aircraft navigation data to map possible GPS jamming — did not register any GPS signal interference over Plovdiv on August 31. Second, the flight tracking service Flightradar reported that von der Leyen’s aircraft transponder showed strong GPS signal quality from takeoff to landing. The service also refuted the FT’s claim that the plane circled above the airport for an hour. In reality, von der Leyen landed in Plovdiv just nine minutes later than scheduled.
+
+
+The most serious doubts concerned the claim reported by FT and CNN that the crew landed the plane using paper charts. In an interview with journalist Alexander Plushev, Airbus A320 pilot Mikhail Parkansky expressed confidence that von der Leyen’s flight crew did not use paper charts. “Most likely, they probably meant the charts pilots now keep on tablets. These used to be paper charts, but they’ve now been converted into electronic format,” Parkansky explained.
+
+Using LiveATC.net, a service that streams air traffic control communications from around the world, the Dutch aviation blog Feit of Fake obtained radio transmissions between von der Leyen’s jet crew and air traffic controllers and established that they did encounter GPS issues before landing, but used the instrument landing system mentioned in the Bulgarian government’s press release.
+
+Russia has long been accused of interfering with the GPS satellite navigation system, even before the full-scale war in Ukraine. Interference zones have been observed over Europe near the Black and Baltic Seas. In 2024, British Defense Secretary Grant Shapps encountered GPS jamming while returning from Poland following NATO exercises. In the spring of 2025, eight European countries filed complaints to the U.N. about Russian GPS jamming, naming the Kaliningrad region and the annexed Crimea as sources. Ukraine, too, uses satellite signal jamming devices.
+
+“Disruptions of this magnitude are the work of an army or a state. These are serious electronic warfare systems,” pilot Mikhail Parkansky told Plushev. He also emphasized that GPS failures do not constitute an emergency for pilots, who know how to respond in such situations.
+
+On September 2, Bulgarian Prime Minister Rosen Zhelyazkov revealed that his government would not conduct an investigation into von der Leyen’s flight difficulties. “This interference is not targeted at one or another aviation object. Such things happen daily,” he told reporters.
+
+Analysis by Meduza
+Modern civilian and business aircraft are equipped with redundant integrated navigation systems. One is the inertial reference system (IRS), which functions independently of a plane’s external sensors. A computer determines the aircraft’s position relative to a starting point by tracking its movements in space. These systems accumulate errors proportional to the distance flown, corrected by auxiliary sensor systems. Before GPS became widely available, the main correction system was a network of ground-based VOR/DME (VHF Omnidirectional Range/Distance Measuring Equipment) radio beacons that transmitted shortwave signals, allowing pilots to determine their course and distance to the beacon. Many airports use an additional set of ILS radio beacons at the final landing stage in poor weather conditions.
+
+The advent of GPS significantly improved navigation accuracy, which became increasingly important as air traffic density grew across many parts of the globe. Engineers developed a precision Area Navigation (RNAV) landing system using only satellite navigation signals.
+
+It is crucial to note that all of these navigation systems complement each other, but safe flights are still possible if one of them fails. Of course, there are challenges: in recent decades, aviation worldwide has come to rely increasingly on satellite navigation; GPS jamming creates difficulties and adds strain for pilots and air-traffic controllers — especially in crowded airspace or adverse weather. For example, in December 2024, an Azerbaijan Airlines aircraft was unable to land at Grozny due to GPS interference and issues using the VOR/DME navigation system. However, the plane crash was unrelated to this; the plane was accidentally shot down by Russian air defense missiles.
+
+Additionally, avionics have evolved: paper approach charts for specific airports have been almost entirely replaced by electronic versions. Even on older aircraft, Jeppesen chart databases are often loaded onto ordinary tablets.
+
+Ursula von der Leyen arrived in Plovdiv from Warsaw on a Falcon 900LX business jet. This aircraft is outfitted with state-of-the-art avionics and navigation, specifically the EASy II system. Among its features is a Jeppesen database — a comprehensive collection of airport approach charts — that can be viewed on the navigation system’s main display. The plane is equipped with every available advanced navigation system, ensuring extremely accurate positioning in space. No “paper maps” are used on the Falcon 900LX.
+
+GPS problems while landing at Plovdiv airport, which handles only a few planes daily and had favorable weather conditions at the time, likely imposed only modest additional demands on the pilots.
+
+
+
+
+
+
+

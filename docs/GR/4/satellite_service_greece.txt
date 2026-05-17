@@ -1,0 +1,37 @@
+Satellite service
+Satellite service involves the communication of terrestrial satellite stations with space satellite stations via a satellite radio links. Terrestrial satellite stations may be fixed, mobile or transportable [e.g. outside broadcast satellite stations (Satellite News Gathering-SNG – Fly Αway)].
+
+For fixed/transportable satellite links, the radio frequency bands provided for in the National Regulation on the Allocation of Radio Frequency Bands (NRFBA – available in greek) can be used under the conditions provided for in the Regulation on terms of use for radio spectrum. 
+
+Where an individual right of use is required for a specific band of radio frequencies, you need to follow the procedure described in the Regulation on the use and granting of rights to use individual radio frequencies or radio frequency bands under General Authorization (available in greek).
+
+Applications
+All applications for radio spectrum rights of use shall be submitted electronically through the Spectrum Management System, SMS, Web Portal:
+
+Granting new rights of use.
+Modification of an existing right.
+Revocation of an existing right.
+Modification of information (e.g. contact) of the right holder.
+Renewal/No Renewal of an existing right.
+Before submitting applications, you need to register at the SMS Web Portal.
+
+Please read the following instructions carefully on how to register and submit applications. Also consult the informational videos.
+
+Instructions for user registration and submitting applications on the SMS Web Portal
+Step by step instructions for registration at SMS
+Video for registration at SMS only for companies with greek VAT number (available in greek)
+Video for end users’ registration (available in greek)
+Video for application submission (Satellite)
+Video for master data management (available in greek)
+Declaration for user registration (availble in greek)
+For the categories of stations exempted from granting of individual rights of use for a radio frequency, you need to submit a relevant notification, before the station is put into operation.
+
+When the SMS was launched, new protocol numbers were assigned to the decisions of granting the rights of use of radio spectrum in force. The mapping list is available below:
+Satellite Service
+Fees
+For the use of radio spectrum in certain categories of satellite stations, you are required to pay fees. Fees are calculated based on the following Regulations (available in Greek).
+
+Fixed satellite service
+Mobile satellite service (2.1GHz): Amendment of Regulation on fees 2011
+Mobile satellite service (2.1GHz): Amendment of Regulation on fees 2017
+Earth Exploration Satellite Service

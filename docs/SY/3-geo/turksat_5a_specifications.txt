@@ -1,0 +1,26 @@
+
+Get Satbeams on your smartphone!
+
+ 	
+Turksat 5A
+Back to the list
+Satellite Name: Turksat 5A
+Status: active
+Position: 31° E (31° E)
+NORAD: 47306
+Cospar number: 2021-001A
+Operator: Turksat
+Launch date: 8-Jan-2021
+Launch site: Cape Canaveral SFS
+Launch vehicle: Falcon 9 v1.2
+Launch mass (kg): 3500
+Dry mass (kg):  
+Manufacturer: Airbus Defence and Space
+Model (bus): Eurostar-3000EOR
+Orbit: GEO
+Expected lifetime: 15+ years
+Call sign:  
+Beacon(s): 11696, 11686.5, 11705, 11698.6, 11699.4, 10950.2
+Details:
+42 Ku-band transponders covering Turkey, the Middle East, Europe and large parts of Africa
+Charts: list

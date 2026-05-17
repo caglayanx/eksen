@@ -1,0 +1,55 @@
+Counter‑drone technologies are evolving – but there’s no surefire way to defend against drone attacks
+Published: February 13, 2026 1.04am CET
+
+Share article
+
+
+Print article
+
+When the Federal Aviation Administration closed the airport in El Paso, Texas, and the airspace around it on Feb. 10, 2026, the cause was, ironically, the nearby use of a technology that could be key to keeping airports and airspace open and safe.
+
+According to news reports, Customs and Border Protection officials used a Department of Defense anti-drone laser weapon to target what they identified as a drone crossing the border from Mexico. The FAA closed the El Paso airport and airspace out of concern that the weapon inadvertently posed a threat to air traffic in the area.
+
+The targeted drone turned out to be a party balloon, though U.S. officials claim that drug cartels based in Mexico have flown drones at the U.S.-Mexico border. The episode highlights the need for counter-drone technologies, the state-of-the-art systems used by the U.S. military, and the challenges to safely and effectively countering drones, which are also known as uncrewed aircraft systems.
+
+I am an aerospace engineer and director of the Counter-UAS Center of Excellence at Oklahoma State University, where we develop and evaluate technologies to detect, identify and counter drone threats. The military laser weapon CBP that personnel used near El Paso is an example of one of three categories of counter-drone technologies: directed energy weapons. The other two are radio frequency jamming and kinetic, or physical, weapons like missiles and nets.
+
+The emerging threat
+Starting in 2015, the ISIS terrorist group modified commercial off-the-shelf drones to drop grenades and mortars on U.S. troops in Iraq and Syria, who had little way to combat the threat. This started the trend of modifying consumer drones for military purposes that continues to this day on the Russian-Ukrainian front lines.
+
+While military bases ostensibly have some protective capabilities, critical U.S. infrastructure such as airports and power plants have few methods to track, let alone defend against, drones. For example, in 2018, traffic at London Gatwick International Airport in the U.K. was shut down for three days because of an unidentified drone in the airport’s airspace. Hundreds of flights were canceled, affecting over 100,000 passengers.
+
+A weekly email with evidence-based analysis from Europe's best scholars
+Please enter your email...
+
+Get free newsletter
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Sites such as civilian and military airports, power plants and stadiums are vulnerable to drone flights, both from malicious and negligent operators. Drone flight over open stadiums such as those hosting upcoming FIFA World Cup soccer matches are banned by the FAA. But the ban wouldn’t prevent an errant civilian drone or a drone used in a terrorist attack from entering a stadium and potentially causing serious harm to spectators.
+
+A drone and a small airplane in the air near each other
+A drone flies near a small airplane in a test at Oklahoma State University. Jamey Jacob
+On June 1, 2025, Ukrainian forces deployed more than 100 “kamikaze” drones deep in Russian territory in an attack labeled Operation Spiderweb that damaged a significant portion of Russia’s bomber fleet. There is little stopping something like this from happening in the U.S.
+
+To address this threat, companies are evaluating numerous ways to track, identify and, most importantly, defeat drones and protect critical U.S. infrastructure. At present, however, there is no one-size-fits-all solution.
+
+Counter-drone technologies
+Radio frequency waves that both track and jam drones have become widely used in the Russia-Ukraine war. Like all remote control devices, drones use radio frequencies to control flight and monitor video coming from the drone camera. Detectors can track these radio frequency signals to determine a drone’s location.
+
+Devices that emit radio frequency signals can be used to block, or jam, communications between drones and their operators or send false, or spoofed, signals. Jamming or spoofing a drone typically causes it to enter into a “return to home” mode and leave the defended area. Radio frequency systems are helpful in situations where a low-impact response is required, because they prevent drones from completing their intended mission without causing physical damage to them.
+
+However, this doesn’t necessarily work if a drone is operating in a “run silent” mode by not transmitting information back to a remote operator. Similarly, jamming GPS can cause a drone to lose its ability to navigate using the satellite system, but this also blocks GPS signals for other users. Drones can also navigate without GPS, with less accurate techniques such as following terrain with cameras or the dead reckoning approach commonly used by pilots.
+
+Directed energy systems, on the other hand, use high-energy lasers or microwave beams to disable drones. These systems work by directing a concentrated beam of energy toward an incoming drone. A laser or microwave can heat components rapidly until the drone becomes inoperative. A laser can also disable a drone’s camera, disabling its surveillance capability. Additionally, because these systems use energy beams, they can engage multiple drones at once.
+
+However, fast-moving drones may be difficult for the weapons to target, and the cost of such systems makes them prohibitively expensive for widespread use.
+
+Kinetic systems involve physically intercepting drones to neutralize them. This category includes everything from net-carrying interceptor drones to traditional projectile weapons, such as firearms and missiles. Kinetic systems physically disable or capture drones, making them particularly useful in scenarios where it is necessary to quickly remove drones from sensitive areas or when the drone presents an immediate threat.
+
+However, because a damaged aircraft can crash in unpredictable locations, these systems may be more effective in battlefields where falling debris is less likely to cause unwanted damage on the ground.
+
+
+The U.S. military uses several counter-drone systems to defend against small drones.
+Swiss cheese safety
+Together, these three types of counter-drone technologies – radio frequency, directed energy and kinetic – provide a comprehensive tool kit for addressing the diverse threats posed by unauthorized drones. However, there is no single ideal solution to counter these threats.
+
+To maximize safety, the Swiss cheese model is often the best approach. In this analogy, each defensive strategy is a slice of the familiar holey cheese. While some threats may pass through a hole in one layer, the next layer can capture what passes through. This way, a drone making it through the weaknesses in one system can be defeated by the next slice of cheese.
